@@ -1,0 +1,13 @@
+{
+  "name": "brasileirao-feed",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Scheduled GitHub Action that snapshots real Brasileirão Série A standings/results into a static JSON file, so InvestBola's Supabase sync can fetch it over plain HTTP (same pattern as the Transfermarkt sync) without needing any hosted server or API key.",
+  "scripts": {
+    "fetch": "node scripts/fetch-brasileirao.mjs"
+  },
+  "dependencies": {
+    "campeonato-brasileiro-api": "^2.0.1"
+  }
+}

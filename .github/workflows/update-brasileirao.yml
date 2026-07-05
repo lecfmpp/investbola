@@ -1,0 +1,39 @@
+name: Update Brasileirão feed
+
+on:
+  schedule:
+    # Every 20 minutes. Public repos get unlimited free GitHub Actions minutes,
+    # so this is safe to run continuously without any billing concern.
+    - cron: '*/20 * * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install --no-package-lock
+
+      - name: Fetch latest Brasileirão data
+        run: npm run fetch
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/brasileirao.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update Brasileirão data snapshot"
+            git push
+          fi
