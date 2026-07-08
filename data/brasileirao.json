@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T17:54:29.009Z",
+  "updatedAt": "2026-07-08T19:27:07.918Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 19,
@@ -565,11 +565,30 @@
       "scoreAway": null
     },
     {
+      "id": 346542,
+      "round": 19,
+      "dateTime": "2026-07-22T19:30",
+      "status": "scheduled",
+      "venue": "Couto Pereira",
+      "home": {
+        "name": "Coritiba",
+        "shortName": "CFC",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "away": {
+        "name": "Palmeiras",
+        "shortName": "PAL",
+        "badge": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
+      },
+      "scoreHome": null,
+      "scoreAway": null
+    },
+    {
       "id": 346537,
       "round": 19,
       "dateTime": "2026-07-22T21:30",
       "status": "scheduled",
-      "venue": null,
+      "venue": "Cícero de Souza Marques",
       "home": {
         "name": "São Paulo",
         "shortName": "SAO",
@@ -636,25 +655,6 @@
         "name": "Remo",
         "shortName": "REM",
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
-      },
-      "scoreHome": null,
-      "scoreAway": null
-    },
-    {
-      "id": 346542,
-      "round": 19,
-      "dateTime": "2026-07-23T21:30",
-      "status": "scheduled",
-      "venue": "Couto Pereira",
-      "home": {
-        "name": "Coritiba",
-        "shortName": "CFC",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
-      },
-      "away": {
-        "name": "Palmeiras",
-        "shortName": "PAL",
-        "badge": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
       },
       "scoreHome": null,
       "scoreAway": null
