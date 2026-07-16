@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T21:27:44.685Z",
+  "updatedAt": "2026-07-16T22:34:48.823Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 19,
@@ -267,10 +267,10 @@
         "shortName": "BOT",
         "badge": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
       },
-      "points": 22,
-      "matches": 17,
+      "points": 23,
+      "matches": 18,
       "wins": 6,
-      "draws": 4,
+      "draws": 5,
       "losses": 7,
       "goalsFor": 31,
       "goalsAgainst": 31,
@@ -290,10 +290,10 @@
         "shortName": "VIT",
         "badge": "https://s.sde.globo.com/media/organizations/2025/12/18/Vitoria_2025.svg"
       },
-      "points": 22,
-      "matches": 17,
+      "points": 23,
+      "matches": 18,
       "wins": 6,
-      "draws": 4,
+      "draws": 5,
       "losses": 7,
       "goalsFor": 21,
       "goalsAgainst": 25,
@@ -308,6 +308,29 @@
     },
     {
       "position": 14,
+      "team": {
+        "name": "Santos",
+        "shortName": "SAN",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      },
+      "points": 22,
+      "matches": 19,
+      "wins": 5,
+      "draws": 7,
+      "losses": 7,
+      "goalsFor": 26,
+      "goalsAgainst": 29,
+      "goalDifference": -3,
+      "recentForm": [
+        "D",
+        "W",
+        "L",
+        "L",
+        "W"
+      ]
+    },
+    {
+      "position": 15,
       "team": {
         "name": "Internacional",
         "shortName": "INT",
@@ -327,29 +350,6 @@
         "W",
         "L",
         "L"
-      ]
-    },
-    {
-      "position": 15,
-      "team": {
-        "name": "Santos",
-        "shortName": "SAN",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
-      },
-      "points": 21,
-      "matches": 18,
-      "wins": 5,
-      "draws": 6,
-      "losses": 7,
-      "goalsFor": 26,
-      "goalsAgainst": 29,
-      "goalDifference": -3,
-      "recentForm": [
-        "D",
-        "W",
-        "L",
-        "L",
-        "W"
       ]
     },
     {
@@ -382,10 +382,10 @@
         "shortName": "VAS",
         "badge": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
       },
-      "points": 20,
-      "matches": 18,
+      "points": 21,
+      "matches": 19,
       "wins": 5,
-      "draws": 5,
+      "draws": 6,
       "losses": 8,
       "goalsFor": 22,
       "goalsAgainst": 29,
@@ -473,7 +473,7 @@
       "id": 346536,
       "round": 19,
       "dateTime": "2026-07-16T19:30",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Nilton Santos (Engenhão)",
       "home": {
         "name": "Botafogo",
@@ -485,14 +485,14 @@
         "shortName": "SAN",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 0,
+      "scoreAway": 0
     },
     {
       "id": 346543,
       "round": 19,
       "dateTime": "2026-07-16T19:30",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Barradão",
       "home": {
         "name": "Vitória",
