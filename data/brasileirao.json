@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T22:28:50.991Z",
+  "updatedAt": "2026-07-17T23:31:21.045Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 19,
@@ -60,24 +60,47 @@
         "shortName": "FLU",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
       },
-      "points": 31,
-      "matches": 18,
+      "points": 32,
+      "matches": 19,
       "wins": 9,
-      "draws": 4,
+      "draws": 5,
       "losses": 5,
       "goalsFor": 28,
       "goalsAgainst": 23,
       "goalDifference": 5,
       "recentForm": [
-        "L",
         "D",
         "W",
         "L",
+        "D",
         "D"
       ]
     },
     {
       "position": 4,
+      "team": {
+        "name": "Bragantino",
+        "shortName": "RBB",
+        "badge": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+      },
+      "points": 30,
+      "matches": 19,
+      "wins": 9,
+      "draws": 3,
+      "losses": 7,
+      "goalsFor": 25,
+      "goalsAgainst": 19,
+      "goalDifference": 6,
+      "recentForm": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "D"
+      ]
+    },
+    {
+      "position": 5,
       "team": {
         "name": "Athletico-PR",
         "shortName": "CAP",
@@ -100,43 +123,20 @@
       ]
     },
     {
-      "position": 5,
-      "team": {
-        "name": "Bragantino",
-        "shortName": "RBB",
-        "badge": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
-      },
-      "points": 29,
-      "matches": 18,
-      "wins": 9,
-      "draws": 2,
-      "losses": 7,
-      "goalsFor": 25,
-      "goalsAgainst": 19,
-      "goalDifference": 6,
-      "recentForm": [
-        "W",
-        "L",
-        "W",
-        "W",
-        "W"
-      ]
-    },
-    {
       "position": 6,
       "team": {
         "name": "Bahia",
         "shortName": "BAH",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
       },
-      "points": 26,
-      "matches": 17,
-      "wins": 7,
+      "points": 29,
+      "matches": 18,
+      "wins": 8,
       "draws": 5,
       "losses": 5,
-      "goalsFor": 25,
+      "goalsFor": 27,
       "goalsAgainst": 23,
-      "goalDifference": 2,
+      "goalDifference": 4,
       "recentForm": [
         "D",
         "L",
@@ -332,29 +332,6 @@
     {
       "position": 15,
       "team": {
-        "name": "Grêmio",
-        "shortName": "GRE",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
-      },
-      "points": 21,
-      "matches": 18,
-      "wins": 5,
-      "draws": 6,
-      "losses": 7,
-      "goalsFor": 20,
-      "goalsAgainst": 23,
-      "goalDifference": -3,
-      "recentForm": [
-        "D",
-        "L",
-        "D",
-        "W",
-        "L"
-      ]
-    },
-    {
-      "position": 16,
-      "team": {
         "name": "Santos",
         "shortName": "SAN",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
@@ -372,6 +349,29 @@
         "L",
         "L",
         "W",
+        "L"
+      ]
+    },
+    {
+      "position": 16,
+      "team": {
+        "name": "Grêmio",
+        "shortName": "GRE",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
+      },
+      "points": 21,
+      "matches": 19,
+      "wins": 5,
+      "draws": 6,
+      "losses": 8,
+      "goalsFor": 20,
+      "goalsAgainst": 24,
+      "goalDifference": -4,
+      "recentForm": [
+        "L",
+        "D",
+        "W",
+        "L",
         "L"
       ]
     },
@@ -401,6 +401,29 @@
     {
       "position": 18,
       "team": {
+        "name": "Mirassol",
+        "shortName": "MIR",
+        "badge": "https://s.sde.globo.com/media/organizations/2026/07/17/MIrassol.svg"
+      },
+      "points": 19,
+      "matches": 18,
+      "wins": 5,
+      "draws": 4,
+      "losses": 9,
+      "goalsFor": 19,
+      "goalsAgainst": 24,
+      "goalDifference": -5,
+      "recentForm": [
+        "D",
+        "L",
+        "W",
+        "L",
+        "W"
+      ]
+    },
+    {
+      "position": 19,
+      "team": {
         "name": "Remo",
         "shortName": "REM",
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
@@ -422,29 +445,6 @@
       ]
     },
     {
-      "position": 19,
-      "team": {
-        "name": "Mirassol",
-        "shortName": "MIR",
-        "badge": "https://s.sde.globo.com/media/organizations/2026/07/17/MIrassol.svg"
-      },
-      "points": 16,
-      "matches": 17,
-      "wins": 4,
-      "draws": 4,
-      "losses": 9,
-      "goalsFor": 18,
-      "goalsAgainst": 24,
-      "goalDifference": -6,
-      "recentForm": [
-        "W",
-        "D",
-        "L",
-        "W",
-        "L"
-      ]
-    },
-    {
       "position": 20,
       "team": {
         "name": "Chapecoense",
@@ -452,13 +452,13 @@
         "badge": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
       },
       "points": 9,
-      "matches": 17,
+      "matches": 18,
       "wins": 1,
       "draws": 6,
-      "losses": 10,
+      "losses": 11,
       "goalsFor": 17,
-      "goalsAgainst": 33,
-      "goalDifference": -16,
+      "goalsAgainst": 35,
+      "goalDifference": -18,
       "recentForm": [
         "L",
         "D",
@@ -511,7 +511,7 @@
       "id": 346535,
       "round": 19,
       "dateTime": "2026-07-17T20:00",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Maracanã",
       "home": {
         "name": "Fluminense",
@@ -523,14 +523,14 @@
         "shortName": "RBB",
         "badge": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 0,
+      "scoreAway": 0
     },
     {
       "id": 346539,
       "round": 19,
       "dateTime": "2026-07-17T20:00",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Maião",
       "home": {
         "name": "Mirassol",
@@ -542,8 +542,8 @@
         "shortName": "GRE",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 1,
+      "scoreAway": 0
     },
     {
       "id": 346540,
