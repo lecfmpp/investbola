@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T01:03:32.663Z",
+  "updatedAt": "2026-07-18T04:17:02.021Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 19,
@@ -56,47 +56,47 @@
     {
       "position": 3,
       "team": {
-        "name": "Bragantino",
-        "shortName": "RBB",
-        "badge": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+        "name": "Fluminense",
+        "shortName": "FLU",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
       },
       "points": 32,
       "matches": 19,
-      "wins": 10,
-      "draws": 2,
-      "losses": 7,
-      "goalsFor": 26,
-      "goalsAgainst": 19,
-      "goalDifference": 7,
+      "wins": 9,
+      "draws": 5,
+      "losses": 5,
+      "goalsFor": 29,
+      "goalsAgainst": 24,
+      "goalDifference": 5,
       "recentForm": [
+        "D",
+        "W",
         "L",
-        "W",
-        "W",
-        "W",
-        "W"
+        "D",
+        "D"
       ]
     },
     {
       "position": 4,
       "team": {
-        "name": "Fluminense",
-        "shortName": "FLU",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+        "name": "Bragantino",
+        "shortName": "RBB",
+        "badge": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
       },
-      "points": 31,
+      "points": 30,
       "matches": 19,
       "wins": 9,
-      "draws": 4,
-      "losses": 6,
-      "goalsFor": 28,
-      "goalsAgainst": 24,
-      "goalDifference": 4,
+      "draws": 3,
+      "losses": 7,
+      "goalsFor": 26,
+      "goalsAgainst": 20,
+      "goalDifference": 6,
       "recentForm": [
-        "D",
-        "W",
         "L",
-        "D",
-        "L"
+        "W",
+        "W",
+        "W",
+        "D"
       ]
     },
     {
@@ -511,7 +511,7 @@
       "id": 346535,
       "round": 19,
       "dateTime": "2026-07-17T20:00",
-      "status": "live",
+      "status": "finished",
       "venue": "Maracanã",
       "home": {
         "name": "Fluminense",
@@ -523,14 +523,14 @@
         "shortName": "RBB",
         "badge": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
       },
-      "scoreHome": 0,
+      "scoreHome": 1,
       "scoreAway": 1
     },
     {
       "id": 346539,
       "round": 19,
       "dateTime": "2026-07-17T20:00",
-      "status": "live",
+      "status": "finished",
       "venue": "Maião",
       "home": {
         "name": "Mirassol",
