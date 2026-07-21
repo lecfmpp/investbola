@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T21:36:44.012Z",
+  "updatedAt": "2026-07-21T22:34:14.706Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 19,
@@ -129,20 +129,20 @@
         "shortName": "BAH",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
       },
-      "points": 29,
-      "matches": 18,
+      "points": 30,
+      "matches": 19,
       "wins": 8,
-      "draws": 5,
+      "draws": 6,
       "losses": 5,
       "goalsFor": 27,
       "goalsAgainst": 23,
       "goalDifference": 4,
       "recentForm": [
-        "D",
         "L",
         "D",
         "L",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -217,6 +217,29 @@
     {
       "position": 10,
       "team": {
+        "name": "Atlético-MG",
+        "shortName": "CAM",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      },
+      "points": 25,
+      "matches": 19,
+      "wins": 7,
+      "draws": 4,
+      "losses": 8,
+      "goalsFor": 22,
+      "goalsAgainst": 23,
+      "goalDifference": -1,
+      "recentForm": [
+        "D",
+        "W",
+        "L",
+        "W",
+        "D"
+      ]
+    },
+    {
+      "position": 11,
+      "team": {
         "name": "Vitória",
         "shortName": "VIT",
         "badge": "https://s.sde.globo.com/media/organizations/2025/12/18/Vitoria_2025.svg"
@@ -232,29 +255,6 @@
       "recentForm": [
         "D",
         "L",
-        "W",
-        "L",
-        "W"
-      ]
-    },
-    {
-      "position": 11,
-      "team": {
-        "name": "Atlético-MG",
-        "shortName": "CAM",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
-      },
-      "points": 24,
-      "matches": 18,
-      "wins": 7,
-      "draws": 3,
-      "losses": 8,
-      "goalsFor": 22,
-      "goalsAgainst": 23,
-      "goalDifference": -1,
-      "recentForm": [
-        "W",
-        "D",
         "W",
         "L",
         "W"
@@ -549,7 +549,7 @@
       "id": 346540,
       "round": 19,
       "dateTime": "2026-07-21T19:30",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Arena MRV",
       "home": {
         "name": "Atlético-MG",
@@ -561,8 +561,8 @@
         "shortName": "BAH",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 0,
+      "scoreAway": 0
     },
     {
       "id": 346542,
