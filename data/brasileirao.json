@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T23:37:27.283Z",
+  "updatedAt": "2026-07-22T01:06:05.398Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 19,
@@ -129,47 +129,24 @@
         "shortName": "BAH",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
       },
-      "points": 29,
+      "points": 30,
       "matches": 19,
       "wins": 8,
-      "draws": 5,
-      "losses": 6,
-      "goalsFor": 27,
+      "draws": 6,
+      "losses": 5,
+      "goalsFor": 28,
       "goalsAgainst": 24,
-      "goalDifference": 3,
+      "goalDifference": 4,
       "recentForm": [
         "L",
         "D",
         "L",
         "W",
-        "L"
+        "D"
       ]
     },
     {
       "position": 7,
-      "team": {
-        "name": "Atlético-MG",
-        "shortName": "CAM",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
-      },
-      "points": 27,
-      "matches": 19,
-      "wins": 8,
-      "draws": 3,
-      "losses": 8,
-      "goalsFor": 23,
-      "goalsAgainst": 23,
-      "goalDifference": 0,
-      "recentForm": [
-        "D",
-        "W",
-        "L",
-        "W",
-        "W"
-      ]
-    },
-    {
-      "position": 8,
       "team": {
         "name": "Coritiba",
         "shortName": "CFC",
@@ -192,7 +169,7 @@
       ]
     },
     {
-      "position": 9,
+      "position": 8,
       "team": {
         "name": "São Paulo",
         "shortName": "SAO",
@@ -215,7 +192,7 @@
       ]
     },
     {
-      "position": 10,
+      "position": 9,
       "team": {
         "name": "Botafogo",
         "shortName": "BOT",
@@ -235,6 +212,29 @@
         "D",
         "L",
         "W"
+      ]
+    },
+    {
+      "position": 10,
+      "team": {
+        "name": "Atlético-MG",
+        "shortName": "CAM",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      },
+      "points": 25,
+      "matches": 19,
+      "wins": 7,
+      "draws": 4,
+      "losses": 8,
+      "goalsFor": 23,
+      "goalsAgainst": 24,
+      "goalDifference": -1,
+      "recentForm": [
+        "D",
+        "W",
+        "L",
+        "W",
+        "D"
       ]
     },
     {
@@ -549,7 +549,7 @@
       "id": 346540,
       "round": 19,
       "dateTime": "2026-07-21T19:30",
-      "status": "live",
+      "status": "finished",
       "venue": "Arena MRV",
       "home": {
         "name": "Atlético-MG",
@@ -562,7 +562,7 @@
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
       },
       "scoreHome": 1,
-      "scoreAway": 0
+      "scoreAway": 1
     },
     {
       "id": 346542,
