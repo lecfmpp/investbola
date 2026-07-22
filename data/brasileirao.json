@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T22:04:17.365Z",
+  "updatedAt": "2026-07-22T23:18:26.992Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 19,
@@ -14,18 +14,18 @@
         "shortName": "PAL",
         "badge": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
       },
-      "points": 41,
-      "matches": 18,
-      "wins": 12,
+      "points": 44,
+      "matches": 19,
+      "wins": 13,
       "draws": 5,
       "losses": 1,
-      "goalsFor": 30,
+      "goalsFor": 32,
       "goalsAgainst": 13,
-      "goalDifference": 17,
+      "goalDifference": 19,
       "recentForm": [
         "D",
         "D",
-        "D",
+        "W",
         "W",
         "W"
       ]
@@ -153,18 +153,18 @@
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
       },
       "points": 26,
-      "matches": 18,
+      "matches": 19,
       "wins": 7,
       "draws": 5,
-      "losses": 6,
+      "losses": 7,
       "goalsFor": 24,
-      "goalsAgainst": 24,
-      "goalDifference": 0,
+      "goalsAgainst": 26,
+      "goalDifference": -2,
       "recentForm": [
-        "L",
         "D",
         "W",
         "W",
+        "L",
         "L"
       ]
     },
@@ -568,7 +568,7 @@
       "id": 346542,
       "round": 19,
       "dateTime": "2026-07-22T19:30",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Couto Pereira",
       "home": {
         "name": "Coritiba",
@@ -580,8 +580,8 @@
         "shortName": "PAL",
         "badge": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 0,
+      "scoreAway": 2
     },
     {
       "id": 346537,
