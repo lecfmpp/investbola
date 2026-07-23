@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T21:39:38.809Z",
+  "updatedAt": "2026-07-23T22:38:16.496Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 19,
@@ -290,20 +290,20 @@
         "shortName": "COR",
         "badge": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
       },
-      "points": 24,
-      "matches": 18,
+      "points": 25,
+      "matches": 19,
       "wins": 6,
-      "draws": 6,
+      "draws": 7,
       "losses": 6,
       "goalsFor": 18,
       "goalsAgainst": 19,
       "goalDifference": -1,
       "recentForm": [
-        "L",
         "W",
         "L",
         "W",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -428,20 +428,20 @@
         "shortName": "REM",
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
       },
-      "points": 18,
-      "matches": 18,
+      "points": 19,
+      "matches": 19,
       "wins": 4,
-      "draws": 6,
+      "draws": 7,
       "losses": 8,
       "goalsFor": 21,
       "goalsAgainst": 29,
       "goalDifference": -8,
       "recentForm": [
-        "W",
         "D",
         "W",
         "L",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -644,7 +644,7 @@
       "id": 346538,
       "round": 19,
       "dateTime": "2026-07-23T19:30",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Neo Química Arena",
       "home": {
         "name": "Corinthians",
@@ -656,8 +656,8 @@
         "shortName": "REM",
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 0,
+      "scoreAway": 0
     }
   ]
 }
