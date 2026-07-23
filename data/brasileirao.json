@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T22:38:16.496Z",
+  "updatedAt": "2026-07-23T23:38:11.253Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 19,
@@ -148,6 +148,29 @@
     {
       "position": 7,
       "team": {
+        "name": "Corinthians",
+        "shortName": "COR",
+        "badge": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      },
+      "points": 27,
+      "matches": 19,
+      "wins": 7,
+      "draws": 6,
+      "losses": 6,
+      "goalsFor": 21,
+      "goalsAgainst": 19,
+      "goalDifference": 2,
+      "recentForm": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ]
+    },
+    {
+      "position": 8,
+      "team": {
         "name": "Cruzeiro",
         "shortName": "CRU",
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
@@ -169,7 +192,30 @@
       ]
     },
     {
-      "position": 8,
+      "position": 9,
+      "team": {
+        "name": "Botafogo",
+        "shortName": "BOT",
+        "badge": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      },
+      "points": 26,
+      "matches": 19,
+      "wins": 7,
+      "draws": 5,
+      "losses": 7,
+      "goalsFor": 33,
+      "goalsAgainst": 32,
+      "goalDifference": 1,
+      "recentForm": [
+        "D",
+        "W",
+        "D",
+        "L",
+        "W"
+      ]
+    },
+    {
+      "position": 10,
       "team": {
         "name": "Coritiba",
         "shortName": "CFC",
@@ -192,7 +238,30 @@
       ]
     },
     {
-      "position": 9,
+      "position": 11,
+      "team": {
+        "name": "Vitória",
+        "shortName": "VIT",
+        "badge": "https://s.sde.globo.com/media/organizations/2025/12/18/Vitoria_2025.svg"
+      },
+      "points": 26,
+      "matches": 19,
+      "wins": 7,
+      "draws": 5,
+      "losses": 7,
+      "goalsFor": 22,
+      "goalsAgainst": 25,
+      "goalDifference": -3,
+      "recentForm": [
+        "D",
+        "L",
+        "W",
+        "L",
+        "W"
+      ]
+    },
+    {
+      "position": 12,
       "team": {
         "name": "São Paulo",
         "shortName": "SAO",
@@ -215,30 +284,7 @@
       ]
     },
     {
-      "position": 10,
-      "team": {
-        "name": "Botafogo",
-        "shortName": "BOT",
-        "badge": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
-      },
-      "points": 25,
-      "matches": 18,
-      "wins": 7,
-      "draws": 4,
-      "losses": 7,
-      "goalsFor": 33,
-      "goalsAgainst": 32,
-      "goalDifference": 1,
-      "recentForm": [
-        "D",
-        "W",
-        "D",
-        "L",
-        "W"
-      ]
-    },
-    {
-      "position": 11,
+      "position": 13,
       "team": {
         "name": "Atlético-MG",
         "shortName": "CAM",
@@ -256,52 +302,6 @@
         "D",
         "W",
         "L",
-        "W",
-        "D"
-      ]
-    },
-    {
-      "position": 12,
-      "team": {
-        "name": "Vitória",
-        "shortName": "VIT",
-        "badge": "https://s.sde.globo.com/media/organizations/2025/12/18/Vitoria_2025.svg"
-      },
-      "points": 25,
-      "matches": 18,
-      "wins": 7,
-      "draws": 4,
-      "losses": 7,
-      "goalsFor": 22,
-      "goalsAgainst": 25,
-      "goalDifference": -3,
-      "recentForm": [
-        "D",
-        "L",
-        "W",
-        "L",
-        "W"
-      ]
-    },
-    {
-      "position": 13,
-      "team": {
-        "name": "Corinthians",
-        "shortName": "COR",
-        "badge": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
-      },
-      "points": 25,
-      "matches": 19,
-      "wins": 6,
-      "draws": 7,
-      "losses": 6,
-      "goalsFor": 18,
-      "goalsAgainst": 19,
-      "goalDifference": -1,
-      "recentForm": [
-        "W",
-        "L",
-        "W",
         "W",
         "D"
       ]
@@ -428,20 +428,20 @@
         "shortName": "REM",
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
       },
-      "points": 19,
+      "points": 18,
       "matches": 19,
       "wins": 4,
-      "draws": 7,
-      "losses": 8,
+      "draws": 6,
+      "losses": 9,
       "goalsFor": 21,
-      "goalsAgainst": 29,
-      "goalDifference": -8,
+      "goalsAgainst": 32,
+      "goalDifference": -11,
       "recentForm": [
         "D",
         "W",
         "L",
         "W",
-        "D"
+        "L"
       ]
     },
     {
@@ -656,7 +656,7 @@
         "shortName": "REM",
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
       },
-      "scoreHome": 0,
+      "scoreHome": 3,
       "scoreAway": 0
     }
   ]
