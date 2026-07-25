@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T22:33:30.404Z",
+  "updatedAt": "2026-07-25T23:39:17.986Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 20,
@@ -65,9 +65,9 @@
       "wins": 11,
       "draws": 3,
       "losses": 6,
-      "goalsFor": 27,
+      "goalsFor": 28,
       "goalsAgainst": 19,
-      "goalDifference": 8,
+      "goalDifference": 9,
       "recentForm": [
         "D",
         "W",
@@ -313,20 +313,20 @@
         "shortName": "SAN",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
       },
-      "points": 24,
+      "points": 22,
       "matches": 20,
-      "wins": 6,
-      "draws": 6,
+      "wins": 5,
+      "draws": 7,
       "losses": 8,
-      "goalsFor": 28,
-      "goalsAgainst": 31,
-      "goalDifference": -3,
+      "goalsFor": 29,
+      "goalsAgainst": 33,
+      "goalDifference": -4,
       "recentForm": [
         "L",
         "L",
         "W",
         "L",
-        "W"
+        "D"
       ]
     },
     {
@@ -342,8 +342,8 @@
       "draws": 6,
       "losses": 9,
       "goalsFor": 22,
-      "goalsAgainst": 25,
-      "goalDifference": -3,
+      "goalsAgainst": 26,
+      "goalDifference": -4,
       "recentForm": [
         "W",
         "L",
@@ -382,20 +382,20 @@
         "shortName": "VAS",
         "badge": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
       },
-      "points": 20,
-      "matches": 19,
+      "points": 21,
+      "matches": 20,
       "wins": 5,
-      "draws": 5,
+      "draws": 6,
       "losses": 9,
       "goalsFor": 22,
       "goalsAgainst": 30,
       "goalDifference": -8,
       "recentForm": [
-        "W",
         "L",
         "L",
         "L",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -405,20 +405,20 @@
         "shortName": "MIR",
         "badge": "https://s.sde.globo.com/media/organizations/2026/07/17/MIrassol.svg"
       },
-      "points": 19,
-      "matches": 18,
+      "points": 20,
+      "matches": 19,
       "wins": 5,
-      "draws": 4,
+      "draws": 5,
       "losses": 9,
       "goalsFor": 20,
       "goalsAgainst": 25,
       "goalDifference": -5,
       "recentForm": [
-        "D",
         "L",
         "W",
         "L",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -451,20 +451,20 @@
         "shortName": "CHA",
         "badge": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
       },
-      "points": 9,
+      "points": 10,
       "matches": 20,
       "wins": 1,
-      "draws": 6,
-      "losses": 13,
-      "goalsFor": 17,
-      "goalsAgainst": 40,
-      "goalDifference": -23,
+      "draws": 7,
+      "losses": 12,
+      "goalsFor": 19,
+      "goalsAgainst": 41,
+      "goalDifference": -22,
       "recentForm": [
         "L",
         "L",
         "L",
         "L",
-        "L"
+        "D"
       ]
     }
   ],
@@ -473,7 +473,7 @@
       "id": 346268,
       "round": 20,
       "dateTime": "2026-07-25T18:30",
-      "status": "live",
+      "status": "finished",
       "venue": "Arena da Baixada",
       "home": {
         "name": "Athletico-PR",
@@ -485,7 +485,7 @@
         "shortName": "INT",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
       },
-      "scoreHome": 1,
+      "scoreHome": 2,
       "scoreAway": 0
     },
     {
@@ -504,14 +504,14 @@
         "shortName": "CHA",
         "badge": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
       },
-      "scoreHome": 1,
-      "scoreAway": 0
+      "scoreHome": 2,
+      "scoreAway": 2
     },
     {
       "id": 346422,
       "round": 20,
       "dateTime": "2026-07-25T20:30",
-      "status": "scheduled",
+      "status": "live",
       "venue": "São Januário",
       "home": {
         "name": "Vasco",
@@ -523,8 +523,8 @@
         "shortName": "MIR",
         "badge": "https://s.sde.globo.com/media/organizations/2026/07/17/MIrassol.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 0,
+      "scoreAway": 0
     },
     {
       "id": 346266,
