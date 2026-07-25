@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T20:31:35.206Z",
+  "updatedAt": "2026-07-25T21:32:37.064Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 20,
@@ -492,7 +492,7 @@
       "id": 346423,
       "round": 20,
       "dateTime": "2026-07-25T18:30",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Vila Belmiro",
       "home": {
         "name": "Santos",
