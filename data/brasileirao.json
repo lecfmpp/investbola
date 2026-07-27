@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T00:16:18.378Z",
+  "updatedAt": "2026-07-27T04:08:41.325Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 20,
@@ -625,7 +625,7 @@
       "id": 346270,
       "round": 20,
       "dateTime": "2026-07-26T19:30",
-      "status": "live",
+      "status": "finished",
       "venue": "Mangueirão",
       "home": {
         "name": "Remo",
@@ -644,7 +644,7 @@
       "id": 346424,
       "round": 20,
       "dateTime": "2026-07-26T19:30",
-      "status": "live",
+      "status": "finished",
       "venue": "Nubank Parque",
       "home": {
         "name": "Palmeiras",
