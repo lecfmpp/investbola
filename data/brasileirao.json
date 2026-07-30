@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T21:35:42.055Z",
+  "updatedAt": "2026-07-30T22:44:30.922Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 21,
@@ -60,20 +60,20 @@
         "shortName": "CAP",
         "badge": "https://s.sde.globo.com/media/organizations/2026/01/07/Athletico-PR.svg"
       },
-      "points": 36,
-      "matches": 20,
+      "points": 37,
+      "matches": 21,
       "wins": 11,
-      "draws": 3,
+      "draws": 4,
       "losses": 6,
       "goalsFor": 28,
       "goalsAgainst": 19,
       "goalDifference": 9,
       "recentForm": [
-        "D",
         "W",
         "W",
         "W",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -171,6 +171,29 @@
     {
       "position": 8,
       "team": {
+        "name": "Corinthians",
+        "shortName": "COR",
+        "badge": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      },
+      "points": 29,
+      "matches": 21,
+      "wins": 7,
+      "draws": 8,
+      "losses": 6,
+      "goalsFor": 22,
+      "goalsAgainst": 20,
+      "goalDifference": 2,
+      "recentForm": [
+        "W",
+        "W",
+        "W",
+        "D",
+        "D"
+      ]
+    },
+    {
+      "position": 9,
+      "team": {
         "name": "Atlético-MG",
         "shortName": "CAM",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
@@ -189,29 +212,6 @@
         "W",
         "D",
         "W"
-      ]
-    },
-    {
-      "position": 9,
-      "team": {
-        "name": "Corinthians",
-        "shortName": "COR",
-        "badge": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
-      },
-      "points": 28,
-      "matches": 20,
-      "wins": 7,
-      "draws": 7,
-      "losses": 6,
-      "goalsFor": 22,
-      "goalsAgainst": 20,
-      "goalDifference": 2,
-      "recentForm": [
-        "L",
-        "W",
-        "W",
-        "W",
-        "D"
       ]
     },
     {
@@ -549,7 +549,7 @@
       "id": 346284,
       "round": 21,
       "dateTime": "2026-07-30T19:30",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Neo Química Arena",
       "home": {
         "name": "Corinthians",
@@ -561,8 +561,8 @@
         "shortName": "CAP",
         "badge": "https://s.sde.globo.com/media/organizations/2026/01/07/Athletico-PR.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 0,
+      "scoreAway": 0
     },
     {
       "id": 346288,
