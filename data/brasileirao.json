@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T00:15:34.772Z",
+  "updatedAt": "2026-07-30T03:36:28.770Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 21,
@@ -14,20 +14,20 @@
         "shortName": "PAL",
         "badge": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
       },
-      "points": 44,
-      "matches": 20,
-      "wins": 13,
+      "points": 47,
+      "matches": 21,
+      "wins": 14,
       "draws": 5,
       "losses": 2,
-      "goalsFor": 34,
+      "goalsFor": 38,
       "goalsAgainst": 16,
-      "goalDifference": 18,
+      "goalDifference": 22,
       "recentForm": [
-        "D",
         "W",
         "W",
         "W",
-        "L"
+        "L",
+        "W"
       ]
     },
     {
@@ -83,17 +83,17 @@
         "shortName": "FLU",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
       },
-      "points": 33,
-      "matches": 20,
+      "points": 34,
+      "matches": 21,
       "wins": 9,
-      "draws": 6,
+      "draws": 7,
       "losses": 5,
       "goalsFor": 30,
       "goalsAgainst": 25,
       "goalDifference": 5,
       "recentForm": [
-        "W",
         "L",
+        "D",
         "D",
         "D",
         "D"
@@ -101,6 +101,29 @@
     },
     {
       "position": 5,
+      "team": {
+        "name": "Bahia",
+        "shortName": "BAH",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      },
+      "points": 32,
+      "matches": 21,
+      "wins": 8,
+      "draws": 8,
+      "losses": 5,
+      "goalsFor": 29,
+      "goalsAgainst": 25,
+      "goalDifference": 4,
+      "recentForm": [
+        "L",
+        "W",
+        "D",
+        "D",
+        "D"
+      ]
+    },
+    {
+      "position": 6,
       "team": {
         "name": "Bragantino",
         "shortName": "RBB",
@@ -117,29 +140,6 @@
       "recentForm": [
         "W",
         "W",
-        "W",
-        "D",
-        "D"
-      ]
-    },
-    {
-      "position": 6,
-      "team": {
-        "name": "Bahia",
-        "shortName": "BAH",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
-      },
-      "points": 31,
-      "matches": 20,
-      "wins": 8,
-      "draws": 7,
-      "losses": 5,
-      "goalsFor": 29,
-      "goalsAgainst": 25,
-      "goalDifference": 4,
-      "recentForm": [
-        "D",
-        "L",
         "W",
         "D",
         "D"
@@ -291,18 +291,18 @@
         "badge": "https://s.sde.globo.com/media/organizations/2025/12/18/Vitoria_2025.svg"
       },
       "points": 26,
-      "matches": 20,
+      "matches": 21,
       "wins": 7,
       "draws": 5,
-      "losses": 8,
+      "losses": 9,
       "goalsFor": 22,
-      "goalsAgainst": 27,
-      "goalDifference": -5,
+      "goalsAgainst": 31,
+      "goalDifference": -9,
       "recentForm": [
-        "L",
         "W",
         "L",
         "W",
+        "L",
         "L"
       ]
     },
@@ -473,7 +473,7 @@
       "id": 346285,
       "round": 21,
       "dateTime": "2026-07-29T19:30",
-      "status": "live",
+      "status": "finished",
       "venue": "Maião",
       "home": {
         "name": "Mirassol",
@@ -492,7 +492,7 @@
       "id": 346287,
       "round": 21,
       "dateTime": "2026-07-29T19:30",
-      "status": "live",
+      "status": "finished",
       "venue": "Beira-Rio",
       "home": {
         "name": "Internacional",
@@ -511,7 +511,7 @@
       "id": 346281,
       "round": 21,
       "dateTime": "2026-07-29T21:30",
-      "status": "scheduled",
+      "status": "finished",
       "venue": "Maracanã",
       "home": {
         "name": "Fluminense",
@@ -523,14 +523,14 @@
         "shortName": "BAH",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 0,
+      "scoreAway": 0
     },
     {
       "id": 346289,
       "round": 21,
       "dateTime": "2026-07-29T21:30",
-      "status": "scheduled",
+      "status": "finished",
       "venue": "Barradão",
       "home": {
         "name": "Vitória",
@@ -542,8 +542,8 @@
         "shortName": "PAL",
         "badge": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 0,
+      "scoreAway": 4
     },
     {
       "id": 346284,
