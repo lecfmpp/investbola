@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T21:49:16.057Z",
+  "updatedAt": "2026-08-08T22:29:51.590Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 22,
@@ -148,6 +148,29 @@
     {
       "position": 7,
       "team": {
+        "name": "Atlético-MG",
+        "shortName": "CAM",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      },
+      "points": 31,
+      "matches": 21,
+      "wins": 9,
+      "draws": 4,
+      "losses": 8,
+      "goalsFor": 27,
+      "goalsAgainst": 26,
+      "goalDifference": 1,
+      "recentForm": [
+        "L",
+        "W",
+        "D",
+        "W",
+        "W"
+      ]
+    },
+    {
+      "position": 8,
+      "team": {
         "name": "Cruzeiro",
         "shortName": "CRU",
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
@@ -169,7 +192,7 @@
       ]
     },
     {
-      "position": 8,
+      "position": 9,
       "team": {
         "name": "Botafogo",
         "shortName": "BOT",
@@ -192,7 +215,7 @@
       ]
     },
     {
-      "position": 9,
+      "position": 10,
       "team": {
         "name": "Corinthians",
         "shortName": "COR",
@@ -212,29 +235,6 @@
         "W",
         "D",
         "D"
-      ]
-    },
-    {
-      "position": 10,
-      "team": {
-        "name": "Atlético-MG",
-        "shortName": "CAM",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
-      },
-      "points": 28,
-      "matches": 21,
-      "wins": 8,
-      "draws": 4,
-      "losses": 9,
-      "goalsFor": 25,
-      "goalsAgainst": 26,
-      "goalDifference": -1,
-      "recentForm": [
-        "L",
-        "W",
-        "D",
-        "W",
-        "L"
       ]
     },
     {
@@ -332,29 +332,6 @@
     {
       "position": 15,
       "team": {
-        "name": "Remo",
-        "shortName": "REM",
-        "badge": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
-      },
-      "points": 24,
-      "matches": 22,
-      "wins": 6,
-      "draws": 6,
-      "losses": 10,
-      "goalsFor": 25,
-      "goalsAgainst": 34,
-      "goalDifference": -9,
-      "recentForm": [
-        "W",
-        "L",
-        "W",
-        "L",
-        "W"
-      ]
-    },
-    {
-      "position": 16,
-      "team": {
         "name": "Mirassol",
         "shortName": "MIR",
         "badge": "https://s.sde.globo.com/media/organizations/2026/07/17/MIrassol.svg"
@@ -376,7 +353,7 @@
       ]
     },
     {
-      "position": 17,
+      "position": 16,
       "team": {
         "name": "Santos",
         "shortName": "SAN",
@@ -399,7 +376,7 @@
       ]
     },
     {
-      "position": 18,
+      "position": 17,
       "team": {
         "name": "Internacional",
         "shortName": "INT",
@@ -422,7 +399,7 @@
       ]
     },
     {
-      "position": 19,
+      "position": 18,
       "team": {
         "name": "Vasco",
         "shortName": "VAS",
@@ -442,6 +419,29 @@
         "L",
         "L",
         "D"
+      ]
+    },
+    {
+      "position": 19,
+      "team": {
+        "name": "Remo",
+        "shortName": "REM",
+        "badge": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+      },
+      "points": 21,
+      "matches": 22,
+      "wins": 5,
+      "draws": 6,
+      "losses": 11,
+      "goalsFor": 25,
+      "goalsAgainst": 36,
+      "goalDifference": -11,
+      "recentForm": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "L"
       ]
     },
     {
@@ -505,7 +505,7 @@
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
       },
       "scoreHome": 1,
-      "scoreAway": 0
+      "scoreAway": 2
     },
     {
       "id": 346318,
