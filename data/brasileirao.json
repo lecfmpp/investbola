@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T19:15:36.473Z",
+  "updatedAt": "2026-08-08T19:47:44.166Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 22,
@@ -253,10 +253,10 @@
       "goalsAgainst": 23,
       "goalDifference": 2,
       "recentForm": [
-        "L",
         "D",
         "L",
         "L",
+        "D",
         "D"
       ]
     },
@@ -345,10 +345,10 @@
       "goalsAgainst": 26,
       "goalDifference": -4,
       "recentForm": [
-        "D",
         "W",
         "L",
         "L",
+        "D",
         "D"
       ]
     },
