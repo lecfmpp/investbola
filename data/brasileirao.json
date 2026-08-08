@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T23:02:11.259Z",
+  "updatedAt": "2026-08-08T23:48:19.662Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 22,
@@ -148,29 +148,6 @@
     {
       "position": 7,
       "team": {
-        "name": "Atlético-MG",
-        "shortName": "CAM",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
-      },
-      "points": 31,
-      "matches": 21,
-      "wins": 9,
-      "draws": 4,
-      "losses": 8,
-      "goalsFor": 27,
-      "goalsAgainst": 26,
-      "goalDifference": 1,
-      "recentForm": [
-        "L",
-        "W",
-        "D",
-        "W",
-        "W"
-      ]
-    },
-    {
-      "position": 8,
-      "team": {
         "name": "Cruzeiro",
         "shortName": "CRU",
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
@@ -192,7 +169,7 @@
       ]
     },
     {
-      "position": 9,
+      "position": 8,
       "team": {
         "name": "Botafogo",
         "shortName": "BOT",
@@ -212,6 +189,29 @@
         "L",
         "W",
         "W"
+      ]
+    },
+    {
+      "position": 9,
+      "team": {
+        "name": "Atlético-MG",
+        "shortName": "CAM",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      },
+      "points": 29,
+      "matches": 21,
+      "wins": 8,
+      "draws": 5,
+      "losses": 8,
+      "goalsFor": 27,
+      "goalsAgainst": 27,
+      "goalDifference": 0,
+      "recentForm": [
+        "L",
+        "W",
+        "D",
+        "W",
+        "D"
       ]
     },
     {
@@ -244,20 +244,20 @@
         "shortName": "CFC",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
       },
-      "points": 27,
-      "matches": 21,
+      "points": 28,
+      "matches": 22,
       "wins": 7,
-      "draws": 6,
+      "draws": 7,
       "losses": 8,
       "goalsFor": 25,
       "goalsAgainst": 28,
       "goalDifference": -3,
       "recentForm": [
-        "W",
         "L",
         "L",
         "D",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -401,6 +401,29 @@
     {
       "position": 18,
       "team": {
+        "name": "Remo",
+        "shortName": "REM",
+        "badge": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+      },
+      "points": 22,
+      "matches": 22,
+      "wins": 5,
+      "draws": 7,
+      "losses": 10,
+      "goalsFor": 26,
+      "goalsAgainst": 36,
+      "goalDifference": -10,
+      "recentForm": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "D"
+      ]
+    },
+    {
+      "position": 19,
+      "team": {
         "name": "Vasco",
         "shortName": "VAS",
         "badge": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
@@ -422,39 +445,16 @@
       ]
     },
     {
-      "position": 19,
-      "team": {
-        "name": "Remo",
-        "shortName": "REM",
-        "badge": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
-      },
-      "points": 21,
-      "matches": 22,
-      "wins": 5,
-      "draws": 6,
-      "losses": 11,
-      "goalsFor": 25,
-      "goalsAgainst": 36,
-      "goalDifference": -11,
-      "recentForm": [
-        "W",
-        "L",
-        "W",
-        "L",
-        "L"
-      ]
-    },
-    {
       "position": 20,
       "team": {
         "name": "Chapecoense",
         "shortName": "CHA",
         "badge": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
       },
-      "points": 10,
-      "matches": 20,
+      "points": 11,
+      "matches": 21,
       "wins": 1,
-      "draws": 7,
+      "draws": 8,
       "losses": 12,
       "goalsFor": 19,
       "goalsAgainst": 41,
@@ -463,7 +463,7 @@
         "L",
         "L",
         "L",
-        "L",
+        "D",
         "D"
       ]
     }
@@ -492,7 +492,7 @@
       "id": 346320,
       "round": 22,
       "dateTime": "2026-08-08T18:30",
-      "status": "live",
+      "status": "finished",
       "venue": "Mangueirão",
       "home": {
         "name": "Remo",
@@ -504,14 +504,14 @@
         "shortName": "CAM",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
       },
-      "scoreHome": 1,
+      "scoreHome": 2,
       "scoreAway": 2
     },
     {
       "id": 346318,
       "round": 22,
       "dateTime": "2026-08-08T20:30",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Couto Pereira",
       "home": {
         "name": "Coritiba",
@@ -523,8 +523,8 @@
         "shortName": "CHA",
         "badge": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 0,
+      "scoreAway": 0
     },
     {
       "id": 346312,
