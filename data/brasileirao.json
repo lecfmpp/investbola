@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T21:03:24.423Z",
+  "updatedAt": "2026-08-08T21:49:16.057Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 22,
@@ -222,19 +222,19 @@
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
       },
       "points": 28,
-      "matches": 20,
+      "matches": 21,
       "wins": 8,
       "draws": 4,
-      "losses": 8,
+      "losses": 9,
       "goalsFor": 25,
-      "goalsAgainst": 25,
-      "goalDifference": 0,
+      "goalsAgainst": 26,
+      "goalDifference": -1,
       "recentForm": [
-        "W",
         "L",
         "W",
         "D",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -332,6 +332,29 @@
     {
       "position": 15,
       "team": {
+        "name": "Remo",
+        "shortName": "REM",
+        "badge": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+      },
+      "points": 24,
+      "matches": 22,
+      "wins": 6,
+      "draws": 6,
+      "losses": 10,
+      "goalsFor": 25,
+      "goalsAgainst": 34,
+      "goalDifference": -9,
+      "recentForm": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "W"
+      ]
+    },
+    {
+      "position": 16,
+      "team": {
         "name": "Mirassol",
         "shortName": "MIR",
         "badge": "https://s.sde.globo.com/media/organizations/2026/07/17/MIrassol.svg"
@@ -353,7 +376,7 @@
       ]
     },
     {
-      "position": 16,
+      "position": 17,
       "team": {
         "name": "Santos",
         "shortName": "SAN",
@@ -376,7 +399,7 @@
       ]
     },
     {
-      "position": 17,
+      "position": 18,
       "team": {
         "name": "Internacional",
         "shortName": "INT",
@@ -399,7 +422,7 @@
       ]
     },
     {
-      "position": 18,
+      "position": 19,
       "team": {
         "name": "Vasco",
         "shortName": "VAS",
@@ -419,29 +442,6 @@
         "L",
         "L",
         "D"
-      ]
-    },
-    {
-      "position": 19,
-      "team": {
-        "name": "Remo",
-        "shortName": "REM",
-        "badge": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
-      },
-      "points": 21,
-      "matches": 21,
-      "wins": 5,
-      "draws": 6,
-      "losses": 10,
-      "goalsFor": 24,
-      "goalsAgainst": 34,
-      "goalDifference": -10,
-      "recentForm": [
-        "L",
-        "W",
-        "L",
-        "W",
-        "L"
       ]
     },
     {
@@ -473,7 +473,7 @@
       "id": 346317,
       "round": 22,
       "dateTime": "2026-08-08T16:00",
-      "status": "live",
+      "status": "finished",
       "venue": "Arena do Grêmio",
       "home": {
         "name": "Grêmio",
@@ -492,7 +492,7 @@
       "id": 346320,
       "round": 22,
       "dateTime": "2026-08-08T18:30",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Mangueirão",
       "home": {
         "name": "Remo",
@@ -504,8 +504,8 @@
         "shortName": "CAM",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 1,
+      "scoreAway": 0
     },
     {
       "id": 346318,
