@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T19:47:44.166Z",
+  "updatedAt": "2026-08-08T20:30:45.015Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 22,
@@ -249,8 +249,8 @@
       "wins": 7,
       "draws": 6,
       "losses": 8,
-      "goalsFor": 25,
-      "goalsAgainst": 23,
+      "goalsFor": 26,
+      "goalsAgainst": 24,
       "goalDifference": 2,
       "recentForm": [
         "D",
@@ -341,8 +341,8 @@
       "wins": 5,
       "draws": 8,
       "losses": 8,
-      "goalsFor": 22,
-      "goalsAgainst": 26,
+      "goalsFor": 23,
+      "goalsAgainst": 27,
       "goalDifference": -4,
       "recentForm": [
         "W",
@@ -485,8 +485,8 @@
         "shortName": "SAO",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
       },
-      "scoreHome": 0,
-      "scoreAway": 0
+      "scoreHome": 1,
+      "scoreAway": 1
     },
     {
       "id": 346320,
