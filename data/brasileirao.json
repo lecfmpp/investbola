@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T23:48:19.662Z",
+  "updatedAt": "2026-08-09T01:48:14.540Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 22,
@@ -83,16 +83,16 @@
         "shortName": "FLU",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
       },
-      "points": 34,
-      "matches": 21,
+      "points": 35,
+      "matches": 22,
       "wins": 9,
-      "draws": 7,
+      "draws": 8,
       "losses": 5,
-      "goalsFor": 30,
-      "goalsAgainst": 25,
+      "goalsFor": 31,
+      "goalsAgainst": 26,
       "goalDifference": 5,
       "recentForm": [
-        "L",
+        "D",
         "D",
         "D",
         "D",
@@ -148,6 +148,52 @@
     {
       "position": 7,
       "team": {
+        "name": "Botafogo",
+        "shortName": "BOT",
+        "badge": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      },
+      "points": 30,
+      "matches": 21,
+      "wins": 8,
+      "draws": 6,
+      "losses": 7,
+      "goalsFor": 35,
+      "goalsAgainst": 33,
+      "goalDifference": 2,
+      "recentForm": [
+        "D",
+        "L",
+        "W",
+        "W",
+        "D"
+      ]
+    },
+    {
+      "position": 8,
+      "team": {
+        "name": "Coritiba",
+        "shortName": "CFC",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "points": 30,
+      "matches": 22,
+      "wins": 8,
+      "draws": 6,
+      "losses": 8,
+      "goalsFor": 27,
+      "goalsAgainst": 29,
+      "goalDifference": -2,
+      "recentForm": [
+        "L",
+        "L",
+        "D",
+        "L",
+        "W"
+      ]
+    },
+    {
+      "position": 9,
+      "team": {
         "name": "Cruzeiro",
         "shortName": "CRU",
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
@@ -169,30 +215,7 @@
       ]
     },
     {
-      "position": 8,
-      "team": {
-        "name": "Botafogo",
-        "shortName": "BOT",
-        "badge": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
-      },
-      "points": 29,
-      "matches": 20,
-      "wins": 8,
-      "draws": 5,
-      "losses": 7,
-      "goalsFor": 34,
-      "goalsAgainst": 32,
-      "goalDifference": 2,
-      "recentForm": [
-        "W",
-        "D",
-        "L",
-        "W",
-        "W"
-      ]
-    },
-    {
-      "position": 9,
+      "position": 10,
       "team": {
         "name": "Atlético-MG",
         "shortName": "CAM",
@@ -215,7 +238,7 @@
       ]
     },
     {
-      "position": 10,
+      "position": 11,
       "team": {
         "name": "Corinthians",
         "shortName": "COR",
@@ -234,29 +257,6 @@
         "W",
         "W",
         "D",
-        "D"
-      ]
-    },
-    {
-      "position": 11,
-      "team": {
-        "name": "Coritiba",
-        "shortName": "CFC",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
-      },
-      "points": 28,
-      "matches": 22,
-      "wins": 7,
-      "draws": 7,
-      "losses": 8,
-      "goalsFor": 25,
-      "goalsAgainst": 28,
-      "goalDifference": -3,
-      "recentForm": [
-        "L",
-        "L",
-        "D",
-        "L",
         "D"
       ]
     },
@@ -451,20 +451,20 @@
         "shortName": "CHA",
         "badge": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
       },
-      "points": 11,
+      "points": 10,
       "matches": 21,
       "wins": 1,
-      "draws": 8,
-      "losses": 12,
-      "goalsFor": 19,
-      "goalsAgainst": 41,
-      "goalDifference": -22,
+      "draws": 7,
+      "losses": 13,
+      "goalsFor": 20,
+      "goalsAgainst": 43,
+      "goalDifference": -23,
       "recentForm": [
         "L",
         "L",
         "L",
         "D",
-        "D"
+        "L"
       ]
     }
   ],
@@ -511,7 +511,7 @@
       "id": 346318,
       "round": 22,
       "dateTime": "2026-08-08T20:30",
-      "status": "live",
+      "status": "finished",
       "venue": "Couto Pereira",
       "home": {
         "name": "Coritiba",
@@ -523,14 +523,14 @@
         "shortName": "CHA",
         "badge": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
       },
-      "scoreHome": 0,
-      "scoreAway": 0
+      "scoreHome": 2,
+      "scoreAway": 1
     },
     {
       "id": 346312,
       "round": 22,
       "dateTime": "2026-08-08T21:00",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Nilton Santos (Engenhão)",
       "home": {
         "name": "Botafogo",
@@ -542,8 +542,8 @@
         "shortName": "FLU",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 1,
+      "scoreAway": 1
     },
     {
       "id": 346316,
