@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T01:48:14.540Z",
+  "updatedAt": "2026-08-09T03:43:38.362Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 22,
@@ -530,7 +530,7 @@
       "id": 346312,
       "round": 22,
       "dateTime": "2026-08-08T21:00",
-      "status": "live",
+      "status": "finished",
       "venue": "Nilton Santos (Engenhão)",
       "home": {
         "name": "Botafogo",
