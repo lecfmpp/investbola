@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T21:06:07.637Z",
+  "updatedAt": "2026-08-09T21:51:36.189Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 22,
@@ -33,6 +33,29 @@
     {
       "position": 2,
       "team": {
+        "name": "Athletico-PR",
+        "shortName": "CAP",
+        "badge": "https://s.sde.globo.com/media/organizations/2026/01/07/Athletico-PR.svg"
+      },
+      "points": 40,
+      "matches": 22,
+      "wins": 12,
+      "draws": 4,
+      "losses": 6,
+      "goalsFor": 29,
+      "goalsAgainst": 19,
+      "goalDifference": 10,
+      "recentForm": [
+        "W",
+        "W",
+        "W",
+        "D",
+        "W"
+      ]
+    },
+    {
+      "position": 3,
+      "team": {
         "name": "Flamengo",
         "shortName": "FLA",
         "badge": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
@@ -50,29 +73,6 @@
         "W",
         "W",
         "D",
-        "D"
-      ]
-    },
-    {
-      "position": 3,
-      "team": {
-        "name": "Athletico-PR",
-        "shortName": "CAP",
-        "badge": "https://s.sde.globo.com/media/organizations/2026/01/07/Athletico-PR.svg"
-      },
-      "points": 37,
-      "matches": 21,
-      "wins": 11,
-      "draws": 4,
-      "losses": 6,
-      "goalsFor": 28,
-      "goalsAgainst": 19,
-      "goalDifference": 9,
-      "recentForm": [
-        "W",
-        "W",
-        "W",
-        "W",
         "D"
       ]
     },
@@ -152,10 +152,10 @@
         "shortName": "RBB",
         "badge": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
       },
-      "points": 31,
-      "matches": 20,
+      "points": 32,
+      "matches": 21,
       "wins": 9,
-      "draws": 4,
+      "draws": 5,
       "losses": 7,
       "goalsFor": 26,
       "goalsAgainst": 20,
@@ -163,7 +163,7 @@
       "recentForm": [
         "W",
         "W",
-        "W",
+        "D",
         "D",
         "D"
       ]
@@ -217,6 +217,29 @@
     {
       "position": 10,
       "team": {
+        "name": "Corinthians",
+        "shortName": "COR",
+        "badge": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      },
+      "points": 30,
+      "matches": 22,
+      "wins": 7,
+      "draws": 9,
+      "losses": 6,
+      "goalsFor": 22,
+      "goalsAgainst": 20,
+      "goalDifference": 2,
+      "recentForm": [
+        "W",
+        "W",
+        "D",
+        "D",
+        "D"
+      ]
+    },
+    {
+      "position": 11,
+      "team": {
         "name": "Atlético-MG",
         "shortName": "CAM",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
@@ -234,29 +257,6 @@
         "W",
         "D",
         "W",
-        "D"
-      ]
-    },
-    {
-      "position": 11,
-      "team": {
-        "name": "Corinthians",
-        "shortName": "COR",
-        "badge": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
-      },
-      "points": 29,
-      "matches": 21,
-      "wins": 7,
-      "draws": 8,
-      "losses": 6,
-      "goalsFor": 22,
-      "goalsAgainst": 20,
-      "goalDifference": 2,
-      "recentForm": [
-        "W",
-        "W",
-        "W",
-        "D",
         "D"
       ]
     },
@@ -383,19 +383,19 @@
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
       },
       "points": 22,
-      "matches": 20,
+      "matches": 21,
       "wins": 5,
       "draws": 7,
-      "losses": 8,
+      "losses": 9,
       "goalsFor": 29,
-      "goalsAgainst": 33,
-      "goalDifference": -4,
+      "goalsAgainst": 34,
+      "goalDifference": -5,
       "recentForm": [
-        "L",
         "L",
         "W",
         "L",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -568,7 +568,7 @@
       "id": 346314,
       "round": 22,
       "dateTime": "2026-08-09T16:00",
-      "status": "live",
+      "status": "finished",
       "venue": "Nubank Parque",
       "home": {
         "name": "Palmeiras",
@@ -587,7 +587,7 @@
       "id": 346319,
       "round": 22,
       "dateTime": "2026-08-09T16:00",
-      "status": "live",
+      "status": "finished",
       "venue": "Casa de Apostas Arena Fonte Nova",
       "home": {
         "name": "Bahia",
@@ -606,7 +606,7 @@
       "id": 346313,
       "round": 22,
       "dateTime": "2026-08-09T18:30",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Vila Belmiro",
       "home": {
         "name": "Santos",
@@ -618,14 +618,14 @@
         "shortName": "CAP",
         "badge": "https://s.sde.globo.com/media/organizations/2026/01/07/Athletico-PR.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 0,
+      "scoreAway": 1
     },
     {
       "id": 346315,
       "round": 22,
       "dateTime": "2026-08-09T18:30",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Cícero de Souza Marques",
       "home": {
         "name": "Bragantino",
@@ -637,8 +637,8 @@
         "shortName": "COR",
         "badge": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 0,
+      "scoreAway": 0
     },
     {
       "id": 346311,
