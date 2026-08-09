@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T22:32:03.274Z",
+  "updatedAt": "2026-08-09T23:03:51.607Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 22,
@@ -33,6 +33,29 @@
     {
       "position": 2,
       "team": {
+        "name": "Flamengo",
+        "shortName": "FLA",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
+      },
+      "points": 42,
+      "matches": 21,
+      "wins": 12,
+      "draws": 6,
+      "losses": 3,
+      "goalsFor": 38,
+      "goalsAgainst": 18,
+      "goalDifference": 20,
+      "recentForm": [
+        "W",
+        "W",
+        "D",
+        "D",
+        "W"
+      ]
+    },
+    {
+      "position": 3,
+      "team": {
         "name": "Athletico-PR",
         "shortName": "CAP",
         "badge": "https://s.sde.globo.com/media/organizations/2026/01/07/Athletico-PR.svg"
@@ -51,29 +74,6 @@
         "W",
         "D",
         "W"
-      ]
-    },
-    {
-      "position": 3,
-      "team": {
-        "name": "Flamengo",
-        "shortName": "FLA",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
-      },
-      "points": 39,
-      "matches": 20,
-      "wins": 11,
-      "draws": 6,
-      "losses": 3,
-      "goalsFor": 37,
-      "goalsAgainst": 18,
-      "goalDifference": 19,
-      "recentForm": [
-        "L",
-        "W",
-        "W",
-        "D",
-        "D"
       ]
     },
     {
@@ -148,28 +148,51 @@
     {
       "position": 7,
       "team": {
-        "name": "Bragantino",
-        "shortName": "RBB",
-        "badge": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+        "name": "Corinthians",
+        "shortName": "COR",
+        "badge": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
       },
       "points": 32,
-      "matches": 21,
-      "wins": 9,
-      "draws": 5,
-      "losses": 7,
-      "goalsFor": 26,
+      "matches": 22,
+      "wins": 8,
+      "draws": 8,
+      "losses": 6,
+      "goalsFor": 23,
       "goalsAgainst": 20,
-      "goalDifference": 6,
+      "goalDifference": 3,
       "recentForm": [
         "W",
         "W",
         "D",
         "D",
-        "D"
+        "W"
       ]
     },
     {
       "position": 8,
+      "team": {
+        "name": "Bragantino",
+        "shortName": "RBB",
+        "badge": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+      },
+      "points": 31,
+      "matches": 21,
+      "wins": 9,
+      "draws": 4,
+      "losses": 8,
+      "goalsFor": 26,
+      "goalsAgainst": 21,
+      "goalDifference": 5,
+      "recentForm": [
+        "W",
+        "W",
+        "D",
+        "D",
+        "L"
+      ]
+    },
+    {
+      "position": 9,
       "team": {
         "name": "Botafogo",
         "shortName": "BOT",
@@ -192,7 +215,7 @@
       ]
     },
     {
-      "position": 9,
+      "position": 10,
       "team": {
         "name": "Coritiba",
         "shortName": "CFC",
@@ -212,29 +235,6 @@
         "D",
         "L",
         "W"
-      ]
-    },
-    {
-      "position": 10,
-      "team": {
-        "name": "Corinthians",
-        "shortName": "COR",
-        "badge": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
-      },
-      "points": 30,
-      "matches": 22,
-      "wins": 7,
-      "draws": 9,
-      "losses": 6,
-      "goalsFor": 22,
-      "goalsAgainst": 20,
-      "goalDifference": 2,
-      "recentForm": [
-        "W",
-        "W",
-        "D",
-        "D",
-        "D"
       ]
     },
     {
@@ -291,17 +291,17 @@
         "badge": "https://s.sde.globo.com/media/organizations/2025/12/18/Vitoria_2025.svg"
       },
       "points": 26,
-      "matches": 21,
+      "matches": 22,
       "wins": 7,
       "draws": 5,
-      "losses": 9,
+      "losses": 10,
       "goalsFor": 22,
-      "goalsAgainst": 31,
-      "goalDifference": -9,
+      "goalsAgainst": 32,
+      "goalDifference": -10,
       "recentForm": [
-        "W",
         "L",
         "W",
+        "L",
         "L",
         "L"
       ]
@@ -638,13 +638,13 @@
         "badge": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
       },
       "scoreHome": 0,
-      "scoreAway": 0
+      "scoreAway": 1
     },
     {
       "id": 346311,
       "round": 22,
       "dateTime": "2026-08-09T19:30",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Maracanã",
       "home": {
         "name": "Flamengo",
@@ -656,8 +656,8 @@
         "shortName": "VIT",
         "badge": "https://s.sde.globo.com/media/organizations/2025/12/18/Vitoria_2025.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 1,
+      "scoreAway": 0
     }
   ]
 }
