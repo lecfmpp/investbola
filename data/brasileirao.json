@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T18:04:14.643Z",
+  "updatedAt": "2026-08-09T19:05:37.580Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 22,
@@ -14,10 +14,10 @@
         "shortName": "PAL",
         "badge": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
       },
-      "points": 47,
-      "matches": 21,
+      "points": 48,
+      "matches": 22,
       "wins": 14,
-      "draws": 5,
+      "draws": 6,
       "losses": 2,
       "goalsFor": 38,
       "goalsAgainst": 16,
@@ -25,9 +25,9 @@
       "recentForm": [
         "W",
         "W",
-        "W",
         "L",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -129,17 +129,17 @@
         "shortName": "BAH",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
       },
-      "points": 32,
-      "matches": 21,
+      "points": 33,
+      "matches": 22,
       "wins": 8,
-      "draws": 8,
+      "draws": 9,
       "losses": 5,
       "goalsFor": 29,
       "goalsAgainst": 25,
       "goalDifference": 4,
       "recentForm": [
-        "L",
         "W",
+        "D",
         "D",
         "D",
         "D"
@@ -355,6 +355,29 @@
     {
       "position": 16,
       "team": {
+        "name": "Internacional",
+        "shortName": "INT",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
+      },
+      "points": 23,
+      "matches": 22,
+      "wins": 5,
+      "draws": 8,
+      "losses": 9,
+      "goalsFor": 23,
+      "goalsAgainst": 27,
+      "goalDifference": -4,
+      "recentForm": [
+        "L",
+        "L",
+        "L",
+        "D",
+        "D"
+      ]
+    },
+    {
+      "position": 17,
+      "team": {
         "name": "Santos",
         "shortName": "SAN",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
@@ -376,11 +399,11 @@
       ]
     },
     {
-      "position": 17,
+      "position": 18,
       "team": {
-        "name": "Internacional",
-        "shortName": "INT",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
+        "name": "Vasco",
+        "shortName": "VAS",
+        "badge": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
       },
       "points": 22,
       "matches": 21,
@@ -388,18 +411,18 @@
       "draws": 7,
       "losses": 9,
       "goalsFor": 23,
-      "goalsAgainst": 27,
-      "goalDifference": -4,
+      "goalsAgainst": 31,
+      "goalDifference": -8,
       "recentForm": [
         "L",
         "L",
         "L",
-        "L",
+        "D",
         "D"
       ]
     },
     {
-      "position": 18,
+      "position": 19,
       "team": {
         "name": "Remo",
         "shortName": "REM",
@@ -417,29 +440,6 @@
         "W",
         "L",
         "W",
-        "L",
-        "D"
-      ]
-    },
-    {
-      "position": 19,
-      "team": {
-        "name": "Vasco",
-        "shortName": "VAS",
-        "badge": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
-      },
-      "points": 21,
-      "matches": 20,
-      "wins": 5,
-      "draws": 6,
-      "losses": 9,
-      "goalsFor": 23,
-      "goalsAgainst": 31,
-      "goalDifference": -8,
-      "recentForm": [
-        "L",
-        "L",
-        "L",
         "L",
         "D"
       ]
@@ -568,7 +568,7 @@
       "id": 346314,
       "round": 22,
       "dateTime": "2026-08-09T16:00",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Nubank Parque",
       "home": {
         "name": "Palmeiras",
@@ -580,14 +580,14 @@
         "shortName": "INT",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 0,
+      "scoreAway": 0
     },
     {
       "id": 346319,
       "round": 22,
       "dateTime": "2026-08-09T16:00",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Casa de Apostas Arena Fonte Nova",
       "home": {
         "name": "Bahia",
@@ -599,8 +599,8 @@
         "shortName": "VAS",
         "badge": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 0,
+      "scoreAway": 0
     },
     {
       "id": 346313,
