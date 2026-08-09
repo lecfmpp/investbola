@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T13:21:25.456Z",
+  "updatedAt": "2026-08-09T14:17:51.350Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 22,
@@ -102,6 +102,29 @@
     {
       "position": 5,
       "team": {
+        "name": "Cruzeiro",
+        "shortName": "CRU",
+        "badge": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
+      },
+      "points": 33,
+      "matches": 22,
+      "wins": 9,
+      "draws": 6,
+      "losses": 7,
+      "goalsFor": 28,
+      "goalsAgainst": 30,
+      "goalDifference": -2,
+      "recentForm": [
+        "D",
+        "W",
+        "L",
+        "W",
+        "W"
+      ]
+    },
+    {
+      "position": 6,
+      "team": {
         "name": "Bahia",
         "shortName": "BAH",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
@@ -123,7 +146,7 @@
       ]
     },
     {
-      "position": 6,
+      "position": 7,
       "team": {
         "name": "Bragantino",
         "shortName": "RBB",
@@ -146,7 +169,7 @@
       ]
     },
     {
-      "position": 7,
+      "position": 8,
       "team": {
         "name": "Botafogo",
         "shortName": "BOT",
@@ -169,7 +192,7 @@
       ]
     },
     {
-      "position": 8,
+      "position": 9,
       "team": {
         "name": "Coritiba",
         "shortName": "CFC",
@@ -187,29 +210,6 @@
         "L",
         "L",
         "D",
-        "L",
-        "W"
-      ]
-    },
-    {
-      "position": 9,
-      "team": {
-        "name": "Cruzeiro",
-        "shortName": "CRU",
-        "badge": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
-      },
-      "points": 30,
-      "matches": 21,
-      "wins": 8,
-      "draws": 6,
-      "losses": 7,
-      "goalsFor": 27,
-      "goalsAgainst": 30,
-      "goalDifference": -3,
-      "recentForm": [
-        "W",
-        "D",
-        "W",
         "L",
         "W"
       ]
@@ -337,19 +337,19 @@
         "badge": "https://s.sde.globo.com/media/organizations/2026/07/17/MIrassol.svg"
       },
       "points": 23,
-      "matches": 20,
+      "matches": 21,
       "wins": 6,
       "draws": 5,
-      "losses": 9,
+      "losses": 10,
       "goalsFor": 23,
-      "goalsAgainst": 27,
-      "goalDifference": -4,
+      "goalsAgainst": 28,
+      "goalDifference": -5,
       "recentForm": [
-        "W",
         "L",
         "W",
         "D",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -549,7 +549,7 @@
       "id": 346316,
       "round": 22,
       "dateTime": "2026-08-09T11:00",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Mineirão",
       "home": {
         "name": "Cruzeiro",
@@ -561,8 +561,8 @@
         "shortName": "MIR",
         "badge": "https://s.sde.globo.com/media/organizations/2026/07/17/MIrassol.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 1,
+      "scoreAway": 0
     },
     {
       "id": 346314,
