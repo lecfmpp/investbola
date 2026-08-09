@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T15:36:24.292Z",
+  "updatedAt": "2026-08-09T16:02:58.377Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 22,
@@ -102,6 +102,29 @@
     {
       "position": 5,
       "team": {
+        "name": "Cruzeiro",
+        "shortName": "CRU",
+        "badge": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
+      },
+      "points": 33,
+      "matches": 22,
+      "wins": 9,
+      "draws": 6,
+      "losses": 7,
+      "goalsFor": 30,
+      "goalsAgainst": 31,
+      "goalDifference": -1,
+      "recentForm": [
+        "D",
+        "W",
+        "L",
+        "W",
+        "W"
+      ]
+    },
+    {
+      "position": 6,
+      "team": {
         "name": "Bahia",
         "shortName": "BAH",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
@@ -123,7 +146,7 @@
       ]
     },
     {
-      "position": 6,
+      "position": 7,
       "team": {
         "name": "Bragantino",
         "shortName": "RBB",
@@ -142,29 +165,6 @@
         "W",
         "W",
         "D",
-        "D"
-      ]
-    },
-    {
-      "position": 7,
-      "team": {
-        "name": "Cruzeiro",
-        "shortName": "CRU",
-        "badge": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
-      },
-      "points": 31,
-      "matches": 22,
-      "wins": 8,
-      "draws": 7,
-      "losses": 7,
-      "goalsFor": 28,
-      "goalsAgainst": 31,
-      "goalDifference": -3,
-      "recentForm": [
-        "D",
-        "W",
-        "L",
-        "W",
         "D"
       ]
     },
@@ -336,20 +336,20 @@
         "shortName": "MIR",
         "badge": "https://s.sde.globo.com/media/organizations/2026/07/17/MIrassol.svg"
       },
-      "points": 24,
+      "points": 23,
       "matches": 21,
       "wins": 6,
-      "draws": 6,
-      "losses": 9,
+      "draws": 5,
+      "losses": 10,
       "goalsFor": 24,
-      "goalsAgainst": 28,
-      "goalDifference": -4,
+      "goalsAgainst": 30,
+      "goalDifference": -6,
       "recentForm": [
         "L",
         "W",
         "D",
         "W",
-        "D"
+        "L"
       ]
     },
     {
@@ -561,7 +561,7 @@
         "shortName": "MIR",
         "badge": "https://s.sde.globo.com/media/organizations/2026/07/17/MIrassol.svg"
       },
-      "scoreHome": 1,
+      "scoreHome": 3,
       "scoreAway": 1
     },
     {
