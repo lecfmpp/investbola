@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T23:03:51.607Z",
+  "updatedAt": "2026-08-09T23:51:09.808Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 22,
@@ -157,9 +157,9 @@
       "wins": 8,
       "draws": 8,
       "losses": 6,
-      "goalsFor": 23,
+      "goalsFor": 24,
       "goalsAgainst": 20,
-      "goalDifference": 3,
+      "goalDifference": 4,
       "recentForm": [
         "W",
         "W",
@@ -181,8 +181,8 @@
       "draws": 4,
       "losses": 8,
       "goalsFor": 26,
-      "goalsAgainst": 21,
-      "goalDifference": 5,
+      "goalsAgainst": 22,
+      "goalDifference": 4,
       "recentForm": [
         "W",
         "W",
@@ -625,7 +625,7 @@
       "id": 346315,
       "round": 22,
       "dateTime": "2026-08-09T18:30",
-      "status": "live",
+      "status": "finished",
       "venue": "Cícero de Souza Marques",
       "home": {
         "name": "Bragantino",
@@ -638,7 +638,7 @@
         "badge": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
       },
       "scoreHome": 0,
-      "scoreAway": 1
+      "scoreAway": 2
     },
     {
       "id": 346311,
