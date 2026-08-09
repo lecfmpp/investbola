@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T21:51:36.189Z",
+  "updatedAt": "2026-08-09T22:32:03.274Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 22,
@@ -42,9 +42,9 @@
       "wins": 12,
       "draws": 4,
       "losses": 6,
-      "goalsFor": 29,
+      "goalsFor": 30,
       "goalsAgainst": 19,
-      "goalDifference": 10,
+      "goalDifference": 11,
       "recentForm": [
         "W",
         "W",
@@ -388,8 +388,8 @@
       "draws": 7,
       "losses": 9,
       "goalsFor": 29,
-      "goalsAgainst": 34,
-      "goalDifference": -5,
+      "goalsAgainst": 35,
+      "goalDifference": -6,
       "recentForm": [
         "L",
         "W",
@@ -619,7 +619,7 @@
         "badge": "https://s.sde.globo.com/media/organizations/2026/01/07/Athletico-PR.svg"
       },
       "scoreHome": 0,
-      "scoreAway": 1
+      "scoreAway": 2
     },
     {
       "id": 346315,
