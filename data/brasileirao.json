@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T23:51:09.808Z",
+  "updatedAt": "2026-08-10T01:52:10.329Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 22,
@@ -42,9 +42,9 @@
       "wins": 12,
       "draws": 6,
       "losses": 3,
-      "goalsFor": 38,
+      "goalsFor": 39,
       "goalsAgainst": 18,
-      "goalDifference": 20,
+      "goalDifference": 21,
       "recentForm": [
         "W",
         "W",
@@ -296,8 +296,8 @@
       "draws": 5,
       "losses": 10,
       "goalsFor": 22,
-      "goalsAgainst": 32,
-      "goalDifference": -10,
+      "goalsAgainst": 33,
+      "goalDifference": -11,
       "recentForm": [
         "L",
         "W",
@@ -606,7 +606,7 @@
       "id": 346313,
       "round": 22,
       "dateTime": "2026-08-09T18:30",
-      "status": "live",
+      "status": "finished",
       "venue": "Vila Belmiro",
       "home": {
         "name": "Santos",
@@ -644,7 +644,7 @@
       "id": 346311,
       "round": 22,
       "dateTime": "2026-08-09T19:30",
-      "status": "live",
+      "status": "finished",
       "venue": "Maracanã",
       "home": {
         "name": "Flamengo",
@@ -656,7 +656,7 @@
         "shortName": "VIT",
         "badge": "https://s.sde.globo.com/media/organizations/2025/12/18/Vitoria_2025.svg"
       },
-      "scoreHome": 1,
+      "scoreHome": 2,
       "scoreAway": 0
     }
   ]
