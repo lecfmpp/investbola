@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T21:23:47.643Z",
+  "updatedAt": "2026-08-15T21:53:56.818Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 23,
@@ -14,20 +14,20 @@
         "shortName": "PAL",
         "badge": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
       },
-      "points": 49,
+      "points": 48,
       "matches": 23,
       "wins": 14,
-      "draws": 7,
-      "losses": 2,
+      "draws": 6,
+      "losses": 3,
       "goalsFor": 40,
-      "goalsAgainst": 18,
-      "goalDifference": 22,
+      "goalsAgainst": 19,
+      "goalDifference": 21,
       "recentForm": [
         "W",
         "L",
         "W",
         "D",
-        "D"
+        "L"
       ]
     },
     {
@@ -60,10 +60,10 @@
         "shortName": "CAP",
         "badge": "https://s.sde.globo.com/media/organizations/2026/01/07/Athletico-PR.svg"
       },
-      "points": 40,
-      "matches": 22,
+      "points": 41,
+      "matches": 23,
       "wins": 12,
-      "draws": 4,
+      "draws": 5,
       "losses": 6,
       "goalsFor": 30,
       "goalsAgainst": 19,
@@ -71,9 +71,9 @@
       "recentForm": [
         "W",
         "W",
-        "W",
         "D",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -83,20 +83,20 @@
         "shortName": "FLU",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
       },
-      "points": 36,
+      "points": 38,
       "matches": 23,
-      "wins": 9,
-      "draws": 9,
+      "wins": 10,
+      "draws": 8,
       "losses": 5,
-      "goalsFor": 33,
+      "goalsFor": 34,
       "goalsAgainst": 28,
-      "goalDifference": 5,
+      "goalDifference": 6,
       "recentForm": [
         "D",
         "D",
         "D",
         "D",
-        "D"
+        "W"
       ]
     },
     {
@@ -148,6 +148,29 @@
     {
       "position": 7,
       "team": {
+        "name": "Bragantino",
+        "shortName": "RBB",
+        "badge": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+      },
+      "points": 32,
+      "matches": 22,
+      "wins": 9,
+      "draws": 5,
+      "losses": 8,
+      "goalsFor": 26,
+      "goalsAgainst": 22,
+      "goalDifference": 4,
+      "recentForm": [
+        "W",
+        "D",
+        "D",
+        "L",
+        "D"
+      ]
+    },
+    {
+      "position": 8,
+      "team": {
         "name": "Corinthians",
         "shortName": "COR",
         "badge": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
@@ -166,29 +189,6 @@
         "D",
         "D",
         "W"
-      ]
-    },
-    {
-      "position": 8,
-      "team": {
-        "name": "Bragantino",
-        "shortName": "RBB",
-        "badge": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
-      },
-      "points": 31,
-      "matches": 21,
-      "wins": 9,
-      "draws": 4,
-      "losses": 8,
-      "goalsFor": 26,
-      "goalsAgainst": 22,
-      "goalDifference": 4,
-      "recentForm": [
-        "W",
-        "W",
-        "D",
-        "D",
-        "L"
       ]
     },
     {
@@ -473,7 +473,7 @@
       "id": 346331,
       "round": 23,
       "dateTime": "2026-08-15T16:30",
-      "status": "live",
+      "status": "finished",
       "venue": "Maracanã",
       "home": {
         "name": "Fluminense",
@@ -485,14 +485,14 @@
         "shortName": "PAL",
         "badge": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
       },
-      "scoreHome": 2,
+      "scoreHome": 3,
       "scoreAway": 2
     },
     {
       "id": 346342,
       "round": 23,
       "dateTime": "2026-08-15T18:30",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Arena da Baixada",
       "home": {
         "name": "Athletico-PR",
@@ -504,8 +504,8 @@
         "shortName": "RBB",
         "badge": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 0,
+      "scoreAway": 0
     },
     {
       "id": 346333,
