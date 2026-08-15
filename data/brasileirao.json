@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T20:56:09.231Z",
+  "updatedAt": "2026-08-15T21:23:47.643Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 23,
@@ -19,8 +19,8 @@
       "wins": 14,
       "draws": 7,
       "losses": 2,
-      "goalsFor": 39,
-      "goalsAgainst": 17,
+      "goalsFor": 40,
+      "goalsAgainst": 18,
       "goalDifference": 22,
       "recentForm": [
         "W",
@@ -88,8 +88,8 @@
       "wins": 9,
       "draws": 9,
       "losses": 5,
-      "goalsFor": 32,
-      "goalsAgainst": 27,
+      "goalsFor": 33,
+      "goalsAgainst": 28,
       "goalDifference": 5,
       "recentForm": [
         "D",
@@ -485,8 +485,8 @@
         "shortName": "PAL",
         "badge": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
       },
-      "scoreHome": 1,
-      "scoreAway": 1
+      "scoreHome": 2,
+      "scoreAway": 2
     },
     {
       "id": 346342,
