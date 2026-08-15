@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T23:20:53.777Z",
+  "updatedAt": "2026-08-15T23:54:08.584Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 23,
@@ -492,7 +492,7 @@
       "id": 346342,
       "round": 23,
       "dateTime": "2026-08-15T18:30",
-      "status": "live",
+      "status": "finished",
       "venue": "Arena da Baixada",
       "home": {
         "name": "Athletico-PR",
