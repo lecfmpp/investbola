@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T19:38:57.562Z",
+  "updatedAt": "2026-08-15T19:54:59.492Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 23,
@@ -14,20 +14,20 @@
         "shortName": "PAL",
         "badge": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
       },
-      "points": 49,
+      "points": 51,
       "matches": 23,
-      "wins": 14,
-      "draws": 7,
+      "wins": 15,
+      "draws": 6,
       "losses": 2,
-      "goalsFor": 38,
+      "goalsFor": 39,
       "goalsAgainst": 16,
-      "goalDifference": 22,
+      "goalDifference": 23,
       "recentForm": [
         "W",
         "L",
         "W",
         "D",
-        "D"
+        "W"
       ]
     },
     {
@@ -83,20 +83,20 @@
         "shortName": "FLU",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
       },
-      "points": 36,
+      "points": 35,
       "matches": 23,
       "wins": 9,
-      "draws": 9,
-      "losses": 5,
+      "draws": 8,
+      "losses": 6,
       "goalsFor": 31,
-      "goalsAgainst": 26,
-      "goalDifference": 5,
+      "goalsAgainst": 27,
+      "goalDifference": 4,
       "recentForm": [
         "D",
         "D",
         "D",
         "D",
-        "D"
+        "L"
       ]
     },
     {
@@ -486,7 +486,7 @@
         "badge": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
       },
       "scoreHome": 0,
-      "scoreAway": 0
+      "scoreAway": 1
     },
     {
       "id": 346342,
