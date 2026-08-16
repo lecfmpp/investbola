@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T23:20:01.351Z",
+  "updatedAt": "2026-08-16T23:39:42.055Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 23,
@@ -587,7 +587,7 @@
       "id": 346336,
       "round": 23,
       "dateTime": "2026-08-16T18:30",
-      "status": "live",
+      "status": "finished",
       "venue": "Maião",
       "home": {
         "name": "Mirassol",
