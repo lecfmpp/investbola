@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T20:22:33.472Z",
+  "updatedAt": "2026-08-16T20:55:24.225Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 23,
@@ -180,9 +180,9 @@
       "wins": 9,
       "draws": 5,
       "losses": 8,
-      "goalsFor": 28,
+      "goalsFor": 30,
       "goalsAgainst": 27,
-      "goalDifference": 1,
+      "goalDifference": 3,
       "recentForm": [
         "W",
         "D",
@@ -309,6 +309,29 @@
     {
       "position": 14,
       "team": {
+        "name": "Santos",
+        "shortName": "SAN",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      },
+      "points": 25,
+      "matches": 22,
+      "wins": 6,
+      "draws": 7,
+      "losses": 9,
+      "goalsFor": 32,
+      "goalsAgainst": 35,
+      "goalDifference": -3,
+      "recentForm": [
+        "W",
+        "L",
+        "D",
+        "L",
+        "W"
+      ]
+    },
+    {
+      "position": 15,
+      "team": {
         "name": "Grêmio",
         "shortName": "GRE",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
@@ -319,8 +342,8 @@
       "draws": 7,
       "losses": 9,
       "goalsFor": 24,
-      "goalsAgainst": 28,
-      "goalDifference": -4,
+      "goalsAgainst": 30,
+      "goalDifference": -6,
       "recentForm": [
         "L",
         "L",
@@ -330,7 +353,7 @@
       ]
     },
     {
-      "position": 15,
+      "position": 16,
       "team": {
         "name": "Mirassol",
         "shortName": "MIR",
@@ -353,7 +376,7 @@
       ]
     },
     {
-      "position": 16,
+      "position": 17,
       "team": {
         "name": "Internacional",
         "shortName": "INT",
@@ -376,53 +399,7 @@
       ]
     },
     {
-      "position": 17,
-      "team": {
-        "name": "Santos",
-        "shortName": "SAN",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
-      },
-      "points": 23,
-      "matches": 22,
-      "wins": 5,
-      "draws": 8,
-      "losses": 9,
-      "goalsFor": 29,
-      "goalsAgainst": 35,
-      "goalDifference": -6,
-      "recentForm": [
-        "W",
-        "L",
-        "D",
-        "L",
-        "D"
-      ]
-    },
-    {
       "position": 18,
-      "team": {
-        "name": "Vasco",
-        "shortName": "VAS",
-        "badge": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
-      },
-      "points": 23,
-      "matches": 22,
-      "wins": 5,
-      "draws": 8,
-      "losses": 9,
-      "goalsFor": 23,
-      "goalsAgainst": 31,
-      "goalDifference": -8,
-      "recentForm": [
-        "L",
-        "L",
-        "D",
-        "D",
-        "D"
-      ]
-    },
-    {
-      "position": 19,
       "team": {
         "name": "Remo",
         "shortName": "REM",
@@ -442,6 +419,29 @@
         "W",
         "L",
         "D"
+      ]
+    },
+    {
+      "position": 19,
+      "team": {
+        "name": "Vasco",
+        "shortName": "VAS",
+        "badge": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      },
+      "points": 22,
+      "matches": 22,
+      "wins": 5,
+      "draws": 7,
+      "losses": 10,
+      "goalsFor": 23,
+      "goalsAgainst": 34,
+      "goalDifference": -11,
+      "recentForm": [
+        "L",
+        "L",
+        "D",
+        "D",
+        "L"
       ]
     },
     {
@@ -562,7 +562,7 @@
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
       },
       "scoreHome": 0,
-      "scoreAway": 0
+      "scoreAway": 3
     },
     {
       "id": 346338,
@@ -580,7 +580,7 @@
         "shortName": "GRE",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
       },
-      "scoreHome": 1,
+      "scoreHome": 3,
       "scoreAway": 0
     },
     {
