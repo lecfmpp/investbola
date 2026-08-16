@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T22:54:28.233Z",
+  "updatedAt": "2026-08-16T23:20:01.351Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 23,
@@ -42,9 +42,9 @@
       "wins": 13,
       "draws": 6,
       "losses": 3,
-      "goalsFor": 42,
-      "goalsAgainst": 18,
-      "goalDifference": 24,
+      "goalsFor": 44,
+      "goalsAgainst": 19,
+      "goalDifference": 25,
       "recentForm": [
         "W",
         "D",
@@ -106,20 +106,20 @@
         "shortName": "CRU",
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
       },
-      "points": 34,
+      "points": 36,
       "matches": 23,
-      "wins": 9,
-      "draws": 7,
+      "wins": 10,
+      "draws": 6,
       "losses": 7,
-      "goalsFor": 30,
+      "goalsFor": 31,
       "goalsAgainst": 31,
-      "goalDifference": -1,
+      "goalDifference": 0,
       "recentForm": [
         "W",
         "L",
         "W",
         "W",
-        "D"
+        "W"
       ]
     },
     {
@@ -148,29 +148,6 @@
     {
       "position": 7,
       "team": {
-        "name": "Corinthians",
-        "shortName": "COR",
-        "badge": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
-      },
-      "points": 33,
-      "matches": 23,
-      "wins": 8,
-      "draws": 9,
-      "losses": 6,
-      "goalsFor": 24,
-      "goalsAgainst": 20,
-      "goalDifference": 4,
-      "recentForm": [
-        "W",
-        "D",
-        "D",
-        "W",
-        "D"
-      ]
-    },
-    {
-      "position": 8,
-      "team": {
         "name": "Bragantino",
         "shortName": "RBB",
         "badge": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
@@ -192,7 +169,7 @@
       ]
     },
     {
-      "position": 9,
+      "position": 8,
       "team": {
         "name": "Atlético-MG",
         "shortName": "CAM",
@@ -212,6 +189,29 @@
         "W",
         "D",
         "W"
+      ]
+    },
+    {
+      "position": 9,
+      "team": {
+        "name": "Corinthians",
+        "shortName": "COR",
+        "badge": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      },
+      "points": 32,
+      "matches": 23,
+      "wins": 8,
+      "draws": 8,
+      "losses": 7,
+      "goalsFor": 24,
+      "goalsAgainst": 21,
+      "goalDifference": 3,
+      "recentForm": [
+        "W",
+        "D",
+        "D",
+        "W",
+        "L"
       ]
     },
     {
@@ -364,9 +364,9 @@
       "wins": 6,
       "draws": 5,
       "losses": 11,
-      "goalsFor": 24,
-      "goalsAgainst": 33,
-      "goalDifference": -9,
+      "goalsFor": 25,
+      "goalsAgainst": 35,
+      "goalDifference": -10,
       "recentForm": [
         "W",
         "D",
@@ -599,8 +599,8 @@
         "shortName": "FLA",
         "badge": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
       },
-      "scoreHome": 0,
-      "scoreAway": 3
+      "scoreHome": 1,
+      "scoreAway": 5
     },
     {
       "id": 346344,
@@ -638,7 +638,7 @@
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
       },
       "scoreHome": 0,
-      "scoreAway": 0
+      "scoreAway": 1
     },
     {
       "id": 346340,
