@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T21:53:20.186Z",
+  "updatedAt": "2026-08-16T22:21:18.782Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 23,
@@ -37,20 +37,20 @@
         "shortName": "FLA",
         "badge": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
       },
-      "points": 43,
+      "points": 45,
       "matches": 22,
-      "wins": 12,
-      "draws": 7,
+      "wins": 13,
+      "draws": 6,
       "losses": 3,
-      "goalsFor": 39,
+      "goalsFor": 40,
       "goalsAgainst": 18,
-      "goalDifference": 21,
+      "goalDifference": 22,
       "recentForm": [
         "W",
         "D",
         "D",
         "W",
-        "D"
+        "W"
       ]
     },
     {
@@ -217,29 +217,6 @@
     {
       "position": 10,
       "team": {
-        "name": "Botafogo",
-        "shortName": "BOT",
-        "badge": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
-      },
-      "points": 31,
-      "matches": 22,
-      "wins": 8,
-      "draws": 7,
-      "losses": 7,
-      "goalsFor": 35,
-      "goalsAgainst": 33,
-      "goalDifference": 2,
-      "recentForm": [
-        "L",
-        "W",
-        "W",
-        "D",
-        "D"
-      ]
-    },
-    {
-      "position": 11,
-      "team": {
         "name": "Coritiba",
         "shortName": "CFC",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
@@ -261,7 +238,53 @@
       ]
     },
     {
+      "position": 11,
+      "team": {
+        "name": "Botafogo",
+        "shortName": "BOT",
+        "badge": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      },
+      "points": 30,
+      "matches": 22,
+      "wins": 8,
+      "draws": 6,
+      "losses": 8,
+      "goalsFor": 35,
+      "goalsAgainst": 34,
+      "goalDifference": 1,
+      "recentForm": [
+        "L",
+        "W",
+        "W",
+        "D",
+        "L"
+      ]
+    },
+    {
       "position": 12,
+      "team": {
+        "name": "Vitória",
+        "shortName": "VIT",
+        "badge": "https://s.sde.globo.com/media/organizations/2025/12/18/Vitoria_2025.svg"
+      },
+      "points": 29,
+      "matches": 23,
+      "wins": 8,
+      "draws": 5,
+      "losses": 10,
+      "goalsFor": 23,
+      "goalsAgainst": 33,
+      "goalDifference": -10,
+      "recentForm": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "W"
+      ]
+    },
+    {
+      "position": 13,
       "team": {
         "name": "São Paulo",
         "shortName": "SAO",
@@ -279,29 +302,6 @@
         "L",
         "L",
         "D",
-        "L",
-        "D"
-      ]
-    },
-    {
-      "position": 13,
-      "team": {
-        "name": "Vitória",
-        "shortName": "VIT",
-        "badge": "https://s.sde.globo.com/media/organizations/2025/12/18/Vitoria_2025.svg"
-      },
-      "points": 27,
-      "matches": 23,
-      "wins": 7,
-      "draws": 6,
-      "losses": 10,
-      "goalsFor": 22,
-      "goalsAgainst": 33,
-      "goalDifference": -11,
-      "recentForm": [
-        "W",
-        "L",
-        "L",
         "L",
         "D"
       ]
@@ -359,20 +359,20 @@
         "shortName": "MIR",
         "badge": "https://s.sde.globo.com/media/organizations/2026/07/17/MIrassol.svg"
       },
-      "points": 24,
+      "points": 23,
       "matches": 22,
       "wins": 6,
-      "draws": 6,
-      "losses": 10,
+      "draws": 5,
+      "losses": 11,
       "goalsFor": 24,
-      "goalsAgainst": 30,
-      "goalDifference": -6,
+      "goalsAgainst": 31,
+      "goalDifference": -7,
       "recentForm": [
         "W",
         "D",
         "W",
         "L",
-        "D"
+        "L"
       ]
     },
     {
@@ -600,7 +600,7 @@
         "badge": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
       },
       "scoreHome": 0,
-      "scoreAway": 0
+      "scoreAway": 1
     },
     {
       "id": 346344,
@@ -618,7 +618,7 @@
         "shortName": "BOT",
         "badge": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
       },
-      "scoreHome": 0,
+      "scoreHome": 1,
       "scoreAway": 0
     },
     {
