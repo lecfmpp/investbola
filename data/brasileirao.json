@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T18:59:46.376Z",
+  "updatedAt": "2026-08-16T19:27:53.419Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 23,
@@ -171,6 +171,29 @@
     {
       "position": 8,
       "team": {
+        "name": "Atlético-MG",
+        "shortName": "CAM",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      },
+      "points": 32,
+      "matches": 22,
+      "wins": 9,
+      "draws": 5,
+      "losses": 8,
+      "goalsFor": 28,
+      "goalsAgainst": 27,
+      "goalDifference": 1,
+      "recentForm": [
+        "W",
+        "D",
+        "W",
+        "D",
+        "W"
+      ]
+    },
+    {
+      "position": 9,
+      "team": {
         "name": "Corinthians",
         "shortName": "COR",
         "badge": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
@@ -192,7 +215,7 @@
       ]
     },
     {
-      "position": 9,
+      "position": 10,
       "team": {
         "name": "Coritiba",
         "shortName": "CFC",
@@ -215,7 +238,7 @@
       ]
     },
     {
-      "position": 10,
+      "position": 11,
       "team": {
         "name": "Botafogo",
         "shortName": "BOT",
@@ -233,29 +256,6 @@
         "D",
         "L",
         "W",
-        "W",
-        "D"
-      ]
-    },
-    {
-      "position": 11,
-      "team": {
-        "name": "Atlético-MG",
-        "shortName": "CAM",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
-      },
-      "points": 29,
-      "matches": 21,
-      "wins": 8,
-      "draws": 5,
-      "losses": 8,
-      "goalsFor": 27,
-      "goalsAgainst": 27,
-      "goalDifference": 0,
-      "recentForm": [
-        "L",
-        "W",
-        "D",
         "W",
         "D"
       ]
@@ -314,19 +314,19 @@
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
       },
       "points": 25,
-      "matches": 21,
+      "matches": 22,
       "wins": 6,
       "draws": 7,
-      "losses": 8,
+      "losses": 9,
       "goalsFor": 24,
-      "goalsAgainst": 27,
-      "goalDifference": -3,
+      "goalsAgainst": 28,
+      "goalDifference": -4,
       "recentForm": [
-        "W",
         "L",
         "L",
         "D",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -382,20 +382,20 @@
         "shortName": "SAN",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
       },
-      "points": 22,
-      "matches": 21,
+      "points": 23,
+      "matches": 22,
       "wins": 5,
-      "draws": 7,
+      "draws": 8,
       "losses": 9,
       "goalsFor": 29,
       "goalsAgainst": 35,
       "goalDifference": -6,
       "recentForm": [
-        "L",
         "W",
         "L",
         "D",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -405,10 +405,10 @@
         "shortName": "VAS",
         "badge": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
       },
-      "points": 22,
-      "matches": 21,
+      "points": 23,
+      "matches": 22,
       "wins": 5,
-      "draws": 7,
+      "draws": 8,
       "losses": 9,
       "goalsFor": 23,
       "goalsAgainst": 31,
@@ -416,7 +416,7 @@
       "recentForm": [
         "L",
         "L",
-        "L",
+        "D",
         "D",
         "D"
       ]
@@ -549,7 +549,7 @@
       "id": 346332,
       "round": 23,
       "dateTime": "2026-08-16T16:00",
-      "status": "scheduled",
+      "status": "live",
       "venue": "São Januário",
       "home": {
         "name": "Vasco",
@@ -561,14 +561,14 @@
         "shortName": "SAN",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 0,
+      "scoreAway": 0
     },
     {
       "id": 346338,
       "round": 23,
       "dateTime": "2026-08-16T16:00",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Arena MRV",
       "home": {
         "name": "Atlético-MG",
@@ -580,8 +580,8 @@
         "shortName": "GRE",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 1,
+      "scoreAway": 0
     },
     {
       "id": 346336,
