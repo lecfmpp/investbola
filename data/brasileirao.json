@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T01:20:46.674Z",
+  "updatedAt": "2026-08-16T02:45:57.894Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 23,
@@ -211,7 +211,7 @@
         "D",
         "L",
         "W",
-        "L"
+        "D"
       ]
     },
     {
@@ -280,7 +280,7 @@
         "L",
         "D",
         "L",
-        "W"
+        "D"
       ]
     },
     {
@@ -511,7 +511,7 @@
       "id": 346333,
       "round": 23,
       "dateTime": "2026-08-15T21:00",
-      "status": "live",
+      "status": "finished",
       "venue": "Morumbis",
       "home": {
         "name": "São Paulo",
@@ -524,7 +524,7 @@
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
       },
       "scoreHome": 1,
-      "scoreAway": 0
+      "scoreAway": 1
     },
     {
       "id": 346346,
