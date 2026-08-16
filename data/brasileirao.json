@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T23:54:08.584Z",
+  "updatedAt": "2026-08-16T01:20:46.674Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 23,
@@ -194,6 +194,29 @@
     {
       "position": 9,
       "team": {
+        "name": "Coritiba",
+        "shortName": "CFC",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "points": 31,
+      "matches": 23,
+      "wins": 8,
+      "draws": 7,
+      "losses": 8,
+      "goalsFor": 28,
+      "goalsAgainst": 30,
+      "goalDifference": -2,
+      "recentForm": [
+        "L",
+        "D",
+        "L",
+        "W",
+        "L"
+      ]
+    },
+    {
+      "position": 10,
+      "team": {
         "name": "Botafogo",
         "shortName": "BOT",
         "badge": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
@@ -212,29 +235,6 @@
         "W",
         "W",
         "D"
-      ]
-    },
-    {
-      "position": 10,
-      "team": {
-        "name": "Coritiba",
-        "shortName": "CFC",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
-      },
-      "points": 30,
-      "matches": 22,
-      "wins": 8,
-      "draws": 6,
-      "losses": 8,
-      "goalsFor": 27,
-      "goalsAgainst": 29,
-      "goalDifference": -2,
-      "recentForm": [
-        "L",
-        "L",
-        "D",
-        "L",
-        "W"
       ]
     },
     {
@@ -267,20 +267,20 @@
         "shortName": "SAO",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
       },
-      "points": 26,
-      "matches": 21,
+      "points": 27,
+      "matches": 22,
       "wins": 7,
-      "draws": 5,
+      "draws": 6,
       "losses": 9,
-      "goalsFor": 26,
-      "goalsAgainst": 25,
+      "goalsFor": 27,
+      "goalsAgainst": 26,
       "goalDifference": 1,
       "recentForm": [
-        "D",
         "L",
         "L",
         "D",
-        "L"
+        "L",
+        "W"
       ]
     },
     {
@@ -511,7 +511,7 @@
       "id": 346333,
       "round": 23,
       "dateTime": "2026-08-15T21:00",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Morumbis",
       "home": {
         "name": "São Paulo",
@@ -523,8 +523,8 @@
         "shortName": "CFC",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 1,
+      "scoreAway": 0
     },
     {
       "id": 346346,
