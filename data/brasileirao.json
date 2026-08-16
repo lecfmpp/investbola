@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T15:25:13.958Z",
+  "updatedAt": "2026-08-16T15:55:04.366Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 23,
@@ -111,8 +111,8 @@
       "wins": 8,
       "draws": 10,
       "losses": 5,
-      "goalsFor": 31,
-      "goalsAgainst": 27,
+      "goalsFor": 32,
+      "goalsAgainst": 28,
       "goalDifference": 4,
       "recentForm": [
         "D",
@@ -456,8 +456,8 @@
       "wins": 1,
       "draws": 8,
       "losses": 13,
-      "goalsFor": 22,
-      "goalsAgainst": 45,
+      "goalsFor": 23,
+      "goalsAgainst": 46,
       "goalDifference": -23,
       "recentForm": [
         "L",
@@ -542,8 +542,8 @@
         "shortName": "BAH",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
       },
-      "scoreHome": 2,
-      "scoreAway": 2
+      "scoreHome": 3,
+      "scoreAway": 3
     },
     {
       "id": 346332,
