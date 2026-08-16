@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T14:56:24.004Z",
+  "updatedAt": "2026-08-16T15:25:13.958Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 23,
@@ -106,20 +106,20 @@
         "shortName": "BAH",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
       },
-      "points": 36,
+      "points": 34,
       "matches": 23,
-      "wins": 9,
-      "draws": 9,
+      "wins": 8,
+      "draws": 10,
       "losses": 5,
       "goalsFor": 31,
-      "goalsAgainst": 26,
-      "goalDifference": 5,
+      "goalsAgainst": 27,
+      "goalDifference": 4,
       "recentForm": [
         "D",
         "D",
         "D",
         "D",
-        "W"
+        "D"
       ]
     },
     {
@@ -451,20 +451,20 @@
         "shortName": "CHA",
         "badge": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
       },
-      "points": 10,
+      "points": 11,
       "matches": 22,
       "wins": 1,
-      "draws": 7,
-      "losses": 14,
-      "goalsFor": 21,
+      "draws": 8,
+      "losses": 13,
+      "goalsFor": 22,
       "goalsAgainst": 45,
-      "goalDifference": -24,
+      "goalDifference": -23,
       "recentForm": [
         "L",
         "L",
         "D",
         "L",
-        "L"
+        "D"
       ]
     }
   ],
@@ -542,7 +542,7 @@
         "shortName": "BAH",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
       },
-      "scoreHome": 1,
+      "scoreHome": 2,
       "scoreAway": 2
     },
     {
