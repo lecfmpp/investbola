@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T22:57:03.351Z",
+  "updatedAt": "2026-08-17T23:27:49.068Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 23,
@@ -309,6 +309,29 @@
     {
       "position": 14,
       "team": {
+        "name": "Internacional",
+        "shortName": "INT",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
+      },
+      "points": 26,
+      "matches": 23,
+      "wins": 6,
+      "draws": 8,
+      "losses": 9,
+      "goalsFor": 24,
+      "goalsAgainst": 27,
+      "goalDifference": -3,
+      "recentForm": [
+        "L",
+        "L",
+        "D",
+        "D",
+        "W"
+      ]
+    },
+    {
+      "position": 15,
+      "team": {
         "name": "Santos",
         "shortName": "SAN",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
@@ -330,7 +353,7 @@
       ]
     },
     {
-      "position": 15,
+      "position": 16,
       "team": {
         "name": "Grêmio",
         "shortName": "GRE",
@@ -353,7 +376,7 @@
       ]
     },
     {
-      "position": 16,
+      "position": 17,
       "team": {
         "name": "Mirassol",
         "shortName": "MIR",
@@ -376,29 +399,6 @@
       ]
     },
     {
-      "position": 17,
-      "team": {
-        "name": "Internacional",
-        "shortName": "INT",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
-      },
-      "points": 23,
-      "matches": 22,
-      "wins": 5,
-      "draws": 8,
-      "losses": 9,
-      "goalsFor": 23,
-      "goalsAgainst": 27,
-      "goalDifference": -4,
-      "recentForm": [
-        "L",
-        "L",
-        "L",
-        "D",
-        "D"
-      ]
-    },
-    {
       "position": 18,
       "team": {
         "name": "Remo",
@@ -406,19 +406,19 @@
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
       },
       "points": 22,
-      "matches": 22,
+      "matches": 23,
       "wins": 5,
       "draws": 7,
-      "losses": 10,
+      "losses": 11,
       "goalsFor": 26,
-      "goalsAgainst": 36,
-      "goalDifference": -10,
+      "goalsAgainst": 37,
+      "goalDifference": -11,
       "recentForm": [
-        "W",
         "L",
         "W",
         "L",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -644,7 +644,7 @@
       "id": 346340,
       "round": 23,
       "dateTime": "2026-08-17T20:00",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Beira-Rio",
       "home": {
         "name": "Internacional",
@@ -656,8 +656,8 @@
         "shortName": "REM",
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 1,
+      "scoreAway": 0
     }
   ]
 }
