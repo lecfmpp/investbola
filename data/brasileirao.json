@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-08-18T14:43:49.906Z",
+  "updatedAt": "2026-08-18T15:32:23.352Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
-    "number": 23,
+    "number": 24,
     "total": 38,
-    "label": "23a rodada"
+    "label": "24a rodada"
   },
   "standings": [
     {
@@ -470,10 +470,10 @@
   ],
   "matches": [
     {
-      "id": 346331,
-      "round": 23,
-      "dateTime": "2026-08-15T16:30",
-      "status": "finished",
+      "id": 346371,
+      "round": 24,
+      "dateTime": "2026-08-22T16:00",
+      "status": "scheduled",
       "venue": "Maracanã",
       "home": {
         "name": "Fluminense",
@@ -481,170 +481,18 @@
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
       },
       "away": {
-        "name": "Palmeiras",
-        "shortName": "PAL",
-        "badge": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
+        "name": "Remo",
+        "shortName": "REM",
+        "badge": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
       },
-      "scoreHome": 3,
-      "scoreAway": 2
+      "scoreHome": null,
+      "scoreAway": null
     },
     {
-      "id": 346342,
-      "round": 23,
-      "dateTime": "2026-08-15T18:30",
-      "status": "finished",
-      "venue": "Arena da Baixada",
-      "home": {
-        "name": "Athletico-PR",
-        "shortName": "CAP",
-        "badge": "https://s.sde.globo.com/media/organizations/2026/01/07/Athletico-PR.svg"
-      },
-      "away": {
-        "name": "Bragantino",
-        "shortName": "RBB",
-        "badge": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
-      },
-      "scoreHome": 1,
-      "scoreAway": 1
-    },
-    {
-      "id": 346333,
-      "round": 23,
-      "dateTime": "2026-08-15T21:00",
-      "status": "finished",
-      "venue": "Morumbis",
-      "home": {
-        "name": "São Paulo",
-        "shortName": "SAO",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
-      },
-      "away": {
-        "name": "Coritiba",
-        "shortName": "CFC",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
-      },
-      "scoreHome": 1,
-      "scoreAway": 1
-    },
-    {
-      "id": 346346,
-      "round": 23,
-      "dateTime": "2026-08-16T11:00",
-      "status": "finished",
-      "venue": "Arena Condá",
-      "home": {
-        "name": "Chapecoense",
-        "shortName": "CHA",
-        "badge": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
-      },
-      "away": {
-        "name": "Bahia",
-        "shortName": "BAH",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
-      },
-      "scoreHome": 3,
-      "scoreAway": 3
-    },
-    {
-      "id": 346332,
-      "round": 23,
-      "dateTime": "2026-08-16T16:00",
-      "status": "finished",
-      "venue": "São Januário",
-      "home": {
-        "name": "Vasco",
-        "shortName": "VAS",
-        "badge": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
-      },
-      "away": {
-        "name": "Santos",
-        "shortName": "SAN",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
-      },
-      "scoreHome": 0,
-      "scoreAway": 3
-    },
-    {
-      "id": 346338,
-      "round": 23,
-      "dateTime": "2026-08-16T16:00",
-      "status": "finished",
-      "venue": "Arena MRV",
-      "home": {
-        "name": "Atlético-MG",
-        "shortName": "CAM",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
-      },
-      "away": {
-        "name": "Grêmio",
-        "shortName": "GRE",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
-      },
-      "scoreHome": 3,
-      "scoreAway": 0
-    },
-    {
-      "id": 346336,
-      "round": 23,
-      "dateTime": "2026-08-16T18:30",
-      "status": "finished",
-      "venue": "Maião",
-      "home": {
-        "name": "Mirassol",
-        "shortName": "MIR",
-        "badge": "https://s.sde.globo.com/media/organizations/2026/07/17/MIrassol.svg"
-      },
-      "away": {
-        "name": "Flamengo",
-        "shortName": "FLA",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
-      },
-      "scoreHome": 1,
-      "scoreAway": 5
-    },
-    {
-      "id": 346344,
-      "round": 23,
-      "dateTime": "2026-08-16T18:30",
-      "status": "finished",
-      "venue": "Barradão",
-      "home": {
-        "name": "Vitória",
-        "shortName": "VIT",
-        "badge": "https://s.sde.globo.com/media/organizations/2025/12/18/Vitoria_2025.svg"
-      },
-      "away": {
-        "name": "Botafogo",
-        "shortName": "BOT",
-        "badge": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
-      },
-      "scoreHome": 1,
-      "scoreAway": 0
-    },
-    {
-      "id": 346334,
-      "round": 23,
-      "dateTime": "2026-08-16T19:30",
-      "status": "finished",
-      "venue": "Neo Química Arena",
-      "home": {
-        "name": "Corinthians",
-        "shortName": "COR",
-        "badge": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
-      },
-      "away": {
-        "name": "Cruzeiro",
-        "shortName": "CRU",
-        "badge": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
-      },
-      "scoreHome": 1,
-      "scoreAway": 2
-    },
-    {
-      "id": 346340,
-      "round": 23,
-      "dateTime": "2026-08-17T20:00",
-      "status": "finished",
+      "id": 346381,
+      "round": 24,
+      "dateTime": "2026-08-22T18:30",
+      "status": "scheduled",
       "venue": "Beira-Rio",
       "home": {
         "name": "Internacional",
@@ -652,12 +500,164 @@
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
       },
       "away": {
-        "name": "Remo",
-        "shortName": "REM",
-        "badge": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+        "name": "Atlético-MG",
+        "shortName": "CAM",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
       },
-      "scoreHome": 1,
-      "scoreAway": 1
+      "scoreHome": null,
+      "scoreAway": null
+    },
+    {
+      "id": 346379,
+      "round": 24,
+      "dateTime": "2026-08-22T20:30",
+      "status": "scheduled",
+      "venue": "Mineirão",
+      "home": {
+        "name": "Cruzeiro",
+        "shortName": "CRU",
+        "badge": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
+      },
+      "away": {
+        "name": "Flamengo",
+        "shortName": "FLA",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
+      },
+      "scoreHome": null,
+      "scoreAway": null
+    },
+    {
+      "id": 346375,
+      "round": 24,
+      "dateTime": "2026-08-23T16:00",
+      "status": "scheduled",
+      "venue": "Nubank Parque",
+      "home": {
+        "name": "Palmeiras",
+        "shortName": "PAL",
+        "badge": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
+      },
+      "away": {
+        "name": "Vasco",
+        "shortName": "VAS",
+        "badge": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      },
+      "scoreHome": null,
+      "scoreAway": null
+    },
+    {
+      "id": 346377,
+      "round": 24,
+      "dateTime": "2026-08-23T16:00",
+      "status": "scheduled",
+      "venue": "Cícero de Souza Marques",
+      "home": {
+        "name": "Bragantino",
+        "shortName": "RBB",
+        "badge": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+      },
+      "away": {
+        "name": "Grêmio",
+        "shortName": "GRE",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
+      },
+      "scoreHome": null,
+      "scoreAway": null
+    },
+    {
+      "id": 346385,
+      "round": 24,
+      "dateTime": "2026-08-23T16:00",
+      "status": "scheduled",
+      "venue": "Barradão",
+      "home": {
+        "name": "Vitória",
+        "shortName": "VIT",
+        "badge": "https://s.sde.globo.com/media/organizations/2025/12/18/Vitoria_2025.svg"
+      },
+      "away": {
+        "name": "Bahia",
+        "shortName": "BAH",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      },
+      "scoreHome": null,
+      "scoreAway": null
+    },
+    {
+      "id": 346373,
+      "round": 24,
+      "dateTime": "2026-08-23T18:30",
+      "status": "scheduled",
+      "venue": "Vila Belmiro",
+      "home": {
+        "name": "Santos",
+        "shortName": "SAN",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      },
+      "away": {
+        "name": "Mirassol",
+        "shortName": "MIR",
+        "badge": "https://s.sde.globo.com/media/organizations/2026/07/17/MIrassol.svg"
+      },
+      "scoreHome": null,
+      "scoreAway": null
+    },
+    {
+      "id": 346387,
+      "round": 24,
+      "dateTime": "2026-08-23T18:30",
+      "status": "scheduled",
+      "venue": "Arena Condá",
+      "home": {
+        "name": "Chapecoense",
+        "shortName": "CHA",
+        "badge": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
+      },
+      "away": {
+        "name": "São Paulo",
+        "shortName": "SAO",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
+      },
+      "scoreHome": null,
+      "scoreAway": null
+    },
+    {
+      "id": 346383,
+      "round": 24,
+      "dateTime": "2026-08-23T19:30",
+      "status": "scheduled",
+      "venue": "Couto Pereira",
+      "home": {
+        "name": "Coritiba",
+        "shortName": "CFC",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "away": {
+        "name": "Corinthians",
+        "shortName": "COR",
+        "badge": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      },
+      "scoreHome": null,
+      "scoreAway": null
+    },
+    {
+      "id": 346372,
+      "round": 24,
+      "dateTime": "2026-08-24T20:00",
+      "status": "scheduled",
+      "venue": "Nilton Santos (Engenhão)",
+      "home": {
+        "name": "Botafogo",
+        "shortName": "BOT",
+        "badge": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      },
+      "away": {
+        "name": "Athletico-PR",
+        "shortName": "CAP",
+        "badge": "https://s.sde.globo.com/media/organizations/2026/01/07/Athletico-PR.svg"
+      },
+      "scoreHome": null,
+      "scoreAway": null
     }
   ]
 }
