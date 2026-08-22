@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T21:54:54.519Z",
+  "updatedAt": "2026-08-22T22:22:26.006Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 24,
@@ -148,6 +148,29 @@
     {
       "position": 7,
       "team": {
+        "name": "Atlético-MG",
+        "shortName": "CAM",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      },
+      "points": 33,
+      "matches": 23,
+      "wins": 9,
+      "draws": 6,
+      "losses": 8,
+      "goalsFor": 30,
+      "goalsAgainst": 27,
+      "goalDifference": 3,
+      "recentForm": [
+        "D",
+        "W",
+        "D",
+        "W",
+        "D"
+      ]
+    },
+    {
+      "position": 8,
+      "team": {
         "name": "Bragantino",
         "shortName": "RBB",
         "badge": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
@@ -166,29 +189,6 @@
         "D",
         "L",
         "D"
-      ]
-    },
-    {
-      "position": 8,
-      "team": {
-        "name": "Atlético-MG",
-        "shortName": "CAM",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
-      },
-      "points": 32,
-      "matches": 22,
-      "wins": 9,
-      "draws": 5,
-      "losses": 8,
-      "goalsFor": 30,
-      "goalsAgainst": 27,
-      "goalDifference": 3,
-      "recentForm": [
-        "W",
-        "D",
-        "W",
-        "D",
-        "W"
       ]
     },
     {
@@ -359,17 +359,17 @@
         "shortName": "INT",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
       },
-      "points": 24,
-      "matches": 23,
+      "points": 25,
+      "matches": 24,
       "wins": 5,
-      "draws": 9,
+      "draws": 10,
       "losses": 9,
       "goalsFor": 24,
       "goalsAgainst": 28,
       "goalDifference": -4,
       "recentForm": [
         "L",
-        "L",
+        "D",
         "D",
         "D",
         "D"
@@ -492,7 +492,7 @@
       "id": 346381,
       "round": 24,
       "dateTime": "2026-08-22T18:30",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Beira-Rio",
       "home": {
         "name": "Internacional",
@@ -504,8 +504,8 @@
         "shortName": "CAM",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 0,
+      "scoreAway": 0
     },
     {
       "id": 346379,
