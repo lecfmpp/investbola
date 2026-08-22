@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T19:01:42.858Z",
+  "updatedAt": "2026-08-22T19:40:37.143Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 24,
@@ -83,10 +83,10 @@
         "shortName": "FLU",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
       },
-      "points": 38,
-      "matches": 23,
+      "points": 39,
+      "matches": 24,
       "wins": 10,
-      "draws": 8,
+      "draws": 9,
       "losses": 5,
       "goalsFor": 34,
       "goalsAgainst": 28,
@@ -95,8 +95,8 @@
         "D",
         "D",
         "D",
-        "D",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -378,6 +378,29 @@
     {
       "position": 17,
       "team": {
+        "name": "Remo",
+        "shortName": "REM",
+        "badge": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+      },
+      "points": 24,
+      "matches": 24,
+      "wins": 5,
+      "draws": 9,
+      "losses": 10,
+      "goalsFor": 27,
+      "goalsAgainst": 37,
+      "goalDifference": -10,
+      "recentForm": [
+        "W",
+        "L",
+        "D",
+        "D",
+        "D"
+      ]
+    },
+    {
+      "position": 18,
+      "team": {
         "name": "Mirassol",
         "shortName": "MIR",
         "badge": "https://s.sde.globo.com/media/organizations/2026/07/17/MIrassol.svg"
@@ -396,29 +419,6 @@
         "W",
         "L",
         "L"
-      ]
-    },
-    {
-      "position": 18,
-      "team": {
-        "name": "Remo",
-        "shortName": "REM",
-        "badge": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
-      },
-      "points": 23,
-      "matches": 23,
-      "wins": 5,
-      "draws": 8,
-      "losses": 10,
-      "goalsFor": 27,
-      "goalsAgainst": 37,
-      "goalDifference": -10,
-      "recentForm": [
-        "L",
-        "W",
-        "L",
-        "D",
-        "D"
       ]
     },
     {
@@ -473,7 +473,7 @@
       "id": 346371,
       "round": 24,
       "dateTime": "2026-08-22T16:00",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Maracanã",
       "home": {
         "name": "Fluminense",
@@ -485,8 +485,8 @@
         "shortName": "REM",
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 0,
+      "scoreAway": 0
     },
     {
       "id": 346381,
