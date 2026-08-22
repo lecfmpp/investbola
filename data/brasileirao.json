@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T19:40:37.143Z",
+  "updatedAt": "2026-08-22T20:22:59.247Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 24,
@@ -83,20 +83,20 @@
         "shortName": "FLU",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
       },
-      "points": 39,
+      "points": 38,
       "matches": 24,
       "wins": 10,
-      "draws": 9,
-      "losses": 5,
+      "draws": 8,
+      "losses": 6,
       "goalsFor": 34,
-      "goalsAgainst": 28,
-      "goalDifference": 6,
+      "goalsAgainst": 29,
+      "goalDifference": 5,
       "recentForm": [
         "D",
         "D",
         "D",
         "W",
-        "D"
+        "L"
       ]
     },
     {
@@ -309,6 +309,29 @@
     {
       "position": 14,
       "team": {
+        "name": "Remo",
+        "shortName": "REM",
+        "badge": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+      },
+      "points": 26,
+      "matches": 24,
+      "wins": 6,
+      "draws": 8,
+      "losses": 10,
+      "goalsFor": 28,
+      "goalsAgainst": 37,
+      "goalDifference": -9,
+      "recentForm": [
+        "W",
+        "L",
+        "D",
+        "D",
+        "W"
+      ]
+    },
+    {
+      "position": 15,
+      "team": {
         "name": "Santos",
         "shortName": "SAN",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
@@ -330,7 +353,7 @@
       ]
     },
     {
-      "position": 15,
+      "position": 16,
       "team": {
         "name": "Grêmio",
         "shortName": "GRE",
@@ -353,7 +376,7 @@
       ]
     },
     {
-      "position": 16,
+      "position": 17,
       "team": {
         "name": "Internacional",
         "shortName": "INT",
@@ -369,29 +392,6 @@
       "goalDifference": -4,
       "recentForm": [
         "L",
-        "L",
-        "D",
-        "D",
-        "D"
-      ]
-    },
-    {
-      "position": 17,
-      "team": {
-        "name": "Remo",
-        "shortName": "REM",
-        "badge": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
-      },
-      "points": 24,
-      "matches": 24,
-      "wins": 5,
-      "draws": 9,
-      "losses": 10,
-      "goalsFor": 27,
-      "goalsAgainst": 37,
-      "goalDifference": -10,
-      "recentForm": [
-        "W",
         "L",
         "D",
         "D",
@@ -486,7 +486,7 @@
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
       },
       "scoreHome": 0,
-      "scoreAway": 0
+      "scoreAway": 1
     },
     {
       "id": 346381,
