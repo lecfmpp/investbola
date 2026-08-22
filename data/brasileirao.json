@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T20:56:46.643Z",
+  "updatedAt": "2026-08-22T21:26:34.205Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 24,
@@ -83,20 +83,20 @@
         "shortName": "FLU",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
       },
-      "points": 38,
+      "points": 41,
       "matches": 24,
-      "wins": 10,
+      "wins": 11,
       "draws": 8,
-      "losses": 6,
-      "goalsFor": 34,
+      "losses": 5,
+      "goalsFor": 36,
       "goalsAgainst": 29,
-      "goalDifference": 5,
+      "goalDifference": 7,
       "recentForm": [
         "D",
         "D",
         "D",
         "W",
-        "L"
+        "W"
       ]
     },
     {
@@ -309,29 +309,6 @@
     {
       "position": 14,
       "team": {
-        "name": "Remo",
-        "shortName": "REM",
-        "badge": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
-      },
-      "points": 26,
-      "matches": 24,
-      "wins": 6,
-      "draws": 8,
-      "losses": 10,
-      "goalsFor": 28,
-      "goalsAgainst": 37,
-      "goalDifference": -9,
-      "recentForm": [
-        "W",
-        "L",
-        "D",
-        "D",
-        "W"
-      ]
-    },
-    {
-      "position": 15,
-      "team": {
         "name": "Santos",
         "shortName": "SAN",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
@@ -353,7 +330,7 @@
       ]
     },
     {
-      "position": 16,
+      "position": 15,
       "team": {
         "name": "Grêmio",
         "shortName": "GRE",
@@ -376,7 +353,7 @@
       ]
     },
     {
-      "position": 17,
+      "position": 16,
       "team": {
         "name": "Internacional",
         "shortName": "INT",
@@ -399,7 +376,7 @@
       ]
     },
     {
-      "position": 18,
+      "position": 17,
       "team": {
         "name": "Mirassol",
         "shortName": "MIR",
@@ -418,6 +395,29 @@
         "D",
         "W",
         "L",
+        "L"
+      ]
+    },
+    {
+      "position": 18,
+      "team": {
+        "name": "Remo",
+        "shortName": "REM",
+        "badge": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+      },
+      "points": 23,
+      "matches": 24,
+      "wins": 5,
+      "draws": 8,
+      "losses": 11,
+      "goalsFor": 28,
+      "goalsAgainst": 39,
+      "goalDifference": -11,
+      "recentForm": [
+        "W",
+        "L",
+        "D",
+        "D",
         "L"
       ]
     },
@@ -473,7 +473,7 @@
       "id": 346371,
       "round": 24,
       "dateTime": "2026-08-22T16:00",
-      "status": "live",
+      "status": "finished",
       "venue": "Maracanã",
       "home": {
         "name": "Fluminense",
@@ -485,7 +485,7 @@
         "shortName": "REM",
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
       },
-      "scoreHome": 0,
+      "scoreHome": 2,
       "scoreAway": 1
     },
     {
