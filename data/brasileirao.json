@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T21:24:44.921Z",
+  "updatedAt": "2026-08-23T21:54:34.808Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 24,
@@ -290,19 +290,19 @@
         "shortName": "SAO",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
       },
-      "points": 27,
-      "matches": 22,
+      "points": 28,
+      "matches": 23,
       "wins": 7,
-      "draws": 6,
+      "draws": 7,
       "losses": 9,
       "goalsFor": 27,
       "goalsAgainst": 26,
       "goalDifference": 1,
       "recentForm": [
         "L",
-        "L",
         "D",
         "L",
+        "D",
         "D"
       ]
     },
@@ -313,20 +313,20 @@
         "shortName": "SAN",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
       },
-      "points": 25,
-      "matches": 22,
+      "points": 26,
+      "matches": 23,
       "wins": 6,
-      "draws": 7,
+      "draws": 8,
       "losses": 9,
       "goalsFor": 32,
       "goalsAgainst": 35,
       "goalDifference": -3,
       "recentForm": [
-        "W",
         "L",
         "D",
         "L",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -382,20 +382,20 @@
         "shortName": "MIR",
         "badge": "https://s.sde.globo.com/media/organizations/2026/07/17/MIrassol.svg"
       },
-      "points": 23,
-      "matches": 22,
+      "points": 24,
+      "matches": 23,
       "wins": 6,
-      "draws": 5,
+      "draws": 6,
       "losses": 11,
       "goalsFor": 25,
       "goalsAgainst": 35,
       "goalDifference": -10,
       "recentForm": [
-        "W",
         "D",
         "W",
         "L",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -451,19 +451,19 @@
         "shortName": "CHA",
         "badge": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
       },
-      "points": 11,
-      "matches": 22,
+      "points": 12,
+      "matches": 23,
       "wins": 1,
-      "draws": 8,
+      "draws": 9,
       "losses": 13,
       "goalsFor": 23,
       "goalsAgainst": 46,
       "goalDifference": -23,
       "recentForm": [
         "L",
-        "L",
         "D",
         "L",
+        "D",
         "D"
       ]
     }
@@ -587,7 +587,7 @@
       "id": 346373,
       "round": 24,
       "dateTime": "2026-08-23T18:30",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Vila Belmiro",
       "home": {
         "name": "Santos",
@@ -599,14 +599,14 @@
         "shortName": "MIR",
         "badge": "https://s.sde.globo.com/media/organizations/2026/07/17/MIrassol.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 0,
+      "scoreAway": 0
     },
     {
       "id": 346387,
       "round": 24,
       "dateTime": "2026-08-23T18:30",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Arena Condá",
       "home": {
         "name": "Chapecoense",
@@ -618,8 +618,8 @@
         "shortName": "SAO",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 0,
+      "scoreAway": 0
     },
     {
       "id": 346383,
