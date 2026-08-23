@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T23:54:22.034Z",
+  "updatedAt": "2026-08-23T01:22:18.213Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 24,
@@ -42,8 +42,8 @@
       "wins": 13,
       "draws": 7,
       "losses": 3,
-      "goalsFor": 44,
-      "goalsAgainst": 19,
+      "goalsFor": 45,
+      "goalsAgainst": 20,
       "goalDifference": 25,
       "recentForm": [
         "D",
@@ -111,8 +111,8 @@
       "wins": 10,
       "draws": 7,
       "losses": 7,
-      "goalsFor": 32,
-      "goalsAgainst": 32,
+      "goalsFor": 33,
+      "goalsAgainst": 33,
       "goalDifference": 0,
       "recentForm": [
         "L",
@@ -492,7 +492,7 @@
       "id": 346381,
       "round": 24,
       "dateTime": "2026-08-22T18:30",
-      "status": "live",
+      "status": "finished",
       "venue": "Beira-Rio",
       "home": {
         "name": "Internacional",
@@ -523,8 +523,8 @@
         "shortName": "FLA",
         "badge": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
       },
-      "scoreHome": 0,
-      "scoreAway": 0
+      "scoreHome": 1,
+      "scoreAway": 1
     },
     {
       "id": 346375,
