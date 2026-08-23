@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T21:54:34.808Z",
+  "updatedAt": "2026-08-23T22:22:01.237Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 24,
@@ -290,47 +290,70 @@
         "shortName": "SAO",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
       },
-      "points": 28,
+      "points": 27,
       "matches": 23,
       "wins": 7,
-      "draws": 7,
-      "losses": 9,
+      "draws": 6,
+      "losses": 10,
       "goalsFor": 27,
-      "goalsAgainst": 26,
-      "goalDifference": 1,
+      "goalsAgainst": 27,
+      "goalDifference": 0,
       "recentForm": [
         "L",
         "D",
         "L",
         "D",
-        "D"
+        "L"
       ]
     },
     {
       "position": 14,
       "team": {
+        "name": "Mirassol",
+        "shortName": "MIR",
+        "badge": "https://s.sde.globo.com/media/organizations/2026/07/17/MIrassol.svg"
+      },
+      "points": 26,
+      "matches": 23,
+      "wins": 7,
+      "draws": 5,
+      "losses": 11,
+      "goalsFor": 26,
+      "goalsAgainst": 35,
+      "goalDifference": -9,
+      "recentForm": [
+        "D",
+        "W",
+        "L",
+        "L",
+        "W"
+      ]
+    },
+    {
+      "position": 15,
+      "team": {
         "name": "Santos",
         "shortName": "SAN",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
       },
-      "points": 26,
+      "points": 25,
       "matches": 23,
       "wins": 6,
-      "draws": 8,
-      "losses": 9,
+      "draws": 7,
+      "losses": 10,
       "goalsFor": 32,
-      "goalsAgainst": 35,
-      "goalDifference": -3,
+      "goalsAgainst": 36,
+      "goalDifference": -4,
       "recentForm": [
         "L",
         "D",
         "L",
         "W",
-        "D"
+        "L"
       ]
     },
     {
-      "position": 15,
+      "position": 16,
       "team": {
         "name": "Grêmio",
         "shortName": "GRE",
@@ -353,7 +376,7 @@
       ]
     },
     {
-      "position": 16,
+      "position": 17,
       "team": {
         "name": "Internacional",
         "shortName": "INT",
@@ -372,29 +395,6 @@
         "D",
         "D",
         "D",
-        "D"
-      ]
-    },
-    {
-      "position": 17,
-      "team": {
-        "name": "Mirassol",
-        "shortName": "MIR",
-        "badge": "https://s.sde.globo.com/media/organizations/2026/07/17/MIrassol.svg"
-      },
-      "points": 24,
-      "matches": 23,
-      "wins": 6,
-      "draws": 6,
-      "losses": 11,
-      "goalsFor": 25,
-      "goalsAgainst": 35,
-      "goalDifference": -10,
-      "recentForm": [
-        "D",
-        "W",
-        "L",
-        "L",
         "D"
       ]
     },
@@ -451,20 +451,20 @@
         "shortName": "CHA",
         "badge": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
       },
-      "points": 12,
+      "points": 14,
       "matches": 23,
-      "wins": 1,
-      "draws": 9,
+      "wins": 2,
+      "draws": 8,
       "losses": 13,
-      "goalsFor": 23,
+      "goalsFor": 24,
       "goalsAgainst": 46,
-      "goalDifference": -23,
+      "goalDifference": -22,
       "recentForm": [
         "L",
         "D",
         "L",
         "D",
-        "D"
+        "W"
       ]
     }
   ],
@@ -600,7 +600,7 @@
         "badge": "https://s.sde.globo.com/media/organizations/2026/07/17/MIrassol.svg"
       },
       "scoreHome": 0,
-      "scoreAway": 0
+      "scoreAway": 1
     },
     {
       "id": 346387,
@@ -618,7 +618,7 @@
         "shortName": "SAO",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
       },
-      "scoreHome": 0,
+      "scoreHome": 1,
       "scoreAway": 0
     },
     {
