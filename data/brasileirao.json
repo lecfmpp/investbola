@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T20:28:38.123Z",
+  "updatedAt": "2026-08-23T20:56:12.867Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 24,
@@ -19,9 +19,9 @@
       "wins": 15,
       "draws": 6,
       "losses": 3,
-      "goalsFor": 43,
+      "goalsFor": 44,
       "goalsAgainst": 19,
-      "goalDifference": 24,
+      "goalDifference": 25,
       "recentForm": [
         "L",
         "W",
@@ -129,20 +129,20 @@
         "shortName": "BAH",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
       },
-      "points": 35,
+      "points": 37,
       "matches": 24,
-      "wins": 8,
-      "draws": 11,
+      "wins": 9,
+      "draws": 10,
       "losses": 5,
-      "goalsFor": 32,
+      "goalsFor": 33,
       "goalsAgainst": 28,
-      "goalDifference": 4,
+      "goalDifference": 5,
       "recentForm": [
         "D",
         "D",
         "D",
         "D",
-        "D"
+        "W"
       ]
     },
     {
@@ -267,20 +267,20 @@
         "shortName": "VIT",
         "badge": "https://s.sde.globo.com/media/organizations/2025/12/18/Vitoria_2025.svg"
       },
-      "points": 30,
+      "points": 29,
       "matches": 24,
       "wins": 8,
-      "draws": 6,
-      "losses": 10,
+      "draws": 5,
+      "losses": 11,
       "goalsFor": 23,
-      "goalsAgainst": 33,
-      "goalDifference": -10,
+      "goalsAgainst": 34,
+      "goalDifference": -11,
       "recentForm": [
         "L",
         "L",
         "L",
         "W",
-        "D"
+        "L"
       ]
     },
     {
@@ -434,8 +434,8 @@
       "draws": 7,
       "losses": 11,
       "goalsFor": 23,
-      "goalsAgainst": 37,
-      "goalDifference": -14,
+      "goalsAgainst": 38,
+      "goalDifference": -15,
       "recentForm": [
         "L",
         "D",
@@ -542,8 +542,8 @@
         "shortName": "VAS",
         "badge": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
       },
-      "scoreHome": 3,
-      "scoreAway": 0
+      "scoreHome": 4,
+      "scoreAway": 1
     },
     {
       "id": 346377,
@@ -581,7 +581,7 @@
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
       },
       "scoreHome": 0,
-      "scoreAway": 0
+      "scoreAway": 1
     },
     {
       "id": 346373,
