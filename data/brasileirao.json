@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T23:22:35.775Z",
+  "updatedAt": "2026-08-23T23:54:31.230Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 24,
@@ -587,7 +587,7 @@
       "id": 346373,
       "round": 24,
       "dateTime": "2026-08-23T18:30",
-      "status": "live",
+      "status": "finished",
       "venue": "Vila Belmiro",
       "home": {
         "name": "Santos",
@@ -606,7 +606,7 @@
       "id": 346387,
       "round": 24,
       "dateTime": "2026-08-23T18:30",
-      "status": "live",
+      "status": "finished",
       "venue": "Arena Condá",
       "home": {
         "name": "Chapecoense",
