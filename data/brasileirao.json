@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T01:22:18.213Z",
+  "updatedAt": "2026-08-23T02:48:29.370Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 24,
@@ -37,20 +37,20 @@
         "shortName": "FLA",
         "badge": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
       },
-      "points": 46,
+      "points": 45,
       "matches": 23,
       "wins": 13,
-      "draws": 7,
-      "losses": 3,
+      "draws": 6,
+      "losses": 4,
       "goalsFor": 45,
-      "goalsAgainst": 20,
-      "goalDifference": 25,
+      "goalsAgainst": 21,
+      "goalDifference": 24,
       "recentForm": [
         "D",
         "D",
         "W",
         "W",
-        "D"
+        "L"
       ]
     },
     {
@@ -106,20 +106,20 @@
         "shortName": "CRU",
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
       },
-      "points": 37,
+      "points": 39,
       "matches": 24,
-      "wins": 10,
-      "draws": 7,
+      "wins": 11,
+      "draws": 6,
       "losses": 7,
-      "goalsFor": 33,
+      "goalsFor": 34,
       "goalsAgainst": 33,
-      "goalDifference": 0,
+      "goalDifference": 1,
       "recentForm": [
         "L",
         "W",
         "W",
         "W",
-        "D"
+        "W"
       ]
     },
     {
@@ -511,7 +511,7 @@
       "id": 346379,
       "round": 24,
       "dateTime": "2026-08-22T20:30",
-      "status": "live",
+      "status": "finished",
       "venue": "Mineirão",
       "home": {
         "name": "Cruzeiro",
@@ -523,7 +523,7 @@
         "shortName": "FLA",
         "badge": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
       },
-      "scoreHome": 1,
+      "scoreHome": 2,
       "scoreAway": 1
     },
     {
