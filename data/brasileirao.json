@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T22:22:01.237Z",
+  "updatedAt": "2026-08-23T22:55:34.342Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 24,
@@ -198,20 +198,20 @@
         "shortName": "COR",
         "badge": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
       },
-      "points": 32,
-      "matches": 23,
+      "points": 33,
+      "matches": 24,
       "wins": 8,
-      "draws": 8,
+      "draws": 9,
       "losses": 7,
       "goalsFor": 25,
       "goalsAgainst": 22,
       "goalDifference": 3,
       "recentForm": [
-        "W",
         "D",
         "D",
         "W",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -221,19 +221,19 @@
         "shortName": "CFC",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
       },
-      "points": 31,
-      "matches": 23,
+      "points": 32,
+      "matches": 24,
       "wins": 8,
-      "draws": 7,
+      "draws": 8,
       "losses": 8,
       "goalsFor": 28,
       "goalsAgainst": 30,
       "goalDifference": -2,
       "recentForm": [
-        "L",
         "D",
         "L",
         "W",
+        "D",
         "D"
       ]
     },
@@ -625,7 +625,7 @@
       "id": 346383,
       "round": 24,
       "dateTime": "2026-08-23T19:30",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Couto Pereira",
       "home": {
         "name": "Coritiba",
@@ -637,8 +637,8 @@
         "shortName": "COR",
         "badge": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 0,
+      "scoreAway": 0
     },
     {
       "id": 346372,
