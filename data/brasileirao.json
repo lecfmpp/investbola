@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T20:56:12.867Z",
+  "updatedAt": "2026-08-23T21:24:44.921Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 24,
@@ -20,8 +20,8 @@
       "draws": 6,
       "losses": 3,
       "goalsFor": 44,
-      "goalsAgainst": 19,
-      "goalDifference": 25,
+      "goalsAgainst": 20,
+      "goalDifference": 24,
       "recentForm": [
         "L",
         "W",
@@ -134,9 +134,9 @@
       "wins": 9,
       "draws": 10,
       "losses": 5,
-      "goalsFor": 33,
+      "goalsFor": 34,
       "goalsAgainst": 28,
-      "goalDifference": 5,
+      "goalDifference": 6,
       "recentForm": [
         "D",
         "D",
@@ -152,20 +152,20 @@
         "shortName": "RBB",
         "badge": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
       },
-      "points": 33,
+      "points": 35,
       "matches": 23,
-      "wins": 9,
-      "draws": 6,
+      "wins": 10,
+      "draws": 5,
       "losses": 8,
-      "goalsFor": 27,
+      "goalsFor": 28,
       "goalsAgainst": 23,
-      "goalDifference": 4,
+      "goalDifference": 5,
       "recentForm": [
         "D",
         "D",
         "L",
         "D",
-        "D"
+        "W"
       ]
     },
     {
@@ -273,8 +273,8 @@
       "draws": 5,
       "losses": 11,
       "goalsFor": 23,
-      "goalsAgainst": 34,
-      "goalDifference": -11,
+      "goalsAgainst": 35,
+      "goalDifference": -12,
       "recentForm": [
         "L",
         "L",
@@ -309,29 +309,6 @@
     {
       "position": 14,
       "team": {
-        "name": "Grêmio",
-        "shortName": "GRE",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
-      },
-      "points": 26,
-      "matches": 23,
-      "wins": 6,
-      "draws": 8,
-      "losses": 9,
-      "goalsFor": 24,
-      "goalsAgainst": 30,
-      "goalDifference": -6,
-      "recentForm": [
-        "L",
-        "D",
-        "W",
-        "L",
-        "D"
-      ]
-    },
-    {
-      "position": 15,
-      "team": {
         "name": "Santos",
         "shortName": "SAN",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
@@ -350,6 +327,29 @@
         "D",
         "L",
         "W"
+      ]
+    },
+    {
+      "position": 15,
+      "team": {
+        "name": "Grêmio",
+        "shortName": "GRE",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
+      },
+      "points": 25,
+      "matches": 23,
+      "wins": 6,
+      "draws": 7,
+      "losses": 10,
+      "goalsFor": 24,
+      "goalsAgainst": 31,
+      "goalDifference": -7,
+      "recentForm": [
+        "L",
+        "D",
+        "W",
+        "L",
+        "L"
       ]
     },
     {
@@ -433,9 +433,9 @@
       "wins": 5,
       "draws": 7,
       "losses": 11,
-      "goalsFor": 23,
+      "goalsFor": 24,
       "goalsAgainst": 38,
-      "goalDifference": -15,
+      "goalDifference": -14,
       "recentForm": [
         "L",
         "D",
@@ -530,7 +530,7 @@
       "id": 346375,
       "round": 24,
       "dateTime": "2026-08-23T16:00",
-      "status": "live",
+      "status": "finished",
       "venue": "Nubank Parque",
       "home": {
         "name": "Palmeiras",
@@ -549,7 +549,7 @@
       "id": 346377,
       "round": 24,
       "dateTime": "2026-08-23T16:00",
-      "status": "live",
+      "status": "finished",
       "venue": "Cícero de Souza Marques",
       "home": {
         "name": "Bragantino",
@@ -561,14 +561,14 @@
         "shortName": "GRE",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
       },
-      "scoreHome": 0,
+      "scoreHome": 1,
       "scoreAway": 0
     },
     {
       "id": 346385,
       "round": 24,
       "dateTime": "2026-08-23T16:00",
-      "status": "live",
+      "status": "finished",
       "venue": "Barradão",
       "home": {
         "name": "Vitória",
@@ -581,7 +581,7 @@
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
       },
       "scoreHome": 0,
-      "scoreAway": 1
+      "scoreAway": 2
     },
     {
       "id": 346373,
