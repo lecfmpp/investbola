@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T22:58:45.088Z",
+  "updatedAt": "2026-08-24T23:29:06.954Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 24,
@@ -60,20 +60,20 @@
         "shortName": "CAP",
         "badge": "https://s.sde.globo.com/media/organizations/2026/01/07/Athletico-PR.svg"
       },
-      "points": 41,
-      "matches": 23,
-      "wins": 12,
+      "points": 44,
+      "matches": 24,
+      "wins": 13,
       "draws": 5,
       "losses": 6,
-      "goalsFor": 31,
+      "goalsFor": 33,
       "goalsAgainst": 20,
-      "goalDifference": 11,
+      "goalDifference": 13,
       "recentForm": [
-        "W",
         "W",
         "D",
         "W",
-        "D"
+        "D",
+        "W"
       ]
     },
     {
@@ -245,18 +245,18 @@
         "badge": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
       },
       "points": 30,
-      "matches": 22,
+      "matches": 23,
       "wins": 8,
       "draws": 6,
-      "losses": 8,
+      "losses": 9,
       "goalsFor": 35,
-      "goalsAgainst": 34,
-      "goalDifference": 1,
+      "goalsAgainst": 36,
+      "goalDifference": -1,
       "recentForm": [
-        "L",
         "W",
         "W",
         "D",
+        "L",
         "L"
       ]
     },
@@ -644,7 +644,7 @@
       "id": 346372,
       "round": 24,
       "dateTime": "2026-08-24T20:00",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Nilton Santos (Engenhão)",
       "home": {
         "name": "Botafogo",
@@ -656,8 +656,8 @@
         "shortName": "CAP",
         "badge": "https://s.sde.globo.com/media/organizations/2026/01/07/Athletico-PR.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 0,
+      "scoreAway": 2
     }
   ]
 }
