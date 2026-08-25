@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T23:54:49.317Z",
+  "updatedAt": "2026-08-25T01:18:08.490Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 24,
@@ -65,9 +65,9 @@
       "wins": 13,
       "draws": 5,
       "losses": 6,
-      "goalsFor": 33,
-      "goalsAgainst": 20,
-      "goalDifference": 13,
+      "goalsFor": 34,
+      "goalsAgainst": 22,
+      "goalDifference": 12,
       "recentForm": [
         "W",
         "D",
@@ -249,9 +249,9 @@
       "wins": 8,
       "draws": 6,
       "losses": 9,
-      "goalsFor": 35,
-      "goalsAgainst": 36,
-      "goalDifference": -1,
+      "goalsFor": 37,
+      "goalsAgainst": 37,
+      "goalDifference": 0,
       "recentForm": [
         "W",
         "W",
@@ -644,7 +644,7 @@
       "id": 346372,
       "round": 24,
       "dateTime": "2026-08-24T20:00",
-      "status": "live",
+      "status": "finished",
       "venue": "Nilton Santos (Engenhão)",
       "home": {
         "name": "Botafogo",
@@ -656,8 +656,8 @@
         "shortName": "CAP",
         "badge": "https://s.sde.globo.com/media/organizations/2026/01/07/Athletico-PR.svg"
       },
-      "scoreHome": 0,
-      "scoreAway": 2
+      "scoreHome": 2,
+      "scoreAway": 3
     }
   ]
 }
