@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T19:47:50.929Z",
+  "updatedAt": "2026-08-29T22:27:00.830Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 25,
@@ -148,6 +148,29 @@
     {
       "position": 7,
       "team": {
+        "name": "Atlético-MG",
+        "shortName": "CAM",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      },
+      "points": 36,
+      "matches": 24,
+      "wins": 10,
+      "draws": 6,
+      "losses": 8,
+      "goalsFor": 31,
+      "goalsAgainst": 27,
+      "goalDifference": 4,
+      "recentForm": [
+        "W",
+        "D",
+        "W",
+        "D",
+        "W"
+      ]
+    },
+    {
+      "position": 8,
+      "team": {
         "name": "Bragantino",
         "shortName": "RBB",
         "badge": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
@@ -169,7 +192,7 @@
       ]
     },
     {
-      "position": 8,
+      "position": 9,
       "team": {
         "name": "Coritiba",
         "shortName": "CFC",
@@ -189,29 +212,6 @@
         "W",
         "D",
         "W"
-      ]
-    },
-    {
-      "position": 9,
-      "team": {
-        "name": "Atlético-MG",
-        "shortName": "CAM",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
-      },
-      "points": 33,
-      "matches": 23,
-      "wins": 9,
-      "draws": 6,
-      "losses": 8,
-      "goalsFor": 30,
-      "goalsAgainst": 27,
-      "goalDifference": 3,
-      "recentForm": [
-        "D",
-        "W",
-        "D",
-        "W",
-        "D"
       ]
     },
     {
@@ -268,18 +268,18 @@
         "badge": "https://s.sde.globo.com/media/organizations/2025/12/18/Vitoria_2025.svg"
       },
       "points": 29,
-      "matches": 24,
+      "matches": 25,
       "wins": 8,
       "draws": 5,
-      "losses": 11,
+      "losses": 12,
       "goalsFor": 23,
-      "goalsAgainst": 35,
-      "goalDifference": -12,
+      "goalsAgainst": 36,
+      "goalDifference": -13,
       "recentForm": [
         "L",
         "L",
-        "L",
         "W",
+        "L",
         "L"
       ]
     },
@@ -473,7 +473,7 @@
       "id": 346450,
       "round": 25,
       "dateTime": "2026-08-29T18:30",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Arena MRV",
       "home": {
         "name": "Atlético-MG",
@@ -485,8 +485,8 @@
         "shortName": "VIT",
         "badge": "https://s.sde.globo.com/media/organizations/2025/12/18/Vitoria_2025.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 1,
+      "scoreAway": 0
     },
     {
       "id": 346447,
