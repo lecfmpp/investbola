@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T22:27:00.830Z",
+  "updatedAt": "2026-08-30T00:40:31.926Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 25,
@@ -106,20 +106,20 @@
         "shortName": "CRU",
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
       },
-      "points": 39,
-      "matches": 24,
+      "points": 40,
+      "matches": 25,
       "wins": 11,
-      "draws": 6,
+      "draws": 7,
       "losses": 7,
       "goalsFor": 34,
       "goalsAgainst": 33,
       "goalDifference": 1,
       "recentForm": [
-        "L",
         "W",
         "W",
         "W",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -157,8 +157,8 @@
       "wins": 10,
       "draws": 6,
       "losses": 8,
-      "goalsFor": 31,
-      "goalsAgainst": 27,
+      "goalsFor": 32,
+      "goalsAgainst": 28,
       "goalDifference": 4,
       "recentForm": [
         "W",
@@ -176,19 +176,19 @@
         "badge": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
       },
       "points": 35,
-      "matches": 23,
+      "matches": 24,
       "wins": 10,
       "draws": 5,
-      "losses": 8,
+      "losses": 9,
       "goalsFor": 28,
-      "goalsAgainst": 23,
-      "goalDifference": 5,
+      "goalsAgainst": 25,
+      "goalDifference": 3,
       "recentForm": [
-        "D",
         "D",
         "L",
         "D",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -240,6 +240,29 @@
     {
       "position": 11,
       "team": {
+        "name": "São Paulo",
+        "shortName": "SAO",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
+      },
+      "points": 30,
+      "matches": 24,
+      "wins": 8,
+      "draws": 6,
+      "losses": 10,
+      "goalsFor": 29,
+      "goalsAgainst": 27,
+      "goalDifference": 2,
+      "recentForm": [
+        "D",
+        "L",
+        "D",
+        "L",
+        "W"
+      ]
+    },
+    {
+      "position": 12,
+      "team": {
         "name": "Botafogo",
         "shortName": "BOT",
         "badge": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
@@ -261,7 +284,7 @@
       ]
     },
     {
-      "position": 12,
+      "position": 13,
       "team": {
         "name": "Vitória",
         "shortName": "VIT",
@@ -272,37 +295,14 @@
       "wins": 8,
       "draws": 5,
       "losses": 12,
-      "goalsFor": 23,
-      "goalsAgainst": 36,
+      "goalsFor": 24,
+      "goalsAgainst": 37,
       "goalDifference": -13,
       "recentForm": [
         "L",
         "L",
         "W",
         "L",
-        "L"
-      ]
-    },
-    {
-      "position": 13,
-      "team": {
-        "name": "São Paulo",
-        "shortName": "SAO",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
-      },
-      "points": 27,
-      "matches": 23,
-      "wins": 7,
-      "draws": 6,
-      "losses": 10,
-      "goalsFor": 27,
-      "goalsAgainst": 27,
-      "goalDifference": 0,
-      "recentForm": [
-        "L",
-        "D",
-        "L",
-        "D",
         "L"
       ]
     },
@@ -428,20 +428,20 @@
         "shortName": "VAS",
         "badge": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
       },
-      "points": 22,
-      "matches": 23,
+      "points": 23,
+      "matches": 24,
       "wins": 5,
-      "draws": 7,
+      "draws": 8,
       "losses": 11,
       "goalsFor": 24,
       "goalsAgainst": 38,
       "goalDifference": -14,
       "recentForm": [
-        "L",
         "D",
         "D",
         "L",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -473,7 +473,7 @@
       "id": 346450,
       "round": 25,
       "dateTime": "2026-08-29T18:30",
-      "status": "live",
+      "status": "finished",
       "venue": "Arena MRV",
       "home": {
         "name": "Atlético-MG",
@@ -485,14 +485,14 @@
         "shortName": "VIT",
         "badge": "https://s.sde.globo.com/media/organizations/2025/12/18/Vitoria_2025.svg"
       },
-      "scoreHome": 1,
-      "scoreAway": 0
+      "scoreHome": 2,
+      "scoreAway": 1
     },
     {
       "id": 346447,
       "round": 25,
       "dateTime": "2026-08-29T20:00",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Morumbis",
       "home": {
         "name": "São Paulo",
@@ -504,14 +504,14 @@
         "shortName": "RBB",
         "badge": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 2,
+      "scoreAway": 0
     },
     {
       "id": 346446,
       "round": 25,
       "dateTime": "2026-08-29T21:20",
-      "status": "scheduled",
+      "status": "live",
       "venue": "São Januário",
       "home": {
         "name": "Vasco",
@@ -523,8 +523,8 @@
         "shortName": "CRU",
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 0,
+      "scoreAway": 0
     },
     {
       "id": 346452,
