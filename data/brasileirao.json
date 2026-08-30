@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T16:46:43.949Z",
+  "updatedAt": "2026-08-30T19:39:24.114Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 25,
@@ -37,20 +37,20 @@
         "shortName": "FLA",
         "badge": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
       },
-      "points": 45,
-      "matches": 23,
-      "wins": 13,
+      "points": 48,
+      "matches": 24,
+      "wins": 14,
       "draws": 6,
       "losses": 4,
-      "goalsFor": 45,
+      "goalsFor": 46,
       "goalsAgainst": 21,
-      "goalDifference": 24,
+      "goalDifference": 25,
       "recentForm": [
         "D",
-        "D",
         "W",
         "W",
-        "L"
+        "L",
+        "W"
       ]
     },
     {
@@ -222,17 +222,17 @@
         "badge": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
       },
       "points": 32,
-      "matches": 24,
+      "matches": 25,
       "wins": 8,
       "draws": 8,
-      "losses": 8,
+      "losses": 9,
       "goalsFor": 26,
-      "goalsAgainst": 24,
-      "goalDifference": 2,
+      "goalsAgainst": 25,
+      "goalDifference": 1,
       "recentForm": [
         "D",
-        "D",
         "W",
+        "L",
         "L",
         "L"
       ]
@@ -268,17 +268,17 @@
         "badge": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
       },
       "points": 30,
-      "matches": 23,
+      "matches": 24,
       "wins": 8,
       "draws": 6,
-      "losses": 9,
+      "losses": 10,
       "goalsFor": 37,
-      "goalsAgainst": 37,
-      "goalDifference": 0,
+      "goalsAgainst": 38,
+      "goalDifference": -1,
       "recentForm": [
         "W",
-        "W",
         "D",
+        "L",
         "L",
         "L"
       ]
@@ -313,20 +313,20 @@
         "shortName": "SAN",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
       },
-      "points": 26,
-      "matches": 23,
-      "wins": 6,
+      "points": 29,
+      "matches": 24,
+      "wins": 7,
       "draws": 8,
       "losses": 9,
-      "goalsFor": 33,
+      "goalsFor": 34,
       "goalsAgainst": 36,
-      "goalDifference": -3,
+      "goalDifference": -2,
       "recentForm": [
-        "L",
         "D",
         "L",
         "W",
-        "D"
+        "D",
+        "W"
       ]
     },
     {
@@ -549,7 +549,7 @@
       "id": 346445,
       "round": 25,
       "dateTime": "2026-08-30T16:00",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Maracanã",
       "home": {
         "name": "Flamengo",
@@ -561,14 +561,14 @@
         "shortName": "BOT",
         "badge": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 1,
+      "scoreAway": 0
     },
     {
       "id": 346448,
       "round": 25,
       "dateTime": "2026-08-30T16:00",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Neo Química Arena",
       "home": {
         "name": "Corinthians",
@@ -580,8 +580,8 @@
         "shortName": "SAN",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 0,
+      "scoreAway": 1
     },
     {
       "id": 346449,
