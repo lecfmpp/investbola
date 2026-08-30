@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T00:40:31.926Z",
+  "updatedAt": "2026-08-30T06:17:46.087Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 25,
@@ -106,20 +106,20 @@
         "shortName": "CRU",
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
       },
-      "points": 40,
+      "points": 39,
       "matches": 25,
       "wins": 11,
-      "draws": 7,
-      "losses": 7,
-      "goalsFor": 34,
-      "goalsAgainst": 33,
-      "goalDifference": 1,
+      "draws": 6,
+      "losses": 8,
+      "goalsFor": 35,
+      "goalsAgainst": 36,
+      "goalDifference": -1,
       "recentForm": [
         "W",
         "W",
         "W",
         "W",
-        "D"
+        "L"
       ]
     },
     {
@@ -180,9 +180,9 @@
       "wins": 10,
       "draws": 5,
       "losses": 9,
-      "goalsFor": 28,
+      "goalsFor": 29,
       "goalsAgainst": 25,
-      "goalDifference": 3,
+      "goalDifference": 4,
       "recentForm": [
         "D",
         "L",
@@ -250,8 +250,8 @@
       "draws": 6,
       "losses": 10,
       "goalsFor": 29,
-      "goalsAgainst": 27,
-      "goalDifference": 2,
+      "goalsAgainst": 28,
+      "goalDifference": 1,
       "recentForm": [
         "D",
         "L",
@@ -355,6 +355,29 @@
     {
       "position": 16,
       "team": {
+        "name": "Vasco",
+        "shortName": "VAS",
+        "badge": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      },
+      "points": 25,
+      "matches": 24,
+      "wins": 6,
+      "draws": 7,
+      "losses": 11,
+      "goalsFor": 27,
+      "goalsAgainst": 39,
+      "goalDifference": -12,
+      "recentForm": [
+        "D",
+        "D",
+        "L",
+        "L",
+        "W"
+      ]
+    },
+    {
+      "position": 17,
+      "team": {
         "name": "Internacional",
         "shortName": "INT",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
@@ -376,7 +399,7 @@
       ]
     },
     {
-      "position": 17,
+      "position": 18,
       "team": {
         "name": "Mirassol",
         "shortName": "MIR",
@@ -399,7 +422,7 @@
       ]
     },
     {
-      "position": 18,
+      "position": 19,
       "team": {
         "name": "Remo",
         "shortName": "REM",
@@ -419,29 +442,6 @@
         "D",
         "D",
         "L"
-      ]
-    },
-    {
-      "position": 19,
-      "team": {
-        "name": "Vasco",
-        "shortName": "VAS",
-        "badge": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
-      },
-      "points": 23,
-      "matches": 24,
-      "wins": 5,
-      "draws": 8,
-      "losses": 11,
-      "goalsFor": 24,
-      "goalsAgainst": 38,
-      "goalDifference": -14,
-      "recentForm": [
-        "D",
-        "D",
-        "L",
-        "L",
-        "D"
       ]
     },
     {
@@ -492,7 +492,7 @@
       "id": 346447,
       "round": 25,
       "dateTime": "2026-08-29T20:00",
-      "status": "live",
+      "status": "finished",
       "venue": "Morumbis",
       "home": {
         "name": "São Paulo",
@@ -505,13 +505,13 @@
         "badge": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
       },
       "scoreHome": 2,
-      "scoreAway": 0
+      "scoreAway": 1
     },
     {
       "id": 346446,
       "round": 25,
       "dateTime": "2026-08-29T21:20",
-      "status": "live",
+      "status": "finished",
       "venue": "São Januário",
       "home": {
         "name": "Vasco",
@@ -523,8 +523,8 @@
         "shortName": "CRU",
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
       },
-      "scoreHome": 0,
-      "scoreAway": 0
+      "scoreHome": 3,
+      "scoreAway": 1
     },
     {
       "id": 346452,
