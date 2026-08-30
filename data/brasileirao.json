@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T12:01:44.116Z",
+  "updatedAt": "2026-08-30T16:46:43.949Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 25,
@@ -60,20 +60,20 @@
         "shortName": "CAP",
         "badge": "https://s.sde.globo.com/media/organizations/2026/01/07/Athletico-PR.svg"
       },
-      "points": 44,
-      "matches": 24,
+      "points": 45,
+      "matches": 25,
       "wins": 13,
-      "draws": 5,
+      "draws": 6,
       "losses": 6,
-      "goalsFor": 34,
-      "goalsAgainst": 22,
+      "goalsFor": 37,
+      "goalsAgainst": 25,
       "goalDifference": 12,
       "recentForm": [
-        "W",
         "D",
         "W",
         "D",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -83,20 +83,20 @@
         "shortName": "FLU",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
       },
-      "points": 41,
-      "matches": 24,
+      "points": 42,
+      "matches": 25,
       "wins": 11,
-      "draws": 8,
+      "draws": 9,
       "losses": 5,
-      "goalsFor": 36,
-      "goalsAgainst": 29,
+      "goalsFor": 39,
+      "goalsAgainst": 32,
       "goalDifference": 7,
       "recentForm": [
         "D",
         "D",
-        "D",
         "W",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -530,7 +530,7 @@
       "id": 346452,
       "round": 25,
       "dateTime": "2026-08-30T11:00",
-      "status": "scheduled",
+      "status": "finished",
       "venue": "Arena da Baixada",
       "home": {
         "name": "Athletico-PR",
@@ -542,8 +542,8 @@
         "shortName": "FLU",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 3,
+      "scoreAway": 3
     },
     {
       "id": 346445,
