@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T20:10:53.566Z",
+  "updatedAt": "2026-08-31T23:54:44.645Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 25,
@@ -198,20 +198,20 @@
         "shortName": "CFC",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
       },
-      "points": 34,
-      "matches": 24,
+      "points": 35,
+      "matches": 25,
       "wins": 9,
-      "draws": 7,
+      "draws": 8,
       "losses": 8,
       "goalsFor": 30,
       "goalsAgainst": 31,
       "goalDifference": -1,
       "recentForm": [
-        "D",
         "L",
         "W",
         "D",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -428,20 +428,20 @@
         "shortName": "REM",
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
       },
-      "points": 23,
-      "matches": 24,
+      "points": 24,
+      "matches": 25,
       "wins": 5,
-      "draws": 8,
+      "draws": 9,
       "losses": 11,
       "goalsFor": 28,
       "goalsAgainst": 39,
       "goalDifference": -11,
       "recentForm": [
-        "W",
         "L",
         "D",
         "D",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -644,7 +644,7 @@
       "id": 346454,
       "round": 25,
       "dateTime": "2026-08-31T20:00",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Mangueirão",
       "home": {
         "name": "Remo",
@@ -656,8 +656,8 @@
         "shortName": "CFC",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 0,
+      "scoreAway": 0
     }
   ]
 }
