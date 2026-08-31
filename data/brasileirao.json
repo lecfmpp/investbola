@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T22:05:24.717Z",
+  "updatedAt": "2026-08-31T00:39:16.029Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 25,
@@ -19,8 +19,8 @@
       "wins": 15,
       "draws": 7,
       "losses": 3,
-      "goalsFor": 44,
-      "goalsAgainst": 20,
+      "goalsFor": 45,
+      "goalsAgainst": 21,
       "goalDifference": 24,
       "recentForm": [
         "W",
@@ -102,6 +102,29 @@
     {
       "position": 5,
       "team": {
+        "name": "Bahia",
+        "shortName": "BAH",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      },
+      "points": 40,
+      "matches": 25,
+      "wins": 10,
+      "draws": 10,
+      "losses": 5,
+      "goalsFor": 37,
+      "goalsAgainst": 30,
+      "goalDifference": 7,
+      "recentForm": [
+        "D",
+        "D",
+        "D",
+        "W",
+        "W"
+      ]
+    },
+    {
+      "position": 6,
+      "team": {
         "name": "Cruzeiro",
         "shortName": "CRU",
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
@@ -120,29 +143,6 @@
         "W",
         "W",
         "L"
-      ]
-    },
-    {
-      "position": 6,
-      "team": {
-        "name": "Bahia",
-        "shortName": "BAH",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
-      },
-      "points": 37,
-      "matches": 24,
-      "wins": 9,
-      "draws": 10,
-      "losses": 5,
-      "goalsFor": 34,
-      "goalsAgainst": 28,
-      "goalDifference": 6,
-      "recentForm": [
-        "D",
-        "D",
-        "D",
-        "D",
-        "W"
       ]
     },
     {
@@ -341,9 +341,9 @@
       "wins": 7,
       "draws": 7,
       "losses": 10,
-      "goalsFor": 26,
+      "goalsFor": 27,
       "goalsAgainst": 32,
-      "goalDifference": -6,
+      "goalDifference": -5,
       "recentForm": [
         "D",
         "W",
@@ -364,8 +364,8 @@
       "wins": 6,
       "draws": 7,
       "losses": 11,
-      "goalsFor": 26,
-      "goalsAgainst": 36,
+      "goalsFor": 27,
+      "goalsAgainst": 37,
       "goalDifference": -10,
       "recentForm": [
         "W",
@@ -406,19 +406,19 @@
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
       },
       "points": 25,
-      "matches": 24,
+      "matches": 25,
       "wins": 5,
       "draws": 10,
-      "losses": 9,
-      "goalsFor": 24,
-      "goalsAgainst": 28,
-      "goalDifference": -4,
+      "losses": 10,
+      "goalsFor": 26,
+      "goalsAgainst": 31,
+      "goalDifference": -5,
       "recentForm": [
-        "L",
         "D",
         "D",
         "D",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -457,8 +457,8 @@
       "draws": 8,
       "losses": 14,
       "goalsFor": 25,
-      "goalsAgainst": 48,
-      "goalDifference": -23,
+      "goalsAgainst": 49,
+      "goalDifference": -24,
       "recentForm": [
         "D",
         "L",
@@ -587,7 +587,7 @@
       "id": 346449,
       "round": 25,
       "dateTime": "2026-08-30T18:30",
-      "status": "live",
+      "status": "finished",
       "venue": "Maião",
       "home": {
         "name": "Mirassol",
@@ -599,14 +599,14 @@
         "shortName": "PAL",
         "badge": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
       },
-      "scoreHome": 0,
-      "scoreAway": 0
+      "scoreHome": 1,
+      "scoreAway": 1
     },
     {
       "id": 346451,
       "round": 25,
       "dateTime": "2026-08-30T18:30",
-      "status": "live",
+      "status": "finished",
       "venue": "Arena do Grêmio",
       "home": {
         "name": "Grêmio",
@@ -618,14 +618,14 @@
         "shortName": "CHA",
         "badge": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
       },
-      "scoreHome": 2,
+      "scoreHome": 3,
       "scoreAway": 1
     },
     {
       "id": 346453,
       "round": 25,
       "dateTime": "2026-08-30T19:30",
-      "status": "scheduled",
+      "status": "finished",
       "venue": "Casa de Apostas Arena Fonte Nova",
       "home": {
         "name": "Bahia",
@@ -637,8 +637,8 @@
         "shortName": "INT",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 3,
+      "scoreAway": 2
     },
     {
       "id": 346454,
