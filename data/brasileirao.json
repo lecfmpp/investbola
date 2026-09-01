@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T23:54:44.645Z",
+  "updatedAt": "2026-09-01T03:59:35.650Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 25,
@@ -148,6 +148,29 @@
     {
       "position": 7,
       "team": {
+        "name": "Coritiba",
+        "shortName": "CFC",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "points": 37,
+      "matches": 25,
+      "wins": 10,
+      "draws": 7,
+      "losses": 8,
+      "goalsFor": 33,
+      "goalsAgainst": 33,
+      "goalDifference": 0,
+      "recentForm": [
+        "L",
+        "W",
+        "D",
+        "W",
+        "W"
+      ]
+    },
+    {
+      "position": 8,
+      "team": {
         "name": "Atlético-MG",
         "shortName": "CAM",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
@@ -169,7 +192,7 @@
       ]
     },
     {
-      "position": 8,
+      "position": 9,
       "team": {
         "name": "Bragantino",
         "shortName": "RBB",
@@ -189,29 +212,6 @@
         "D",
         "W",
         "L"
-      ]
-    },
-    {
-      "position": 9,
-      "team": {
-        "name": "Coritiba",
-        "shortName": "CFC",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
-      },
-      "points": 35,
-      "matches": 25,
-      "wins": 9,
-      "draws": 8,
-      "losses": 8,
-      "goalsFor": 30,
-      "goalsAgainst": 31,
-      "goalDifference": -1,
-      "recentForm": [
-        "L",
-        "W",
-        "D",
-        "W",
-        "D"
       ]
     },
     {
@@ -428,20 +428,20 @@
         "shortName": "REM",
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
       },
-      "points": 24,
+      "points": 23,
       "matches": 25,
       "wins": 5,
-      "draws": 9,
-      "losses": 11,
-      "goalsFor": 28,
-      "goalsAgainst": 39,
-      "goalDifference": -11,
+      "draws": 8,
+      "losses": 12,
+      "goalsFor": 30,
+      "goalsAgainst": 42,
+      "goalDifference": -12,
       "recentForm": [
         "L",
         "D",
         "D",
         "L",
-        "D"
+        "L"
       ]
     },
     {
@@ -644,7 +644,7 @@
       "id": 346454,
       "round": 25,
       "dateTime": "2026-08-31T20:00",
-      "status": "live",
+      "status": "finished",
       "venue": "Mangueirão",
       "home": {
         "name": "Remo",
@@ -656,8 +656,8 @@
         "shortName": "CFC",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
       },
-      "scoreHome": 0,
-      "scoreAway": 0
+      "scoreHome": 2,
+      "scoreAway": 3
     }
   ]
 }
