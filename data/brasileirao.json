@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T21:16:04.144Z",
+  "updatedAt": "2026-09-02T23:22:11.149Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 4,
@@ -37,14 +37,14 @@
         "shortName": "FLA",
         "badge": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
       },
-      "points": 48,
-      "matches": 24,
-      "wins": 14,
+      "points": 51,
+      "matches": 25,
+      "wins": 15,
       "draws": 6,
       "losses": 4,
-      "goalsFor": 48,
+      "goalsFor": 50,
       "goalsAgainst": 21,
-      "goalDifference": 27,
+      "goalDifference": 29,
       "recentForm": [
         "D",
         "W",
@@ -360,13 +360,13 @@
         "badge": "https://s.sde.globo.com/media/organizations/2026/07/17/MIrassol.svg"
       },
       "points": 25,
-      "matches": 24,
+      "matches": 25,
       "wins": 6,
       "draws": 7,
-      "losses": 11,
+      "losses": 12,
       "goalsFor": 27,
-      "goalsAgainst": 37,
-      "goalDifference": -10,
+      "goalsAgainst": 39,
+      "goalDifference": -12,
       "recentForm": [
         "W",
         "L",
@@ -644,7 +644,7 @@
       "id": 346335,
       "round": 4,
       "dateTime": "2026-09-02T19:30",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Maracanã",
       "home": {
         "name": "Flamengo",
@@ -656,8 +656,8 @@
         "shortName": "MIR",
         "badge": "https://s.sde.globo.com/media/organizations/2026/07/17/MIrassol.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 2,
+      "scoreAway": 0
     }
   ]
 }
