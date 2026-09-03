@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T23:22:11.149Z",
+  "updatedAt": "2026-09-03T01:25:45.054Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 4,
@@ -644,7 +644,7 @@
       "id": 346335,
       "round": 4,
       "dateTime": "2026-09-02T19:30",
-      "status": "live",
+      "status": "finished",
       "venue": "Maracanã",
       "home": {
         "name": "Flamengo",
