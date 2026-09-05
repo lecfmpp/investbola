@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T20:41:54.250Z",
+  "updatedAt": "2026-09-05T22:41:15.013Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 26,
@@ -148,6 +148,29 @@
     {
       "position": 7,
       "team": {
+        "name": "Atlético-MG",
+        "shortName": "CAM",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      },
+      "points": 37,
+      "matches": 25,
+      "wins": 10,
+      "draws": 7,
+      "losses": 8,
+      "goalsFor": 32,
+      "goalsAgainst": 28,
+      "goalDifference": 4,
+      "recentForm": [
+        "D",
+        "W",
+        "D",
+        "W",
+        "D"
+      ]
+    },
+    {
+      "position": 8,
+      "team": {
         "name": "Coritiba",
         "shortName": "CFC",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
@@ -165,29 +188,6 @@
         "W",
         "D",
         "W",
-        "W"
-      ]
-    },
-    {
-      "position": 8,
-      "team": {
-        "name": "Atlético-MG",
-        "shortName": "CAM",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
-      },
-      "points": 36,
-      "matches": 24,
-      "wins": 10,
-      "draws": 6,
-      "losses": 8,
-      "goalsFor": 32,
-      "goalsAgainst": 28,
-      "goalDifference": 4,
-      "recentForm": [
-        "W",
-        "D",
-        "W",
-        "D",
         "W"
       ]
     },
@@ -244,20 +244,20 @@
         "shortName": "SAO",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
       },
-      "points": 30,
-      "matches": 24,
+      "points": 31,
+      "matches": 25,
       "wins": 8,
-      "draws": 6,
+      "draws": 7,
       "losses": 10,
       "goalsFor": 29,
       "goalsAgainst": 28,
       "goalDifference": 1,
       "recentForm": [
-        "D",
         "L",
         "D",
         "L",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -473,7 +473,7 @@
       "id": 346499,
       "round": 26,
       "dateTime": "2026-09-05T16:00",
-      "status": "live",
+      "status": "finished",
       "venue": "Cícero de Souza Marques",
       "home": {
         "name": "Bragantino",
@@ -492,7 +492,7 @@
       "id": 346497,
       "round": 26,
       "dateTime": "2026-09-05T18:30",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Morumbis",
       "home": {
         "name": "São Paulo",
@@ -504,8 +504,8 @@
         "shortName": "CAM",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 0,
+      "scoreAway": 0
     },
     {
       "id": 346495,
