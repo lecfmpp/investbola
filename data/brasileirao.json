@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T13:06:08.551Z",
+  "updatedAt": "2026-09-06T16:19:48.962Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 26,
@@ -153,19 +153,19 @@
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
       },
       "points": 37,
-      "matches": 25,
+      "matches": 26,
       "wins": 10,
       "draws": 7,
-      "losses": 8,
-      "goalsFor": 33,
-      "goalsAgainst": 33,
-      "goalDifference": 0,
+      "losses": 9,
+      "goalsFor": 34,
+      "goalsAgainst": 35,
+      "goalDifference": -1,
       "recentForm": [
-        "L",
         "W",
         "D",
         "W",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -359,20 +359,20 @@
         "shortName": "MIR",
         "badge": "https://s.sde.globo.com/media/organizations/2026/07/17/MIrassol.svg"
       },
-      "points": 25,
-      "matches": 25,
-      "wins": 6,
+      "points": 28,
+      "matches": 26,
+      "wins": 7,
       "draws": 7,
       "losses": 12,
-      "goalsFor": 27,
-      "goalsAgainst": 39,
-      "goalDifference": -12,
+      "goalsFor": 29,
+      "goalsAgainst": 40,
+      "goalDifference": -11,
       "recentForm": [
-        "W",
         "L",
         "L",
         "D",
-        "D"
+        "D",
+        "W"
       ]
     },
     {
@@ -530,7 +530,7 @@
       "id": 346502,
       "round": 26,
       "dateTime": "2026-09-06T11:00",
-      "status": "scheduled",
+      "status": "finished",
       "venue": "Couto Pereira",
       "home": {
         "name": "Coritiba",
@@ -542,8 +542,8 @@
         "shortName": "MIR",
         "badge": "https://s.sde.globo.com/media/organizations/2026/07/17/MIrassol.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 1,
+      "scoreAway": 2
     },
     {
       "id": 346500,
