@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T18:25:18.655Z",
+  "updatedAt": "2026-09-06T20:48:17.892Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 26,
@@ -9,6 +9,29 @@
   "standings": [
     {
       "position": 1,
+      "team": {
+        "name": "Flamengo",
+        "shortName": "FLA",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
+      },
+      "points": 54,
+      "matches": 26,
+      "wins": 16,
+      "draws": 6,
+      "losses": 4,
+      "goalsFor": 51,
+      "goalsAgainst": 21,
+      "goalDifference": 30,
+      "recentForm": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "W"
+      ]
+    },
+    {
+      "position": 2,
       "team": {
         "name": "Palmeiras",
         "shortName": "PAL",
@@ -31,29 +54,6 @@
       ]
     },
     {
-      "position": 2,
-      "team": {
-        "name": "Flamengo",
-        "shortName": "FLA",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
-      },
-      "points": 51,
-      "matches": 25,
-      "wins": 15,
-      "draws": 6,
-      "losses": 4,
-      "goalsFor": 50,
-      "goalsAgainst": 21,
-      "goalDifference": 29,
-      "recentForm": [
-        "D",
-        "W",
-        "W",
-        "L",
-        "W"
-      ]
-    },
-    {
       "position": 3,
       "team": {
         "name": "Athletico-PR",
@@ -61,19 +61,19 @@
         "badge": "https://s.sde.globo.com/media/organizations/2026/01/07/Athletico-PR.svg"
       },
       "points": 45,
-      "matches": 25,
+      "matches": 26,
       "wins": 13,
       "draws": 6,
-      "losses": 6,
-      "goalsFor": 37,
-      "goalsAgainst": 25,
-      "goalDifference": 12,
+      "losses": 7,
+      "goalsFor": 38,
+      "goalsAgainst": 27,
+      "goalDifference": 11,
       "recentForm": [
-        "D",
         "W",
         "D",
         "W",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -129,20 +129,20 @@
         "shortName": "CRU",
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
       },
-      "points": 39,
-      "matches": 25,
-      "wins": 11,
+      "points": 42,
+      "matches": 26,
+      "wins": 12,
       "draws": 6,
       "losses": 8,
-      "goalsFor": 35,
-      "goalsAgainst": 36,
-      "goalDifference": -1,
+      "goalsFor": 37,
+      "goalsAgainst": 37,
+      "goalDifference": 0,
       "recentForm": [
         "W",
         "W",
         "W",
-        "W",
-        "L"
+        "L",
+        "W"
       ]
     },
     {
@@ -263,6 +263,29 @@
     {
       "position": 12,
       "team": {
+        "name": "Santos",
+        "shortName": "SAN",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      },
+      "points": 32,
+      "matches": 25,
+      "wins": 8,
+      "draws": 8,
+      "losses": 9,
+      "goalsFor": 37,
+      "goalsAgainst": 37,
+      "goalDifference": 0,
+      "recentForm": [
+        "L",
+        "W",
+        "D",
+        "W",
+        "W"
+      ]
+    },
+    {
+      "position": 13,
+      "team": {
         "name": "Botafogo",
         "shortName": "BOT",
         "badge": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
@@ -284,7 +307,7 @@
       ]
     },
     {
-      "position": 13,
+      "position": 14,
       "team": {
         "name": "Vitória",
         "shortName": "VIT",
@@ -304,29 +327,6 @@
         "W",
         "L",
         "L"
-      ]
-    },
-    {
-      "position": 14,
-      "team": {
-        "name": "Santos",
-        "shortName": "SAN",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
-      },
-      "points": 29,
-      "matches": 24,
-      "wins": 7,
-      "draws": 8,
-      "losses": 9,
-      "goalsFor": 34,
-      "goalsAgainst": 36,
-      "goalDifference": -2,
-      "recentForm": [
-        "D",
-        "L",
-        "W",
-        "D",
-        "W"
       ]
     },
     {
@@ -406,18 +406,18 @@
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
       },
       "points": 25,
-      "matches": 25,
+      "matches": 26,
       "wins": 5,
       "draws": 10,
-      "losses": 10,
-      "goalsFor": 26,
-      "goalsAgainst": 31,
-      "goalDifference": -5,
+      "losses": 11,
+      "goalsFor": 27,
+      "goalsAgainst": 34,
+      "goalDifference": -7,
       "recentForm": [
         "D",
         "D",
         "D",
-        "D",
+        "L",
         "L"
       ]
     },
@@ -429,17 +429,17 @@
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
       },
       "points": 23,
-      "matches": 25,
+      "matches": 26,
       "wins": 5,
       "draws": 8,
-      "losses": 12,
+      "losses": 13,
       "goalsFor": 30,
-      "goalsAgainst": 42,
-      "goalDifference": -12,
+      "goalsAgainst": 43,
+      "goalDifference": -13,
       "recentForm": [
+        "D",
+        "D",
         "L",
-        "D",
-        "D",
         "L",
         "L"
       ]
@@ -549,7 +549,7 @@
       "id": 346500,
       "round": 26,
       "dateTime": "2026-09-06T16:00",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Mineirão",
       "home": {
         "name": "Cruzeiro",
@@ -561,14 +561,14 @@
         "shortName": "CAP",
         "badge": "https://s.sde.globo.com/media/organizations/2026/01/07/Athletico-PR.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 2,
+      "scoreAway": 1
     },
     {
       "id": 346501,
       "round": 26,
       "dateTime": "2026-09-06T16:00",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Beira-Rio",
       "home": {
         "name": "Internacional",
@@ -580,14 +580,14 @@
         "shortName": "SAN",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 1,
+      "scoreAway": 3
     },
     {
       "id": 346504,
       "round": 26,
       "dateTime": "2026-09-06T16:00",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Mangueirão",
       "home": {
         "name": "Remo",
@@ -599,8 +599,8 @@
         "shortName": "FLA",
         "badge": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 0,
+      "scoreAway": 1
     },
     {
       "id": 346496,
