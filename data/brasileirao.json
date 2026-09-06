@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T00:39:01.701Z",
+  "updatedAt": "2026-09-06T05:06:08.960Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 26,
@@ -79,6 +79,29 @@
     {
       "position": 4,
       "team": {
+        "name": "Fluminense",
+        "shortName": "FLU",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+      },
+      "points": 45,
+      "matches": 26,
+      "wins": 12,
+      "draws": 9,
+      "losses": 5,
+      "goalsFor": 40,
+      "goalsAgainst": 32,
+      "goalDifference": 8,
+      "recentForm": [
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ]
+    },
+    {
+      "position": 5,
+      "team": {
         "name": "Bahia",
         "shortName": "BAH",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
@@ -97,29 +120,6 @@
         "W",
         "W",
         "W"
-      ]
-    },
-    {
-      "position": 5,
-      "team": {
-        "name": "Fluminense",
-        "shortName": "FLU",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
-      },
-      "points": 43,
-      "matches": 26,
-      "wins": 11,
-      "draws": 10,
-      "losses": 5,
-      "goalsFor": 39,
-      "goalsAgainst": 32,
-      "goalDifference": 7,
-      "recentForm": [
-        "D",
-        "W",
-        "W",
-        "D",
-        "D"
       ]
     },
     {
@@ -355,29 +355,6 @@
     {
       "position": 16,
       "team": {
-        "name": "Vasco",
-        "shortName": "VAS",
-        "badge": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
-      },
-      "points": 26,
-      "matches": 25,
-      "wins": 6,
-      "draws": 8,
-      "losses": 11,
-      "goalsFor": 27,
-      "goalsAgainst": 39,
-      "goalDifference": -12,
-      "recentForm": [
-        "D",
-        "L",
-        "L",
-        "W",
-        "D"
-      ]
-    },
-    {
-      "position": 17,
-      "team": {
         "name": "Mirassol",
         "shortName": "MIR",
         "badge": "https://s.sde.globo.com/media/organizations/2026/07/17/MIrassol.svg"
@@ -396,6 +373,29 @@
         "L",
         "D",
         "D"
+      ]
+    },
+    {
+      "position": 17,
+      "team": {
+        "name": "Vasco",
+        "shortName": "VAS",
+        "badge": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      },
+      "points": 25,
+      "matches": 25,
+      "wins": 6,
+      "draws": 7,
+      "losses": 12,
+      "goalsFor": 27,
+      "goalsAgainst": 40,
+      "goalDifference": -13,
+      "recentForm": [
+        "D",
+        "L",
+        "L",
+        "W",
+        "L"
       ]
     },
     {
@@ -511,7 +511,7 @@
       "id": 346495,
       "round": 26,
       "dateTime": "2026-09-05T21:00",
-      "status": "live",
+      "status": "finished",
       "venue": "Maracanã",
       "home": {
         "name": "Fluminense",
@@ -523,7 +523,7 @@
         "shortName": "VAS",
         "badge": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
       },
-      "scoreHome": 0,
+      "scoreHome": 1,
       "scoreAway": 0
     },
     {
