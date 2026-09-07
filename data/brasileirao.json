@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T20:46:32.161Z",
+  "updatedAt": "2026-09-07T23:19:23.748Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 26,
@@ -313,20 +313,20 @@
         "shortName": "VIT",
         "badge": "https://s.sde.globo.com/media/organizations/2025/12/18/Vitoria_2025.svg"
       },
-      "points": 29,
-      "matches": 25,
+      "points": 30,
+      "matches": 26,
       "wins": 8,
-      "draws": 5,
+      "draws": 6,
       "losses": 12,
       "goalsFor": 24,
       "goalsAgainst": 37,
       "goalDifference": -13,
       "recentForm": [
         "L",
-        "L",
         "W",
         "L",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -336,20 +336,20 @@
         "shortName": "GRE",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
       },
-      "points": 28,
-      "matches": 24,
+      "points": 29,
+      "matches": 25,
       "wins": 7,
-      "draws": 7,
+      "draws": 8,
       "losses": 10,
       "goalsFor": 27,
       "goalsAgainst": 32,
       "goalDifference": -5,
       "recentForm": [
-        "D",
         "W",
         "L",
         "L",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -644,7 +644,7 @@
       "id": 346503,
       "round": 26,
       "dateTime": "2026-09-07T20:00",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Barradão",
       "home": {
         "name": "Vitória",
@@ -656,8 +656,8 @@
         "shortName": "GRE",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 0,
+      "scoreAway": 0
     }
   ]
 }
