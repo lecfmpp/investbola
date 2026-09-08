@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T01:14:59.368Z",
+  "updatedAt": "2026-09-08T06:01:11.576Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 26,
@@ -644,7 +644,7 @@
       "id": 346503,
       "round": 26,
       "dateTime": "2026-09-07T20:00",
-      "status": "live",
+      "status": "finished",
       "venue": "Barradão",
       "home": {
         "name": "Vitória",
