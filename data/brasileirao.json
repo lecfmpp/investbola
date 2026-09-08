@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T23:19:23.748Z",
+  "updatedAt": "2026-09-08T01:14:59.368Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 26,
@@ -240,6 +240,29 @@
     {
       "position": 11,
       "team": {
+        "name": "Vitória",
+        "shortName": "VIT",
+        "badge": "https://s.sde.globo.com/media/organizations/2025/12/18/Vitoria_2025.svg"
+      },
+      "points": 32,
+      "matches": 26,
+      "wins": 9,
+      "draws": 5,
+      "losses": 12,
+      "goalsFor": 25,
+      "goalsAgainst": 37,
+      "goalDifference": -12,
+      "recentForm": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "W"
+      ]
+    },
+    {
+      "position": 12,
+      "team": {
         "name": "Corinthians",
         "shortName": "COR",
         "badge": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
@@ -261,7 +284,7 @@
       ]
     },
     {
-      "position": 12,
+      "position": 13,
       "team": {
         "name": "Santos",
         "shortName": "SAN",
@@ -284,7 +307,7 @@
       ]
     },
     {
-      "position": 13,
+      "position": 14,
       "team": {
         "name": "Botafogo",
         "shortName": "BOT",
@@ -307,49 +330,26 @@
       ]
     },
     {
-      "position": 14,
-      "team": {
-        "name": "Vitória",
-        "shortName": "VIT",
-        "badge": "https://s.sde.globo.com/media/organizations/2025/12/18/Vitoria_2025.svg"
-      },
-      "points": 30,
-      "matches": 26,
-      "wins": 8,
-      "draws": 6,
-      "losses": 12,
-      "goalsFor": 24,
-      "goalsAgainst": 37,
-      "goalDifference": -13,
-      "recentForm": [
-        "L",
-        "W",
-        "L",
-        "L",
-        "D"
-      ]
-    },
-    {
       "position": 15,
       "team": {
         "name": "Grêmio",
         "shortName": "GRE",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
       },
-      "points": 29,
+      "points": 28,
       "matches": 25,
       "wins": 7,
-      "draws": 8,
-      "losses": 10,
+      "draws": 7,
+      "losses": 11,
       "goalsFor": 27,
-      "goalsAgainst": 32,
-      "goalDifference": -5,
+      "goalsAgainst": 33,
+      "goalDifference": -6,
       "recentForm": [
         "W",
         "L",
         "L",
         "W",
-        "D"
+        "L"
       ]
     },
     {
@@ -656,7 +656,7 @@
         "shortName": "GRE",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
       },
-      "scoreHome": 0,
+      "scoreHome": 1,
       "scoreAway": 0
     }
   ]
