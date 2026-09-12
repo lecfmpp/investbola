@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T00:39:36.202Z",
+  "updatedAt": "2026-09-12T05:05:20.182Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 27,
@@ -60,20 +60,20 @@
         "shortName": "CAP",
         "badge": "https://s.sde.globo.com/media/organizations/2026/01/07/Athletico-PR.svg"
       },
-      "points": 48,
+      "points": 46,
       "matches": 27,
-      "wins": 14,
-      "draws": 6,
+      "wins": 13,
+      "draws": 7,
       "losses": 7,
-      "goalsFor": 40,
-      "goalsAgainst": 28,
-      "goalDifference": 12,
+      "goalsFor": 41,
+      "goalsAgainst": 31,
+      "goalDifference": 10,
       "recentForm": [
         "D",
         "W",
         "D",
         "L",
-        "W"
+        "D"
       ]
     },
     {
@@ -152,20 +152,20 @@
         "shortName": "CFC",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
       },
-      "points": 37,
+      "points": 38,
       "matches": 27,
       "wins": 10,
-      "draws": 7,
-      "losses": 10,
-      "goalsFor": 34,
-      "goalsAgainst": 37,
-      "goalDifference": -3,
+      "draws": 8,
+      "losses": 9,
+      "goalsFor": 37,
+      "goalsAgainst": 38,
+      "goalDifference": -1,
       "recentForm": [
         "D",
         "W",
         "W",
         "L",
-        "L"
+        "D"
       ]
     },
     {
@@ -473,7 +473,7 @@
       "id": 346522,
       "round": 27,
       "dateTime": "2026-09-11T21:00",
-      "status": "live",
+      "status": "finished",
       "venue": "Couto Pereira",
       "home": {
         "name": "Coritiba",
@@ -485,8 +485,8 @@
         "shortName": "CAP",
         "badge": "https://s.sde.globo.com/media/organizations/2026/01/07/Athletico-PR.svg"
       },
-      "scoreHome": 0,
-      "scoreAway": 2
+      "scoreHome": 3,
+      "scoreAway": 3
     },
     {
       "id": 346520,
