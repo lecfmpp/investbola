@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T18:44:08.240Z",
+  "updatedAt": "2026-09-12T21:16:18.594Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 27,
@@ -84,19 +84,19 @@
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
       },
       "points": 45,
-      "matches": 26,
+      "matches": 27,
       "wins": 12,
       "draws": 9,
-      "losses": 5,
-      "goalsFor": 40,
-      "goalsAgainst": 32,
-      "goalDifference": 8,
+      "losses": 6,
+      "goalsFor": 41,
+      "goalsAgainst": 35,
+      "goalDifference": 6,
       "recentForm": [
-        "D",
         "W",
         "W",
         "D",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -148,6 +148,29 @@
     {
       "position": 7,
       "team": {
+        "name": "Atlético-MG",
+        "shortName": "CAM",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      },
+      "points": 39,
+      "matches": 26,
+      "wins": 11,
+      "draws": 6,
+      "losses": 9,
+      "goalsFor": 35,
+      "goalsAgainst": 31,
+      "goalDifference": 4,
+      "recentForm": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W"
+      ]
+    },
+    {
+      "position": 8,
+      "team": {
         "name": "Coritiba",
         "shortName": "CFC",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
@@ -166,29 +189,6 @@
         "W",
         "L",
         "D"
-      ]
-    },
-    {
-      "position": 8,
-      "team": {
-        "name": "Atlético-MG",
-        "shortName": "CAM",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
-      },
-      "points": 36,
-      "matches": 25,
-      "wins": 10,
-      "draws": 6,
-      "losses": 9,
-      "goalsFor": 32,
-      "goalsAgainst": 30,
-      "goalDifference": 2,
-      "recentForm": [
-        "D",
-        "W",
-        "D",
-        "W",
-        "L"
       ]
     },
     {
@@ -337,18 +337,18 @@
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
       },
       "points": 28,
-      "matches": 25,
+      "matches": 26,
       "wins": 7,
       "draws": 7,
-      "losses": 11,
-      "goalsFor": 27,
-      "goalsAgainst": 33,
-      "goalDifference": -6,
+      "losses": 12,
+      "goalsFor": 28,
+      "goalsAgainst": 35,
+      "goalDifference": -7,
       "recentForm": [
-        "W",
         "L",
         "L",
         "W",
+        "L",
         "L"
       ]
     },
@@ -382,20 +382,20 @@
         "shortName": "VAS",
         "badge": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
       },
-      "points": 25,
-      "matches": 25,
-      "wins": 6,
+      "points": 28,
+      "matches": 26,
+      "wins": 7,
       "draws": 7,
       "losses": 12,
-      "goalsFor": 27,
-      "goalsAgainst": 40,
-      "goalDifference": -13,
+      "goalsFor": 29,
+      "goalsAgainst": 41,
+      "goalDifference": -12,
       "recentForm": [
-        "D",
         "L",
         "L",
         "W",
-        "L"
+        "L",
+        "W"
       ]
     },
     {
@@ -405,20 +405,20 @@
         "shortName": "INT",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
       },
-      "points": 25,
-      "matches": 26,
+      "points": 26,
+      "matches": 27,
       "wins": 5,
-      "draws": 10,
+      "draws": 11,
       "losses": 11,
-      "goalsFor": 28,
-      "goalsAgainst": 34,
+      "goalsFor": 29,
+      "goalsAgainst": 35,
       "goalDifference": -6,
       "recentForm": [
         "D",
         "D",
-        "D",
         "L",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -451,20 +451,20 @@
         "shortName": "CHA",
         "badge": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
       },
-      "points": 17,
-      "matches": 25,
+      "points": 18,
+      "matches": 26,
       "wins": 3,
-      "draws": 8,
+      "draws": 9,
       "losses": 14,
-      "goalsFor": 27,
-      "goalsAgainst": 50,
+      "goalsFor": 28,
+      "goalsAgainst": 51,
       "goalDifference": -23,
       "recentForm": [
-        "L",
         "D",
         "W",
         "L",
-        "W"
+        "W",
+        "D"
       ]
     }
   ],
@@ -492,7 +492,7 @@
       "id": 346520,
       "round": 27,
       "dateTime": "2026-09-12T16:00",
-      "status": "scheduled",
+      "status": "finished",
       "venue": "Arena MRV",
       "home": {
         "name": "Atlético-MG",
@@ -504,14 +504,14 @@
         "shortName": "FLU",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 3,
+      "scoreAway": 1
     },
     {
       "id": 346521,
       "round": 27,
       "dateTime": "2026-09-12T16:00",
-      "status": "scheduled",
+      "status": "finished",
       "venue": "Arena do Grêmio",
       "home": {
         "name": "Grêmio",
@@ -523,14 +523,14 @@
         "shortName": "VAS",
         "badge": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 1,
+      "scoreAway": 2
     },
     {
       "id": 346524,
       "round": 27,
       "dateTime": "2026-09-12T17:00",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Arena Condá",
       "home": {
         "name": "Chapecoense",
@@ -542,8 +542,8 @@
         "shortName": "INT",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 1,
+      "scoreAway": 1
     },
     {
       "id": 346518,
