@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T21:16:18.594Z",
+  "updatedAt": "2026-09-12T23:05:03.835Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 27,
@@ -9,6 +9,29 @@
   "standings": [
     {
       "position": 1,
+      "team": {
+        "name": "Palmeiras",
+        "shortName": "PAL",
+        "badge": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
+      },
+      "points": 56,
+      "matches": 27,
+      "wins": 16,
+      "draws": 8,
+      "losses": 3,
+      "goalsFor": 47,
+      "goalsAgainst": 21,
+      "goalDifference": 26,
+      "recentForm": [
+        "L",
+        "W",
+        "D",
+        "D",
+        "W"
+      ]
+    },
+    {
+      "position": 2,
       "team": {
         "name": "Flamengo",
         "shortName": "FLA",
@@ -28,29 +51,6 @@
         "L",
         "W",
         "W"
-      ]
-    },
-    {
-      "position": 2,
-      "team": {
-        "name": "Palmeiras",
-        "shortName": "PAL",
-        "badge": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
-      },
-      "points": 53,
-      "matches": 26,
-      "wins": 15,
-      "draws": 8,
-      "losses": 3,
-      "goalsFor": 45,
-      "goalsAgainst": 21,
-      "goalDifference": 24,
-      "recentForm": [
-        "D",
-        "L",
-        "W",
-        "D",
-        "D"
       ]
     },
     {
@@ -222,19 +222,19 @@
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
       },
       "points": 33,
-      "matches": 25,
+      "matches": 26,
       "wins": 9,
       "draws": 6,
-      "losses": 10,
+      "losses": 11,
       "goalsFor": 31,
-      "goalsAgainst": 28,
-      "goalDifference": 3,
+      "goalsAgainst": 30,
+      "goalDifference": 1,
       "recentForm": [
-        "L",
         "D",
         "L",
         "W",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -405,20 +405,20 @@
         "shortName": "INT",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
       },
-      "points": 26,
+      "points": 28,
       "matches": 27,
-      "wins": 5,
-      "draws": 11,
+      "wins": 6,
+      "draws": 10,
       "losses": 11,
-      "goalsFor": 29,
+      "goalsFor": 30,
       "goalsAgainst": 35,
-      "goalDifference": -6,
+      "goalDifference": -5,
       "recentForm": [
         "D",
         "D",
         "L",
         "L",
-        "D"
+        "W"
       ]
     },
     {
@@ -451,20 +451,20 @@
         "shortName": "CHA",
         "badge": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
       },
-      "points": 18,
+      "points": 17,
       "matches": 26,
       "wins": 3,
-      "draws": 9,
-      "losses": 14,
+      "draws": 8,
+      "losses": 15,
       "goalsFor": 28,
-      "goalsAgainst": 51,
-      "goalDifference": -23,
+      "goalsAgainst": 52,
+      "goalDifference": -24,
       "recentForm": [
         "D",
         "W",
         "L",
         "W",
-        "D"
+        "L"
       ]
     }
   ],
@@ -530,7 +530,7 @@
       "id": 346524,
       "round": 27,
       "dateTime": "2026-09-12T17:00",
-      "status": "live",
+      "status": "finished",
       "venue": "Arena Condá",
       "home": {
         "name": "Chapecoense",
@@ -543,13 +543,13 @@
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
       },
       "scoreHome": 1,
-      "scoreAway": 1
+      "scoreAway": 2
     },
     {
       "id": 346518,
       "round": 27,
       "dateTime": "2026-09-12T18:30",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Nubank Parque",
       "home": {
         "name": "Palmeiras",
@@ -561,8 +561,8 @@
         "shortName": "SAO",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 2,
+      "scoreAway": 0
     },
     {
       "id": 346516,
