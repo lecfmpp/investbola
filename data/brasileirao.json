@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T21:17:30.577Z",
+  "updatedAt": "2026-09-13T23:13:49.534Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 27,
@@ -9,6 +9,29 @@
   "standings": [
     {
       "position": 1,
+      "team": {
+        "name": "Flamengo",
+        "shortName": "FLA",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
+      },
+      "points": 57,
+      "matches": 27,
+      "wins": 17,
+      "draws": 6,
+      "losses": 4,
+      "goalsFor": 53,
+      "goalsAgainst": 22,
+      "goalDifference": 31,
+      "recentForm": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ]
+    },
+    {
+      "position": 2,
       "team": {
         "name": "Palmeiras",
         "shortName": "PAL",
@@ -28,29 +51,6 @@
         "D",
         "D",
         "W"
-      ]
-    },
-    {
-      "position": 2,
-      "team": {
-        "name": "Flamengo",
-        "shortName": "FLA",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
-      },
-      "points": 55,
-      "matches": 27,
-      "wins": 16,
-      "draws": 7,
-      "losses": 4,
-      "goalsFor": 51,
-      "goalsAgainst": 21,
-      "goalDifference": 30,
-      "recentForm": [
-        "W",
-        "L",
-        "W",
-        "W",
-        "D"
       ]
     },
     {
@@ -290,20 +290,20 @@
         "shortName": "COR",
         "badge": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
       },
-      "points": 33,
+      "points": 32,
       "matches": 27,
       "wins": 8,
-      "draws": 9,
-      "losses": 10,
-      "goalsFor": 27,
-      "goalsAgainst": 27,
-      "goalDifference": 0,
+      "draws": 8,
+      "losses": 11,
+      "goalsFor": 28,
+      "goalsAgainst": 29,
+      "goalDifference": -1,
       "recentForm": [
         "L",
         "L",
         "L",
         "L",
-        "D"
+        "L"
       ]
     },
     {
@@ -606,7 +606,7 @@
       "id": 346519,
       "round": 27,
       "dateTime": "2026-09-13T16:00",
-      "status": "live",
+      "status": "finished",
       "venue": "Maião",
       "home": {
         "name": "Mirassol",
@@ -625,7 +625,7 @@
       "id": 346515,
       "round": 27,
       "dateTime": "2026-09-13T17:30",
-      "status": "live",
+      "status": "finished",
       "venue": "Maracanã",
       "home": {
         "name": "Flamengo",
@@ -637,8 +637,8 @@
         "shortName": "COR",
         "badge": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
       },
-      "scoreHome": 0,
-      "scoreAway": 0
+      "scoreHome": 2,
+      "scoreAway": 1
     },
     {
       "id": 346523,
