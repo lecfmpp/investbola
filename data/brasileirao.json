@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T23:05:03.835Z",
+  "updatedAt": "2026-09-13T01:07:07.452Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 27,
@@ -130,19 +130,19 @@
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
       },
       "points": 42,
-      "matches": 26,
+      "matches": 27,
       "wins": 12,
       "draws": 6,
-      "losses": 8,
+      "losses": 9,
       "goalsFor": 38,
-      "goalsAgainst": 37,
-      "goalDifference": 1,
+      "goalsAgainst": 39,
+      "goalDifference": -1,
       "recentForm": [
         "W",
         "W",
-        "W",
         "L",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -198,24 +198,47 @@
         "shortName": "RBB",
         "badge": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
       },
-      "points": 35,
-      "matches": 25,
+      "points": 36,
+      "matches": 26,
       "wins": 10,
-      "draws": 5,
+      "draws": 6,
       "losses": 10,
-      "goalsFor": 31,
-      "goalsAgainst": 28,
+      "goalsFor": 32,
+      "goalsAgainst": 29,
       "goalDifference": 3,
       "recentForm": [
-        "L",
         "D",
         "W",
         "L",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
       "position": 10,
+      "team": {
+        "name": "Santos",
+        "shortName": "SAN",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      },
+      "points": 35,
+      "matches": 26,
+      "wins": 9,
+      "draws": 8,
+      "losses": 9,
+      "goalsFor": 39,
+      "goalsAgainst": 38,
+      "goalDifference": 1,
+      "recentForm": [
+        "W",
+        "D",
+        "W",
+        "W",
+        "W"
+      ]
+    },
+    {
+      "position": 11,
       "team": {
         "name": "São Paulo",
         "shortName": "SAO",
@@ -238,7 +261,7 @@
       ]
     },
     {
-      "position": 11,
+      "position": 12,
       "team": {
         "name": "Vitória",
         "shortName": "VIT",
@@ -261,7 +284,7 @@
       ]
     },
     {
-      "position": 12,
+      "position": 13,
       "team": {
         "name": "Corinthians",
         "shortName": "COR",
@@ -284,48 +307,25 @@
       ]
     },
     {
-      "position": 13,
-      "team": {
-        "name": "Santos",
-        "shortName": "SAN",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
-      },
-      "points": 32,
-      "matches": 25,
-      "wins": 8,
-      "draws": 8,
-      "losses": 9,
-      "goalsFor": 37,
-      "goalsAgainst": 38,
-      "goalDifference": -1,
-      "recentForm": [
-        "L",
-        "W",
-        "D",
-        "W",
-        "W"
-      ]
-    },
-    {
       "position": 14,
       "team": {
         "name": "Botafogo",
         "shortName": "BOT",
         "badge": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
       },
-      "points": 31,
-      "matches": 25,
+      "points": 32,
+      "matches": 26,
       "wins": 8,
-      "draws": 7,
+      "draws": 8,
       "losses": 10,
-      "goalsFor": 37,
-      "goalsAgainst": 40,
+      "goalsFor": 38,
+      "goalsAgainst": 41,
       "goalDifference": -3,
       "recentForm": [
+        "L",
+        "L",
+        "L",
         "D",
-        "L",
-        "L",
-        "L",
         "D"
       ]
     },
@@ -549,7 +549,7 @@
       "id": 346518,
       "round": 27,
       "dateTime": "2026-09-12T18:30",
-      "status": "live",
+      "status": "finished",
       "venue": "Nubank Parque",
       "home": {
         "name": "Palmeiras",
@@ -568,7 +568,7 @@
       "id": 346516,
       "round": 27,
       "dateTime": "2026-09-12T20:30",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Nilton Santos (Engenhão)",
       "home": {
         "name": "Botafogo",
@@ -580,14 +580,14 @@
         "shortName": "RBB",
         "badge": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 1,
+      "scoreAway": 1
     },
     {
       "id": 346517,
       "round": 27,
       "dateTime": "2026-09-12T21:00",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Vila Belmiro",
       "home": {
         "name": "Santos",
@@ -599,8 +599,8 @@
         "shortName": "CRU",
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 2,
+      "scoreAway": 0
     },
     {
       "id": 346519,
