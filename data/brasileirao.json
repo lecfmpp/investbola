@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T01:07:07.452Z",
+  "updatedAt": "2026-09-13T06:17:21.713Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 27,
@@ -134,9 +134,9 @@
       "wins": 12,
       "draws": 6,
       "losses": 9,
-      "goalsFor": 38,
+      "goalsFor": 39,
       "goalsAgainst": 39,
-      "goalDifference": -1,
+      "goalDifference": 0,
       "recentForm": [
         "W",
         "W",
@@ -227,8 +227,8 @@
       "draws": 8,
       "losses": 9,
       "goalsFor": 39,
-      "goalsAgainst": 38,
-      "goalDifference": 1,
+      "goalsAgainst": 39,
+      "goalDifference": 0,
       "recentForm": [
         "W",
         "D",
@@ -568,7 +568,7 @@
       "id": 346516,
       "round": 27,
       "dateTime": "2026-09-12T20:30",
-      "status": "live",
+      "status": "finished",
       "venue": "Nilton Santos (Engenhão)",
       "home": {
         "name": "Botafogo",
@@ -587,7 +587,7 @@
       "id": 346517,
       "round": 27,
       "dateTime": "2026-09-12T21:00",
-      "status": "live",
+      "status": "finished",
       "venue": "Vila Belmiro",
       "home": {
         "name": "Santos",
@@ -600,7 +600,7 @@
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
       },
       "scoreHome": 2,
-      "scoreAway": 0
+      "scoreAway": 1
     },
     {
       "id": 346519,
