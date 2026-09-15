@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T22:18:22.613Z",
+  "updatedAt": "2026-09-15T00:42:08.583Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 27,
@@ -79,6 +79,29 @@
     {
       "position": 4,
       "team": {
+        "name": "Bahia",
+        "shortName": "BAH",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      },
+      "points": 46,
+      "matches": 27,
+      "wins": 12,
+      "draws": 10,
+      "losses": 5,
+      "goalsFor": 41,
+      "goalsAgainst": 32,
+      "goalDifference": 9,
+      "recentForm": [
+        "D",
+        "W",
+        "W",
+        "W",
+        "W"
+      ]
+    },
+    {
+      "position": 5,
+      "team": {
         "name": "Fluminense",
         "shortName": "FLU",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
@@ -97,29 +120,6 @@
         "D",
         "W",
         "L"
-      ]
-    },
-    {
-      "position": 5,
-      "team": {
-        "name": "Bahia",
-        "shortName": "BAH",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
-      },
-      "points": 43,
-      "matches": 26,
-      "wins": 11,
-      "draws": 10,
-      "losses": 5,
-      "goalsFor": 40,
-      "goalsAgainst": 32,
-      "goalDifference": 8,
-      "recentForm": [
-        "D",
-        "D",
-        "W",
-        "W",
-        "W"
       ]
     },
     {
@@ -429,16 +429,16 @@
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
       },
       "points": 23,
-      "matches": 26,
+      "matches": 27,
       "wins": 5,
       "draws": 8,
-      "losses": 13,
+      "losses": 14,
       "goalsFor": 30,
-      "goalsAgainst": 43,
-      "goalDifference": -13,
+      "goalsAgainst": 44,
+      "goalDifference": -14,
       "recentForm": [
         "D",
-        "D",
+        "L",
         "L",
         "L",
         "L"
@@ -644,7 +644,7 @@
       "id": 346523,
       "round": 27,
       "dateTime": "2026-09-14T20:00",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Casa de Apostas Arena Fonte Nova",
       "home": {
         "name": "Bahia",
@@ -656,8 +656,8 @@
         "shortName": "REM",
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 1,
+      "scoreAway": 0
     }
   ]
 }
