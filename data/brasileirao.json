@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T15:00:59.107Z",
+  "updatedAt": "2026-09-16T18:55:48.659Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 21,
@@ -605,9 +605,9 @@
     {
       "id": 346283,
       "round": 21,
-      "dateTime": null,
+      "dateTime": "2026-10-02T20:00",
       "status": "scheduled",
-      "venue": null,
+      "venue": "Morumbis",
       "home": {
         "name": "São Paulo",
         "shortName": "SAO",
