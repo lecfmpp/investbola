@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T21:57:04.215Z",
+  "updatedAt": "2026-09-17T00:15:36.476Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 21,
@@ -240,6 +240,29 @@
     {
       "position": 11,
       "team": {
+        "name": "Botafogo",
+        "shortName": "BOT",
+        "badge": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      },
+      "points": 35,
+      "matches": 27,
+      "wins": 9,
+      "draws": 8,
+      "losses": 10,
+      "goalsFor": 41,
+      "goalsAgainst": 42,
+      "goalDifference": -1,
+      "recentForm": [
+        "L",
+        "L",
+        "L",
+        "D",
+        "D"
+      ]
+    },
+    {
+      "position": 12,
+      "team": {
         "name": "São Paulo",
         "shortName": "SAO",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
@@ -261,7 +284,7 @@
       ]
     },
     {
-      "position": 12,
+      "position": 13,
       "team": {
         "name": "Vitória",
         "shortName": "VIT",
@@ -284,7 +307,7 @@
       ]
     },
     {
-      "position": 13,
+      "position": 14,
       "team": {
         "name": "Corinthians",
         "shortName": "COR",
@@ -304,29 +327,6 @@
         "L",
         "L",
         "L"
-      ]
-    },
-    {
-      "position": 14,
-      "team": {
-        "name": "Botafogo",
-        "shortName": "BOT",
-        "badge": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
-      },
-      "points": 32,
-      "matches": 26,
-      "wins": 8,
-      "draws": 8,
-      "losses": 10,
-      "goalsFor": 38,
-      "goalsAgainst": 41,
-      "goalDifference": -3,
-      "recentForm": [
-        "L",
-        "L",
-        "L",
-        "D",
-        "D"
       ]
     },
     {
@@ -360,13 +360,13 @@
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
       },
       "points": 28,
-      "matches": 26,
+      "matches": 27,
       "wins": 7,
       "draws": 7,
-      "losses": 12,
-      "goalsFor": 28,
-      "goalsAgainst": 35,
-      "goalDifference": -7,
+      "losses": 13,
+      "goalsFor": 29,
+      "goalsAgainst": 38,
+      "goalDifference": -9,
       "recentForm": [
         "L",
         "L",
@@ -587,7 +587,7 @@
       "id": 346282,
       "round": 21,
       "dateTime": "2026-09-16T19:30",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Nilton Santos (Engenhão)",
       "home": {
         "name": "Botafogo",
@@ -599,8 +599,8 @@
         "shortName": "GRE",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 3,
+      "scoreAway": 1
     },
     {
       "id": 346283,
