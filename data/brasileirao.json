@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T19:12:39.313Z",
+  "updatedAt": "2026-09-19T21:29:15.341Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 28,
@@ -157,15 +157,15 @@
       "wins": 11,
       "draws": 7,
       "losses": 9,
-      "goalsFor": 35,
-      "goalsAgainst": 31,
+      "goalsFor": 36,
+      "goalsAgainst": 32,
       "goalDifference": 4,
       "recentForm": [
-        "W",
         "D",
         "W",
         "L",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -245,19 +245,19 @@
         "badge": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
       },
       "points": 35,
-      "matches": 27,
+      "matches": 28,
       "wins": 9,
       "draws": 8,
-      "losses": 10,
+      "losses": 11,
       "goalsFor": 41,
-      "goalsAgainst": 43,
-      "goalDifference": -2,
+      "goalsAgainst": 45,
+      "goalDifference": -4,
       "recentForm": [
         "L",
         "L",
-        "L",
         "D",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -336,20 +336,20 @@
         "shortName": "MIR",
         "badge": "https://s.sde.globo.com/media/organizations/2026/07/17/MIrassol.svg"
       },
-      "points": 29,
-      "matches": 27,
-      "wins": 7,
+      "points": 32,
+      "matches": 28,
+      "wins": 8,
       "draws": 8,
       "losses": 12,
-      "goalsFor": 31,
+      "goalsFor": 33,
       "goalsAgainst": 42,
-      "goalDifference": -11,
+      "goalDifference": -9,
       "recentForm": [
-        "L",
         "D",
         "D",
         "W",
-        "D"
+        "D",
+        "W"
       ]
     },
     {
@@ -456,15 +456,15 @@
       "wins": 3,
       "draws": 9,
       "losses": 15,
-      "goalsFor": 28,
-      "goalsAgainst": 52,
+      "goalsFor": 29,
+      "goalsAgainst": 53,
       "goalDifference": -24,
       "recentForm": [
-        "D",
         "W",
         "L",
         "W",
-        "L"
+        "L",
+        "D"
       ]
     }
   ],
@@ -473,7 +473,7 @@
       "id": 346550,
       "round": 28,
       "dateTime": "2026-09-19T16:00",
-      "status": "live",
+      "status": "finished",
       "venue": "Arena MRV",
       "home": {
         "name": "Atlético-MG",
@@ -485,14 +485,14 @@
         "shortName": "CHA",
         "badge": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
       },
-      "scoreHome": 0,
-      "scoreAway": 0
+      "scoreHome": 1,
+      "scoreAway": 1
     },
     {
       "id": 346549,
       "round": 28,
       "dateTime": "2026-09-19T17:00",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Maião",
       "home": {
         "name": "Mirassol",
@@ -504,8 +504,8 @@
         "shortName": "BOT",
         "badge": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 2,
+      "scoreAway": 0
     },
     {
       "id": 346554,
