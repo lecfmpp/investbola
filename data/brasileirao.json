@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T16:47:28.252Z",
+  "updatedAt": "2026-09-19T19:12:39.313Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 28,
@@ -152,10 +152,10 @@
         "shortName": "CAM",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
       },
-      "points": 39,
-      "matches": 26,
+      "points": 40,
+      "matches": 27,
       "wins": 11,
-      "draws": 6,
+      "draws": 7,
       "losses": 9,
       "goalsFor": 35,
       "goalsAgainst": 31,
@@ -451,10 +451,10 @@
         "shortName": "CHA",
         "badge": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
       },
-      "points": 17,
-      "matches": 26,
+      "points": 18,
+      "matches": 27,
       "wins": 3,
-      "draws": 8,
+      "draws": 9,
       "losses": 15,
       "goalsFor": 28,
       "goalsAgainst": 52,
@@ -473,7 +473,7 @@
       "id": 346550,
       "round": 28,
       "dateTime": "2026-09-19T16:00",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Arena MRV",
       "home": {
         "name": "Atlético-MG",
@@ -485,8 +485,8 @@
         "shortName": "CHA",
         "badge": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 0,
+      "scoreAway": 0
     },
     {
       "id": 346549,
