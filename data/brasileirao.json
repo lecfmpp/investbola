@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T01:36:05.197Z",
+  "updatedAt": "2026-09-20T06:59:27.875Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 28,
@@ -530,7 +530,7 @@
       "id": 346546,
       "round": 28,
       "dateTime": "2026-09-19T20:30",
-      "status": "live",
+      "status": "finished",
       "venue": "São Januário",
       "home": {
         "name": "Vasco",
@@ -549,7 +549,7 @@
       "id": 346547,
       "round": 28,
       "dateTime": "2026-09-19T21:00",
-      "status": "live",
+      "status": "finished",
       "venue": "Morumbis",
       "home": {
         "name": "São Paulo",
