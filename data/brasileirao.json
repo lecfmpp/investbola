@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T12:13:49.158Z",
+  "updatedAt": "2026-09-20T16:14:44.470Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 28,
@@ -37,20 +37,20 @@
         "shortName": "PAL",
         "badge": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
       },
-      "points": 56,
-      "matches": 27,
+      "points": 57,
+      "matches": 28,
       "wins": 16,
-      "draws": 8,
+      "draws": 9,
       "losses": 3,
       "goalsFor": 47,
       "goalsAgainst": 21,
       "goalDifference": 26,
       "recentForm": [
-        "L",
         "W",
         "D",
         "D",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -382,20 +382,20 @@
         "shortName": "GRE",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
       },
-      "points": 28,
-      "matches": 27,
+      "points": 29,
+      "matches": 28,
       "wins": 7,
-      "draws": 7,
+      "draws": 8,
       "losses": 13,
       "goalsFor": 30,
       "goalsAgainst": 38,
       "goalDifference": -8,
       "recentForm": [
         "L",
-        "L",
         "W",
         "L",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -568,7 +568,7 @@
       "id": 346551,
       "round": 28,
       "dateTime": "2026-09-20T11:00",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Arena do Grêmio",
       "home": {
         "name": "Grêmio",
@@ -580,8 +580,8 @@
         "shortName": "PAL",
         "badge": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 0,
+      "scoreAway": 0
     },
     {
       "id": 346548,
