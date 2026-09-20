@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T18:52:28.654Z",
+  "updatedAt": "2026-09-20T21:12:30.506Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 28,
@@ -56,6 +56,29 @@
     {
       "position": 3,
       "team": {
+        "name": "Fluminense",
+        "shortName": "FLU",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+      },
+      "points": 48,
+      "matches": 28,
+      "wins": 13,
+      "draws": 9,
+      "losses": 6,
+      "goalsFor": 44,
+      "goalsAgainst": 36,
+      "goalDifference": 8,
+      "recentForm": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W"
+      ]
+    },
+    {
+      "position": 4,
+      "team": {
         "name": "Athletico-PR",
         "shortName": "CAP",
         "badge": "https://s.sde.globo.com/media/organizations/2026/01/07/Athletico-PR.svg"
@@ -77,7 +100,7 @@
       ]
     },
     {
-      "position": 4,
+      "position": 5,
       "team": {
         "name": "Bahia",
         "shortName": "BAH",
@@ -100,49 +123,26 @@
       ]
     },
     {
-      "position": 5,
-      "team": {
-        "name": "Fluminense",
-        "shortName": "FLU",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
-      },
-      "points": 45,
-      "matches": 27,
-      "wins": 12,
-      "draws": 9,
-      "losses": 6,
-      "goalsFor": 41,
-      "goalsAgainst": 35,
-      "goalDifference": 6,
-      "recentForm": [
-        "W",
-        "W",
-        "D",
-        "W",
-        "L"
-      ]
-    },
-    {
       "position": 6,
       "team": {
         "name": "Cruzeiro",
         "shortName": "CRU",
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
       },
-      "points": 42,
-      "matches": 27,
-      "wins": 12,
+      "points": 45,
+      "matches": 28,
+      "wins": 13,
       "draws": 6,
       "losses": 9,
-      "goalsFor": 39,
-      "goalsAgainst": 39,
-      "goalDifference": 0,
+      "goalsFor": 42,
+      "goalsAgainst": 40,
+      "goalDifference": 2,
       "recentForm": [
-        "W",
         "W",
         "L",
         "W",
-        "L"
+        "L",
+        "W"
       ]
     },
     {
@@ -291,19 +291,19 @@
         "badge": "https://s.sde.globo.com/media/organizations/2025/12/18/Vitoria_2025.svg"
       },
       "points": 33,
-      "matches": 27,
+      "matches": 28,
       "wins": 9,
       "draws": 6,
-      "losses": 12,
-      "goalsFor": 27,
-      "goalsAgainst": 39,
-      "goalDifference": -12,
+      "losses": 13,
+      "goalsFor": 28,
+      "goalsAgainst": 42,
+      "goalDifference": -14,
       "recentForm": [
-        "W",
         "L",
         "L",
         "W",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -314,13 +314,13 @@
         "badge": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
       },
       "points": 32,
-      "matches": 27,
+      "matches": 28,
       "wins": 8,
       "draws": 8,
-      "losses": 11,
-      "goalsFor": 28,
-      "goalsAgainst": 29,
-      "goalDifference": -1,
+      "losses": 12,
+      "goalsFor": 29,
+      "goalsAgainst": 32,
+      "goalDifference": -3,
       "recentForm": [
         "L",
         "L",
@@ -587,7 +587,7 @@
       "id": 346548,
       "round": 28,
       "dateTime": "2026-09-20T16:00",
-      "status": "scheduled",
+      "status": "finished",
       "venue": "Neo Química Arena",
       "home": {
         "name": "Corinthians",
@@ -599,14 +599,14 @@
         "shortName": "FLU",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 1,
+      "scoreAway": 3
     },
     {
       "id": 346553,
       "round": 28,
       "dateTime": "2026-09-20T16:00",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Barradão",
       "home": {
         "name": "Vitória",
@@ -618,8 +618,8 @@
         "shortName": "CRU",
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 1,
+      "scoreAway": 3
     },
     {
       "id": 346545,
