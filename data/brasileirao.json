@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T23:02:42.957Z",
+  "updatedAt": "2026-10-03T02:04:48.906Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 21,
@@ -148,6 +148,29 @@
     {
       "position": 7,
       "team": {
+        "name": "Santos",
+        "shortName": "SAN",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      },
+      "points": 41,
+      "matches": 28,
+      "wins": 11,
+      "draws": 8,
+      "losses": 9,
+      "goalsFor": 43,
+      "goalsAgainst": 41,
+      "goalDifference": 2,
+      "recentForm": [
+        "D",
+        "W",
+        "W",
+        "W",
+        "W"
+      ]
+    },
+    {
+      "position": 8,
+      "team": {
         "name": "Atlético-MG",
         "shortName": "CAM",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
@@ -166,29 +189,6 @@
         "L",
         "W",
         "D"
-      ]
-    },
-    {
-      "position": 8,
-      "team": {
-        "name": "Santos",
-        "shortName": "SAN",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
-      },
-      "points": 38,
-      "matches": 27,
-      "wins": 10,
-      "draws": 8,
-      "losses": 9,
-      "goalsFor": 41,
-      "goalsAgainst": 40,
-      "goalDifference": 1,
-      "recentForm": [
-        "D",
-        "W",
-        "W",
-        "W",
-        "W"
       ]
     },
     {
@@ -245,13 +245,13 @@
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
       },
       "points": 36,
-      "matches": 27,
+      "matches": 28,
       "wins": 10,
       "draws": 6,
-      "losses": 11,
-      "goalsFor": 32,
-      "goalsAgainst": 30,
-      "goalDifference": 2,
+      "losses": 12,
+      "goalsFor": 33,
+      "goalsAgainst": 32,
+      "goalDifference": 1,
       "recentForm": [
         "L",
         "W",
@@ -606,7 +606,7 @@
       "id": 346283,
       "round": 21,
       "dateTime": "2026-10-02T20:00",
-      "status": "scheduled",
+      "status": "finished",
       "venue": "Morumbis",
       "home": {
         "name": "São Paulo",
@@ -618,8 +618,8 @@
         "shortName": "SAN",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 1,
+      "scoreAway": 2
     },
     {
       "id": 346286,
