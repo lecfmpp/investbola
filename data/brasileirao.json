@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T23:08:49.048Z",
+  "updatedAt": "2026-10-04T02:44:09.738Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 21,
@@ -625,7 +625,7 @@
       "id": 346286,
       "round": 21,
       "dateTime": "2026-10-03T18:30",
-      "status": "live",
+      "status": "finished",
       "venue": "Arena MRV",
       "home": {
         "name": "Atlético-MG",
