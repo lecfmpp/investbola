@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T00:10:28.107Z",
+  "updatedAt": "2026-10-09T06:18:54.692Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 29,
@@ -14,20 +14,20 @@
         "shortName": "FLA",
         "badge": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
       },
-      "points": 63,
+      "points": 61,
       "matches": 29,
-      "wins": 19,
-      "draws": 6,
+      "wins": 18,
+      "draws": 7,
       "losses": 4,
       "goalsFor": 57,
-      "goalsAgainst": 23,
-      "goalDifference": 34,
+      "goalsAgainst": 25,
+      "goalDifference": 32,
       "recentForm": [
         "W",
         "W",
         "W",
         "W",
-        "W"
+        "D"
       ]
     },
     {
@@ -37,24 +37,47 @@
         "shortName": "PAL",
         "badge": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
       },
-      "points": 57,
-      "matches": 28,
-      "wins": 16,
+      "points": 60,
+      "matches": 29,
+      "wins": 17,
       "draws": 9,
       "losses": 3,
-      "goalsFor": 47,
+      "goalsFor": 48,
       "goalsAgainst": 21,
-      "goalDifference": 26,
+      "goalDifference": 27,
       "recentForm": [
-        "W",
         "D",
         "D",
         "W",
-        "D"
+        "D",
+        "W"
       ]
     },
     {
       "position": 3,
+      "team": {
+        "name": "Fluminense",
+        "shortName": "FLU",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+      },
+      "points": 51,
+      "matches": 29,
+      "wins": 14,
+      "draws": 9,
+      "losses": 6,
+      "goalsFor": 48,
+      "goalsAgainst": 36,
+      "goalDifference": 12,
+      "recentForm": [
+        "D",
+        "W",
+        "L",
+        "W",
+        "W"
+      ]
+    },
+    {
+      "position": 4,
       "team": {
         "name": "Athletico-PR",
         "shortName": "CAP",
@@ -65,8 +88,8 @@
       "wins": 14,
       "draws": 8,
       "losses": 7,
-      "goalsFor": 44,
-      "goalsAgainst": 33,
+      "goalsFor": 45,
+      "goalsAgainst": 34,
       "goalDifference": 11,
       "recentForm": [
         "D",
@@ -77,7 +100,7 @@
       ]
     },
     {
-      "position": 4,
+      "position": 5,
       "team": {
         "name": "Cruzeiro",
         "shortName": "CRU",
@@ -100,29 +123,6 @@
       ]
     },
     {
-      "position": 5,
-      "team": {
-        "name": "Fluminense",
-        "shortName": "FLU",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
-      },
-      "points": 48,
-      "matches": 28,
-      "wins": 13,
-      "draws": 9,
-      "losses": 6,
-      "goalsFor": 44,
-      "goalsAgainst": 36,
-      "goalDifference": 8,
-      "recentForm": [
-        "W",
-        "D",
-        "W",
-        "L",
-        "W"
-      ]
-    },
-    {
       "position": 6,
       "team": {
         "name": "Bahia",
@@ -130,18 +130,18 @@
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
       },
       "points": 46,
-      "matches": 28,
+      "matches": 29,
       "wins": 12,
       "draws": 10,
-      "losses": 6,
+      "losses": 7,
       "goalsFor": 43,
-      "goalsAgainst": 35,
-      "goalDifference": 8,
+      "goalsAgainst": 36,
+      "goalDifference": 7,
       "recentForm": [
         "W",
         "W",
         "W",
-        "W",
+        "L",
         "L"
       ]
     },
@@ -157,8 +157,8 @@
       "wins": 12,
       "draws": 8,
       "losses": 9,
-      "goalsFor": 38,
-      "goalsAgainst": 33,
+      "goalsFor": 39,
+      "goalsAgainst": 34,
       "goalDifference": 5,
       "recentForm": [
         "W",
@@ -175,20 +175,20 @@
         "shortName": "SAN",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
       },
-      "points": 41,
+      "points": 42,
       "matches": 29,
       "wins": 11,
-      "draws": 8,
-      "losses": 10,
-      "goalsFor": 43,
+      "draws": 9,
+      "losses": 9,
+      "goalsFor": 45,
       "goalsAgainst": 43,
-      "goalDifference": 0,
+      "goalDifference": 2,
       "recentForm": [
         "W",
         "W",
         "W",
         "W",
-        "L"
+        "D"
       ]
     },
     {
@@ -199,18 +199,18 @@
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
       },
       "points": 38,
-      "matches": 28,
+      "matches": 29,
       "wins": 10,
       "draws": 8,
-      "losses": 10,
+      "losses": 11,
       "goalsFor": 37,
-      "goalsAgainst": 43,
-      "goalDifference": -6,
+      "goalsAgainst": 47,
+      "goalDifference": -10,
       "recentForm": [
-        "W",
         "W",
         "L",
         "D",
+        "L",
         "L"
       ]
     },
@@ -587,7 +587,7 @@
       "id": 346577,
       "round": 29,
       "dateTime": "2026-10-08T19:30",
-      "status": "live",
+      "status": "finished",
       "venue": "Vila Belmiro",
       "home": {
         "name": "Santos",
@@ -599,14 +599,14 @@
         "shortName": "FLA",
         "badge": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
       },
-      "scoreHome": 0,
+      "scoreHome": 2,
       "scoreAway": 2
     },
     {
       "id": 346582,
       "round": 29,
       "dateTime": "2026-10-08T20:00",
-      "status": "live",
+      "status": "finished",
       "venue": "Arena da Baixada",
       "home": {
         "name": "Athletico-PR",
@@ -618,14 +618,14 @@
         "shortName": "CAM",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
       },
-      "scoreHome": 1,
-      "scoreAway": 1
+      "scoreHome": 2,
+      "scoreAway": 2
     },
     {
       "id": 346575,
       "round": 29,
       "dateTime": "2026-10-08T21:30",
-      "status": "scheduled",
+      "status": "finished",
       "venue": "Maracanã",
       "home": {
         "name": "Fluminense",
@@ -637,14 +637,14 @@
         "shortName": "CFC",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 4,
+      "scoreAway": 0
     },
     {
       "id": 346578,
       "round": 29,
       "dateTime": "2026-10-08T21:30",
-      "status": "scheduled",
+      "status": "finished",
       "venue": "Nubank Parque",
       "home": {
         "name": "Palmeiras",
@@ -656,8 +656,8 @@
         "shortName": "BAH",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 1,
+      "scoreAway": 0
     }
   ]
 }
