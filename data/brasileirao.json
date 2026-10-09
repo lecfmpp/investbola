@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T19:41:36.969Z",
+  "updatedAt": "2026-10-09T00:10:28.107Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 29,
@@ -14,16 +14,16 @@
         "shortName": "FLA",
         "badge": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
       },
-      "points": 60,
-      "matches": 28,
-      "wins": 18,
+      "points": 63,
+      "matches": 29,
+      "wins": 19,
       "draws": 6,
       "losses": 4,
-      "goalsFor": 55,
+      "goalsFor": 57,
       "goalsAgainst": 23,
-      "goalDifference": 32,
+      "goalDifference": 34,
       "recentForm": [
-        "L",
+        "W",
         "W",
         "W",
         "W",
@@ -60,20 +60,20 @@
         "shortName": "CAP",
         "badge": "https://s.sde.globo.com/media/organizations/2026/01/07/Athletico-PR.svg"
       },
-      "points": 49,
-      "matches": 28,
+      "points": 50,
+      "matches": 29,
       "wins": 14,
-      "draws": 7,
+      "draws": 8,
       "losses": 7,
-      "goalsFor": 43,
-      "goalsAgainst": 32,
+      "goalsFor": 44,
+      "goalsAgainst": 33,
       "goalDifference": 11,
       "recentForm": [
-        "W",
         "D",
         "L",
         "D",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -152,19 +152,19 @@
         "shortName": "CAM",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
       },
-      "points": 43,
-      "matches": 28,
+      "points": 44,
+      "matches": 29,
       "wins": 12,
-      "draws": 7,
+      "draws": 8,
       "losses": 9,
-      "goalsFor": 37,
-      "goalsAgainst": 32,
+      "goalsFor": 38,
+      "goalsAgainst": 33,
       "goalDifference": 5,
       "recentForm": [
-        "D",
         "W",
         "L",
         "W",
+        "D",
         "D"
       ]
     },
@@ -176,19 +176,19 @@
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
       },
       "points": 41,
-      "matches": 28,
+      "matches": 29,
       "wins": 11,
       "draws": 8,
-      "losses": 9,
+      "losses": 10,
       "goalsFor": 43,
-      "goalsAgainst": 41,
-      "goalDifference": 2,
+      "goalsAgainst": 43,
+      "goalDifference": 0,
       "recentForm": [
-        "D",
         "W",
         "W",
         "W",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -587,7 +587,7 @@
       "id": 346577,
       "round": 29,
       "dateTime": "2026-10-08T19:30",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Vila Belmiro",
       "home": {
         "name": "Santos",
@@ -599,14 +599,14 @@
         "shortName": "FLA",
         "badge": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 0,
+      "scoreAway": 2
     },
     {
       "id": 346582,
       "round": 29,
       "dateTime": "2026-10-08T20:00",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Arena da Baixada",
       "home": {
         "name": "Athletico-PR",
@@ -618,8 +618,8 @@
         "shortName": "CAM",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 1,
+      "scoreAway": 1
     },
     {
       "id": 346575,
