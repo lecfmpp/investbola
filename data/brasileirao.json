@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T22:54:59.085Z",
+  "updatedAt": "2026-10-11T01:35:41.899Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 30,
@@ -244,20 +244,20 @@
         "shortName": "SAO",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
       },
-      "points": 36,
-      "matches": 29,
+      "points": 37,
+      "matches": 30,
       "wins": 10,
-      "draws": 6,
+      "draws": 7,
       "losses": 13,
-      "goalsFor": 33,
-      "goalsAgainst": 34,
+      "goalsFor": 34,
+      "goalsAgainst": 35,
       "goalDifference": -1,
       "recentForm": [
         "W",
-        "W",
         "L",
         "W",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -267,20 +267,20 @@
         "shortName": "VIT",
         "badge": "https://s.sde.globo.com/media/organizations/2025/12/18/Vitoria_2025.svg"
       },
-      "points": 36,
-      "matches": 29,
+      "points": 37,
+      "matches": 30,
       "wins": 10,
-      "draws": 6,
+      "draws": 7,
       "losses": 13,
-      "goalsFor": 32,
-      "goalsAgainst": 42,
+      "goalsFor": 33,
+      "goalsAgainst": 43,
       "goalDifference": -10,
       "recentForm": [
-        "L",
         "W",
         "D",
         "L",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -473,7 +473,7 @@
       "id": 346556,
       "round": 30,
       "dateTime": "2026-10-10T18:00",
-      "status": "live",
+      "status": "finished",
       "venue": "São Januário",
       "home": {
         "name": "Vasco",
@@ -492,7 +492,7 @@
       "id": 346557,
       "round": 30,
       "dateTime": "2026-10-10T21:00",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Morumbis",
       "home": {
         "name": "São Paulo",
@@ -504,8 +504,8 @@
         "shortName": "VIT",
         "badge": "https://s.sde.globo.com/media/organizations/2025/12/18/Vitoria_2025.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 1,
+      "scoreAway": 1
     },
     {
       "id": 346563,
