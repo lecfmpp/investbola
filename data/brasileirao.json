@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T19:22:26.935Z",
+  "updatedAt": "2026-10-11T23:08:05.955Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 30,
@@ -14,20 +14,20 @@
         "shortName": "FLA",
         "badge": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
       },
-      "points": 61,
-      "matches": 29,
-      "wins": 18,
+      "points": 64,
+      "matches": 30,
+      "wins": 19,
       "draws": 7,
       "losses": 4,
-      "goalsFor": 57,
+      "goalsFor": 58,
       "goalsAgainst": 25,
-      "goalDifference": 32,
+      "goalDifference": 33,
       "recentForm": [
         "W",
         "W",
         "W",
-        "W",
-        "D"
+        "D",
+        "W"
       ]
     },
     {
@@ -37,19 +37,19 @@
         "shortName": "PAL",
         "badge": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
       },
-      "points": 60,
-      "matches": 29,
-      "wins": 17,
+      "points": 63,
+      "matches": 30,
+      "wins": 18,
       "draws": 9,
       "losses": 3,
-      "goalsFor": 48,
-      "goalsAgainst": 21,
-      "goalDifference": 27,
+      "goalsFor": 52,
+      "goalsAgainst": 22,
+      "goalDifference": 30,
       "recentForm": [
-        "D",
         "D",
         "W",
         "D",
+        "W",
         "W"
       ]
     },
@@ -61,19 +61,19 @@
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
       },
       "points": 51,
-      "matches": 29,
+      "matches": 30,
       "wins": 14,
       "draws": 9,
-      "losses": 6,
+      "losses": 7,
       "goalsFor": 48,
-      "goalsAgainst": 36,
-      "goalDifference": 12,
+      "goalsAgainst": 37,
+      "goalDifference": 11,
       "recentForm": [
-        "D",
         "W",
         "L",
         "W",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -125,14 +125,37 @@
     {
       "position": 6,
       "team": {
+        "name": "Atlético-MG",
+        "shortName": "CAM",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      },
+      "points": 47,
+      "matches": 30,
+      "wins": 13,
+      "draws": 8,
+      "losses": 9,
+      "goalsFor": 41,
+      "goalsAgainst": 35,
+      "goalDifference": 6,
+      "recentForm": [
+        "L",
+        "W",
+        "D",
+        "D",
+        "W"
+      ]
+    },
+    {
+      "position": 7,
+      "team": {
         "name": "Bahia",
         "shortName": "BAH",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
       },
-      "points": 46,
-      "matches": 29,
+      "points": 47,
+      "matches": 30,
       "wins": 12,
-      "draws": 10,
+      "draws": 11,
       "losses": 7,
       "goalsFor": 43,
       "goalsAgainst": 36,
@@ -140,31 +163,8 @@
       "recentForm": [
         "W",
         "W",
-        "W",
         "L",
-        "L"
-      ]
-    },
-    {
-      "position": 7,
-      "team": {
-        "name": "Atlético-MG",
-        "shortName": "CAM",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
-      },
-      "points": 45,
-      "matches": 30,
-      "wins": 12,
-      "draws": 9,
-      "losses": 9,
-      "goalsFor": 39,
-      "goalsAgainst": 34,
-      "goalDifference": 5,
-      "recentForm": [
         "L",
-        "W",
-        "D",
-        "D",
         "D"
       ]
     },
@@ -175,20 +175,20 @@
         "shortName": "SAN",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
       },
-      "points": 43,
+      "points": 42,
       "matches": 30,
       "wins": 11,
-      "draws": 10,
-      "losses": 9,
-      "goalsFor": 45,
-      "goalsAgainst": 43,
-      "goalDifference": 2,
+      "draws": 9,
+      "losses": 10,
+      "goalsFor": 46,
+      "goalsAgainst": 45,
+      "goalDifference": 1,
       "recentForm": [
         "W",
         "W",
         "W",
         "D",
-        "D"
+        "L"
       ]
     },
     {
@@ -336,19 +336,19 @@
         "shortName": "MIR",
         "badge": "https://s.sde.globo.com/media/organizations/2026/07/17/MIrassol.svg"
       },
-      "points": 33,
-      "matches": 29,
+      "points": 34,
+      "matches": 30,
       "wins": 8,
-      "draws": 9,
+      "draws": 10,
       "losses": 12,
       "goalsFor": 34,
       "goalsAgainst": 43,
       "goalDifference": -9,
       "recentForm": [
-        "D",
         "W",
         "D",
         "W",
+        "D",
         "D"
       ]
     },
@@ -360,13 +360,13 @@
         "badge": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
       },
       "points": 32,
-      "matches": 29,
+      "matches": 30,
       "wins": 8,
       "draws": 8,
-      "losses": 13,
-      "goalsFor": 30,
-      "goalsAgainst": 34,
-      "goalDifference": -4,
+      "losses": 14,
+      "goalsFor": 31,
+      "goalsAgainst": 38,
+      "goalDifference": -7,
       "recentForm": [
         "L",
         "L",
@@ -382,20 +382,20 @@
         "shortName": "INT",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
       },
-      "points": 31,
-      "matches": 29,
+      "points": 32,
+      "matches": 30,
       "wins": 7,
-      "draws": 10,
+      "draws": 11,
       "losses": 12,
-      "goalsFor": 32,
-      "goalsAgainst": 37,
+      "goalsFor": 33,
+      "goalsAgainst": 38,
       "goalDifference": -5,
       "recentForm": [
         "L",
-        "L",
         "W",
         "L",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -405,18 +405,18 @@
         "shortName": "GRE",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
       },
-      "points": 30,
-      "matches": 29,
+      "points": 31,
+      "matches": 30,
       "wins": 7,
-      "draws": 9,
+      "draws": 10,
       "losses": 13,
-      "goalsFor": 31,
-      "goalsAgainst": 39,
+      "goalsFor": 32,
+      "goalsAgainst": 40,
       "goalDifference": -8,
       "recentForm": [
-        "W",
         "L",
         "L",
+        "D",
         "D",
         "D"
       ]
@@ -511,7 +511,7 @@
       "id": 346563,
       "round": 30,
       "dateTime": "2026-10-11T16:00",
-      "status": "live",
+      "status": "finished",
       "venue": "Arena MRV",
       "home": {
         "name": "Atlético-MG",
@@ -523,14 +523,14 @@
         "shortName": "SAN",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
       },
-      "scoreHome": 0,
-      "scoreAway": 0
+      "scoreHome": 2,
+      "scoreAway": 1
     },
     {
       "id": 346555,
       "round": 30,
       "dateTime": "2026-10-11T17:30",
-      "status": "scheduled",
+      "status": "finished",
       "venue": "Maracanã",
       "home": {
         "name": "Flamengo",
@@ -542,14 +542,14 @@
         "shortName": "FLU",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 1,
+      "scoreAway": 0
     },
     {
       "id": 346559,
       "round": 30,
       "dateTime": "2026-10-11T17:30",
-      "status": "scheduled",
+      "status": "finished",
       "venue": "Nubank Parque",
       "home": {
         "name": "Palmeiras",
@@ -561,14 +561,14 @@
         "shortName": "COR",
         "badge": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 4,
+      "scoreAway": 1
     },
     {
       "id": 346565,
       "round": 30,
       "dateTime": "2026-10-11T17:30",
-      "status": "scheduled",
+      "status": "finished",
       "venue": "Arena do Grêmio",
       "home": {
         "name": "Grêmio",
@@ -580,14 +580,14 @@
         "shortName": "INT",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 1,
+      "scoreAway": 1
     },
     {
       "id": 346568,
       "round": 30,
       "dateTime": "2026-10-11T19:30",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Arena Fonte Nova",
       "home": {
         "name": "Bahia",
@@ -599,8 +599,8 @@
         "shortName": "MIR",
         "badge": "https://s.sde.globo.com/media/organizations/2026/07/17/MIrassol.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 0,
+      "scoreAway": 0
     },
     {
       "id": 346567,
