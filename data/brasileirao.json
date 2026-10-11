@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T01:35:41.899Z",
+  "updatedAt": "2026-10-11T07:47:51.233Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 30,
@@ -194,6 +194,29 @@
     {
       "position": 9,
       "team": {
+        "name": "São Paulo",
+        "shortName": "SAO",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
+      },
+      "points": 39,
+      "matches": 30,
+      "wins": 11,
+      "draws": 6,
+      "losses": 13,
+      "goalsFor": 35,
+      "goalsAgainst": 35,
+      "goalDifference": 0,
+      "recentForm": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "W"
+      ]
+    },
+    {
+      "position": 10,
+      "team": {
         "name": "Coritiba",
         "shortName": "CFC",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
@@ -215,7 +238,7 @@
       ]
     },
     {
-      "position": 10,
+      "position": 11,
       "team": {
         "name": "Bragantino",
         "shortName": "RBB",
@@ -238,49 +261,26 @@
       ]
     },
     {
-      "position": 11,
-      "team": {
-        "name": "São Paulo",
-        "shortName": "SAO",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
-      },
-      "points": 37,
-      "matches": 30,
-      "wins": 10,
-      "draws": 7,
-      "losses": 13,
-      "goalsFor": 34,
-      "goalsAgainst": 35,
-      "goalDifference": -1,
-      "recentForm": [
-        "W",
-        "L",
-        "W",
-        "L",
-        "D"
-      ]
-    },
-    {
       "position": 12,
       "team": {
         "name": "Vitória",
         "shortName": "VIT",
         "badge": "https://s.sde.globo.com/media/organizations/2025/12/18/Vitoria_2025.svg"
       },
-      "points": 37,
+      "points": 36,
       "matches": 30,
       "wins": 10,
-      "draws": 7,
-      "losses": 13,
+      "draws": 6,
+      "losses": 14,
       "goalsFor": 33,
-      "goalsAgainst": 43,
-      "goalDifference": -10,
+      "goalsAgainst": 44,
+      "goalDifference": -11,
       "recentForm": [
         "W",
         "D",
         "L",
         "W",
-        "D"
+        "L"
       ]
     },
     {
@@ -492,7 +492,7 @@
       "id": 346557,
       "round": 30,
       "dateTime": "2026-10-10T21:00",
-      "status": "live",
+      "status": "finished",
       "venue": "Morumbis",
       "home": {
         "name": "São Paulo",
@@ -504,7 +504,7 @@
         "shortName": "VIT",
         "badge": "https://s.sde.globo.com/media/organizations/2025/12/18/Vitoria_2025.svg"
       },
-      "scoreHome": 1,
+      "scoreHome": 2,
       "scoreAway": 1
     },
     {
