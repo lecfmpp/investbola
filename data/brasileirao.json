@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T09:43:51.285Z",
+  "updatedAt": "2026-10-12T19:39:21.818Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 30,
@@ -194,6 +194,29 @@
     {
       "position": 9,
       "team": {
+        "name": "Coritiba",
+        "shortName": "CFC",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "points": 41,
+      "matches": 30,
+      "wins": 11,
+      "draws": 8,
+      "losses": 11,
+      "goalsFor": 38,
+      "goalsAgainst": 47,
+      "goalDifference": -9,
+      "recentForm": [
+        "L",
+        "D",
+        "L",
+        "L",
+        "W"
+      ]
+    },
+    {
+      "position": 10,
+      "team": {
         "name": "São Paulo",
         "shortName": "SAO",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
@@ -212,29 +235,6 @@
         "W",
         "L",
         "W"
-      ]
-    },
-    {
-      "position": 10,
-      "team": {
-        "name": "Coritiba",
-        "shortName": "CFC",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
-      },
-      "points": 38,
-      "matches": 29,
-      "wins": 10,
-      "draws": 8,
-      "losses": 11,
-      "goalsFor": 37,
-      "goalsAgainst": 47,
-      "goalDifference": -10,
-      "recentForm": [
-        "W",
-        "L",
-        "D",
-        "L",
-        "L"
       ]
     },
     {
@@ -291,17 +291,17 @@
         "badge": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
       },
       "points": 35,
-      "matches": 29,
+      "matches": 30,
       "wins": 9,
       "draws": 8,
-      "losses": 12,
+      "losses": 13,
       "goalsFor": 42,
-      "goalsAgainst": 47,
-      "goalDifference": -5,
+      "goalsAgainst": 48,
+      "goalDifference": -6,
       "recentForm": [
+        "D",
+        "D",
         "L",
-        "D",
-        "D",
         "L",
         "L"
       ]
@@ -606,7 +606,7 @@
       "id": 346567,
       "round": 30,
       "dateTime": "2026-10-12T16:00",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Couto Pereira",
       "home": {
         "name": "Coritiba",
@@ -618,8 +618,8 @@
         "shortName": "BOT",
         "badge": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 1,
+      "scoreAway": 0
     },
     {
       "id": 346569,
