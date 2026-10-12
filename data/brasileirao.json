@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T23:08:05.955Z",
+  "updatedAt": "2026-10-12T02:28:50.189Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 30,
@@ -102,6 +102,29 @@
     {
       "position": 5,
       "team": {
+        "name": "Bahia",
+        "shortName": "BAH",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      },
+      "points": 49,
+      "matches": 30,
+      "wins": 13,
+      "draws": 10,
+      "losses": 7,
+      "goalsFor": 44,
+      "goalsAgainst": 36,
+      "goalDifference": 8,
+      "recentForm": [
+        "W",
+        "W",
+        "L",
+        "L",
+        "W"
+      ]
+    },
+    {
+      "position": 6,
+      "team": {
         "name": "Cruzeiro",
         "shortName": "CRU",
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
@@ -123,7 +146,7 @@
       ]
     },
     {
-      "position": 6,
+      "position": 7,
       "team": {
         "name": "Atlético-MG",
         "shortName": "CAM",
@@ -143,29 +166,6 @@
         "D",
         "D",
         "W"
-      ]
-    },
-    {
-      "position": 7,
-      "team": {
-        "name": "Bahia",
-        "shortName": "BAH",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
-      },
-      "points": 47,
-      "matches": 30,
-      "wins": 12,
-      "draws": 11,
-      "losses": 7,
-      "goalsFor": 43,
-      "goalsAgainst": 36,
-      "goalDifference": 7,
-      "recentForm": [
-        "W",
-        "W",
-        "L",
-        "L",
-        "D"
       ]
     },
     {
@@ -336,20 +336,20 @@
         "shortName": "MIR",
         "badge": "https://s.sde.globo.com/media/organizations/2026/07/17/MIrassol.svg"
       },
-      "points": 34,
+      "points": 33,
       "matches": 30,
       "wins": 8,
-      "draws": 10,
-      "losses": 12,
+      "draws": 9,
+      "losses": 13,
       "goalsFor": 34,
-      "goalsAgainst": 43,
-      "goalDifference": -9,
+      "goalsAgainst": 44,
+      "goalDifference": -10,
       "recentForm": [
         "W",
         "D",
         "W",
         "D",
-        "D"
+        "L"
       ]
     },
     {
@@ -587,7 +587,7 @@
       "id": 346568,
       "round": 30,
       "dateTime": "2026-10-11T19:30",
-      "status": "live",
+      "status": "finished",
       "venue": "Arena Fonte Nova",
       "home": {
         "name": "Bahia",
@@ -599,7 +599,7 @@
         "shortName": "MIR",
         "badge": "https://s.sde.globo.com/media/organizations/2026/07/17/MIrassol.svg"
       },
-      "scoreHome": 0,
+      "scoreHome": 1,
       "scoreAway": 0
     },
     {
