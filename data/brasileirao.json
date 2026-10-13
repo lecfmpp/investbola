@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T19:39:21.818Z",
+  "updatedAt": "2026-10-13T01:37:24.018Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 30,
@@ -56,6 +56,29 @@
     {
       "position": 3,
       "team": {
+        "name": "Athletico-PR",
+        "shortName": "CAP",
+        "badge": "https://s.sde.globo.com/media/organizations/2026/01/07/Athletico-PR.svg"
+      },
+      "points": 53,
+      "matches": 30,
+      "wins": 15,
+      "draws": 8,
+      "losses": 7,
+      "goalsFor": 49,
+      "goalsAgainst": 35,
+      "goalDifference": 14,
+      "recentForm": [
+        "L",
+        "D",
+        "W",
+        "D",
+        "W"
+      ]
+    },
+    {
+      "position": 4,
+      "team": {
         "name": "Fluminense",
         "shortName": "FLU",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
@@ -74,29 +97,6 @@
         "W",
         "W",
         "L"
-      ]
-    },
-    {
-      "position": 4,
-      "team": {
-        "name": "Athletico-PR",
-        "shortName": "CAP",
-        "badge": "https://s.sde.globo.com/media/organizations/2026/01/07/Athletico-PR.svg"
-      },
-      "points": 50,
-      "matches": 29,
-      "wins": 14,
-      "draws": 8,
-      "losses": 7,
-      "goalsFor": 45,
-      "goalsAgainst": 34,
-      "goalDifference": 11,
-      "recentForm": [
-        "D",
-        "L",
-        "D",
-        "W",
-        "D"
       ]
     },
     {
@@ -130,19 +130,19 @@
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
       },
       "points": 48,
-      "matches": 29,
+      "matches": 30,
       "wins": 14,
       "draws": 6,
-      "losses": 9,
-      "goalsFor": 44,
-      "goalsAgainst": 40,
-      "goalDifference": 4,
+      "losses": 10,
+      "goalsFor": 45,
+      "goalsAgainst": 43,
+      "goalDifference": 2,
       "recentForm": [
-        "L",
         "W",
         "L",
         "W",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -194,23 +194,23 @@
     {
       "position": 9,
       "team": {
-        "name": "Coritiba",
-        "shortName": "CFC",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+        "name": "Bragantino",
+        "shortName": "RBB",
+        "badge": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
       },
-      "points": 41,
+      "points": 40,
       "matches": 30,
       "wins": 11,
-      "draws": 8,
-      "losses": 11,
-      "goalsFor": 38,
-      "goalsAgainst": 47,
-      "goalDifference": -9,
+      "draws": 7,
+      "losses": 12,
+      "goalsFor": 37,
+      "goalsAgainst": 34,
+      "goalDifference": 3,
       "recentForm": [
         "L",
         "D",
         "L",
-        "L",
+        "D",
         "W"
       ]
     },
@@ -240,22 +240,22 @@
     {
       "position": 11,
       "team": {
-        "name": "Bragantino",
-        "shortName": "RBB",
-        "badge": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+        "name": "Coritiba",
+        "shortName": "CFC",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
       },
-      "points": 37,
-      "matches": 29,
+      "points": 39,
+      "matches": 30,
       "wins": 10,
-      "draws": 7,
-      "losses": 12,
-      "goalsFor": 34,
-      "goalsAgainst": 33,
-      "goalDifference": 1,
+      "draws": 9,
+      "losses": 11,
+      "goalsFor": 38,
+      "goalsAgainst": 48,
+      "goalDifference": -10,
       "recentForm": [
         "L",
-        "L",
         "D",
+        "L",
         "L",
         "D"
       ]
@@ -290,20 +290,20 @@
         "shortName": "BOT",
         "badge": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
       },
-      "points": 35,
+      "points": 36,
       "matches": 30,
       "wins": 9,
-      "draws": 8,
-      "losses": 13,
-      "goalsFor": 42,
+      "draws": 9,
+      "losses": 12,
+      "goalsFor": 43,
       "goalsAgainst": 48,
-      "goalDifference": -6,
+      "goalDifference": -5,
       "recentForm": [
         "D",
         "D",
         "L",
         "L",
-        "L"
+        "D"
       ]
     },
     {
@@ -452,18 +452,18 @@
         "badge": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
       },
       "points": 18,
-      "matches": 28,
+      "matches": 29,
       "wins": 3,
       "draws": 9,
-      "losses": 16,
-      "goalsFor": 29,
-      "goalsAgainst": 57,
-      "goalDifference": -28,
+      "losses": 17,
+      "goalsFor": 30,
+      "goalsAgainst": 61,
+      "goalDifference": -31,
       "recentForm": [
-        "L",
         "W",
         "L",
         "D",
+        "L",
         "L"
       ]
     }
@@ -606,7 +606,7 @@
       "id": 346567,
       "round": 30,
       "dateTime": "2026-10-12T16:00",
-      "status": "live",
+      "status": "finished",
       "venue": "Couto Pereira",
       "home": {
         "name": "Coritiba",
@@ -619,13 +619,13 @@
         "badge": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
       },
       "scoreHome": 1,
-      "scoreAway": 0
+      "scoreAway": 1
     },
     {
       "id": 346569,
       "round": 30,
       "dateTime": "2026-10-12T19:30",
-      "status": "scheduled",
+      "status": "finished",
       "venue": "Arena Condá",
       "home": {
         "name": "Chapecoense",
@@ -637,14 +637,14 @@
         "shortName": "CAP",
         "badge": "https://s.sde.globo.com/media/organizations/2026/01/07/Athletico-PR.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 1,
+      "scoreAway": 4
     },
     {
       "id": 346561,
       "round": 30,
       "dateTime": "2026-10-12T21:00",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Cícero de Souza Marques",
       "home": {
         "name": "Bragantino",
@@ -656,8 +656,8 @@
         "shortName": "CRU",
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 3,
+      "scoreAway": 1
     }
   ]
 }
