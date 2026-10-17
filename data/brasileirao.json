@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T00:34:12.030Z",
+  "updatedAt": "2026-10-17T04:57:48.192Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 31,
@@ -318,9 +318,9 @@
       "wins": 9,
       "draws": 9,
       "losses": 13,
-      "goalsFor": 35,
+      "goalsFor": 36,
       "goalsAgainst": 44,
-      "goalDifference": -9,
+      "goalDifference": -8,
       "recentForm": [
         "D",
         "W",
@@ -388,8 +388,8 @@
       "draws": 11,
       "losses": 13,
       "goalsFor": 33,
-      "goalsAgainst": 39,
-      "goalDifference": -6,
+      "goalsAgainst": 40,
+      "goalDifference": -7,
       "recentForm": [
         "W",
         "L",
@@ -473,7 +473,7 @@
       "id": 346529,
       "round": 31,
       "dateTime": "2026-10-16T20:00",
-      "status": "live",
+      "status": "finished",
       "venue": "Maião",
       "home": {
         "name": "Mirassol",
@@ -485,7 +485,7 @@
         "shortName": "INT",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
       },
-      "scoreHome": 1,
+      "scoreHome": 2,
       "scoreAway": 0
     },
     {
