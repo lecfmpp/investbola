@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T18:48:12.529Z",
+  "updatedAt": "2026-10-17T21:17:25.506Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 31,
@@ -240,6 +240,29 @@
     {
       "position": 11,
       "team": {
+        "name": "Botafogo",
+        "shortName": "BOT",
+        "badge": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      },
+      "points": 39,
+      "matches": 31,
+      "wins": 10,
+      "draws": 9,
+      "losses": 12,
+      "goalsFor": 44,
+      "goalsAgainst": 48,
+      "goalDifference": -4,
+      "recentForm": [
+        "D",
+        "L",
+        "L",
+        "D",
+        "W"
+      ]
+    },
+    {
+      "position": 12,
+      "team": {
         "name": "Coritiba",
         "shortName": "CFC",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
@@ -261,7 +284,7 @@
       ]
     },
     {
-      "position": 12,
+      "position": 13,
       "team": {
         "name": "Vitória",
         "shortName": "VIT",
@@ -281,29 +304,6 @@
         "L",
         "W",
         "L"
-      ]
-    },
-    {
-      "position": 13,
-      "team": {
-        "name": "Botafogo",
-        "shortName": "BOT",
-        "badge": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
-      },
-      "points": 36,
-      "matches": 30,
-      "wins": 9,
-      "draws": 9,
-      "losses": 12,
-      "goalsFor": 43,
-      "goalsAgainst": 48,
-      "goalDifference": -5,
-      "recentForm": [
-        "D",
-        "D",
-        "L",
-        "L",
-        "D"
       ]
     },
     {
@@ -452,17 +452,17 @@
         "badge": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
       },
       "points": 18,
-      "matches": 29,
+      "matches": 30,
       "wins": 3,
       "draws": 9,
-      "losses": 17,
+      "losses": 18,
       "goalsFor": 30,
-      "goalsAgainst": 61,
-      "goalDifference": -31,
+      "goalsAgainst": 62,
+      "goalDifference": -32,
       "recentForm": [
-        "W",
         "L",
         "D",
+        "L",
         "L",
         "L"
       ]
@@ -492,7 +492,7 @@
       "id": 346526,
       "round": 31,
       "dateTime": "2026-10-17T18:00",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Nilton Santos (Engenhão)",
       "home": {
         "name": "Botafogo",
@@ -504,8 +504,8 @@
         "shortName": "CHA",
         "badge": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 1,
+      "scoreAway": 0
     },
     {
       "id": 346530,
