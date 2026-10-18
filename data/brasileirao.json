@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T20:12:52.585Z",
+  "updatedAt": "2026-10-18T22:28:14.168Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 31,
@@ -37,10 +37,10 @@
         "shortName": "FLA",
         "badge": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
       },
-      "points": 64,
-      "matches": 30,
+      "points": 65,
+      "matches": 31,
       "wins": 19,
-      "draws": 7,
+      "draws": 8,
       "losses": 4,
       "goalsFor": 58,
       "goalsAgainst": 25,
@@ -48,36 +48,13 @@
       "recentForm": [
         "W",
         "W",
-        "W",
         "D",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
       "position": 3,
-      "team": {
-        "name": "Fluminense",
-        "shortName": "FLU",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
-      },
-      "points": 54,
-      "matches": 31,
-      "wins": 15,
-      "draws": 9,
-      "losses": 7,
-      "goalsFor": 49,
-      "goalsAgainst": 37,
-      "goalDifference": 12,
-      "recentForm": [
-        "L",
-        "W",
-        "W",
-        "L",
-        "W"
-      ]
-    },
-    {
-      "position": 4,
       "team": {
         "name": "Athletico-PR",
         "shortName": "CAP",
@@ -100,7 +77,53 @@
       ]
     },
     {
+      "position": 4,
+      "team": {
+        "name": "Cruzeiro",
+        "shortName": "CRU",
+        "badge": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
+      },
+      "points": 51,
+      "matches": 31,
+      "wins": 15,
+      "draws": 6,
+      "losses": 10,
+      "goalsFor": 50,
+      "goalsAgainst": 46,
+      "goalDifference": 4,
+      "recentForm": [
+        "L",
+        "W",
+        "W",
+        "L",
+        "W"
+      ]
+    },
+    {
       "position": 5,
+      "team": {
+        "name": "Fluminense",
+        "shortName": "FLU",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+      },
+      "points": 51,
+      "matches": 31,
+      "wins": 14,
+      "draws": 9,
+      "losses": 8,
+      "goalsFor": 49,
+      "goalsAgainst": 39,
+      "goalDifference": 10,
+      "recentForm": [
+        "L",
+        "W",
+        "W",
+        "L",
+        "L"
+      ]
+    },
+    {
+      "position": 6,
       "team": {
         "name": "Atlético-MG",
         "shortName": "CAM",
@@ -123,53 +146,53 @@
       ]
     },
     {
-      "position": 6,
+      "position": 7,
       "team": {
         "name": "Bahia",
         "shortName": "BAH",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
       },
-      "points": 49,
-      "matches": 30,
+      "points": 50,
+      "matches": 31,
       "wins": 13,
-      "draws": 10,
+      "draws": 11,
       "losses": 7,
       "goalsFor": 44,
       "goalsAgainst": 36,
       "goalDifference": 8,
       "recentForm": [
         "W",
-        "W",
         "L",
+        "L",
+        "W",
+        "D"
+      ]
+    },
+    {
+      "position": 8,
+      "team": {
+        "name": "Santos",
+        "shortName": "SAN",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      },
+      "points": 45,
+      "matches": 31,
+      "wins": 12,
+      "draws": 9,
+      "losses": 10,
+      "goalsFor": 48,
+      "goalsAgainst": 46,
+      "goalDifference": 2,
+      "recentForm": [
+        "W",
+        "W",
+        "D",
         "L",
         "W"
       ]
     },
     {
-      "position": 7,
-      "team": {
-        "name": "Cruzeiro",
-        "shortName": "CRU",
-        "badge": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
-      },
-      "points": 48,
-      "matches": 31,
-      "wins": 14,
-      "draws": 6,
-      "losses": 11,
-      "goalsFor": 47,
-      "goalsAgainst": 46,
-      "goalDifference": 1,
-      "recentForm": [
-        "L",
-        "W",
-        "W",
-        "L",
-        "L"
-      ]
-    },
-    {
-      "position": 8,
+      "position": 9,
       "team": {
         "name": "São Paulo",
         "shortName": "SAO",
@@ -189,29 +212,6 @@
         "L",
         "W",
         "W"
-      ]
-    },
-    {
-      "position": 9,
-      "team": {
-        "name": "Santos",
-        "shortName": "SAN",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
-      },
-      "points": 42,
-      "matches": 31,
-      "wins": 11,
-      "draws": 9,
-      "losses": 11,
-      "goalsFor": 46,
-      "goalsAgainst": 46,
-      "goalDifference": 0,
-      "recentForm": [
-        "W",
-        "W",
-        "D",
-        "L",
-        "L"
       ]
     },
     {
@@ -355,29 +355,6 @@
     {
       "position": 16,
       "team": {
-        "name": "Grêmio",
-        "shortName": "GRE",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
-      },
-      "points": 34,
-      "matches": 31,
-      "wins": 8,
-      "draws": 10,
-      "losses": 13,
-      "goalsFor": 34,
-      "goalsAgainst": 41,
-      "goalDifference": -7,
-      "recentForm": [
-        "L",
-        "D",
-        "D",
-        "D",
-        "W"
-      ]
-    },
-    {
-      "position": 17,
-      "team": {
         "name": "Corinthians",
         "shortName": "COR",
         "badge": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
@@ -399,7 +376,7 @@
       ]
     },
     {
-      "position": 18,
+      "position": 17,
       "team": {
         "name": "Internacional",
         "shortName": "INT",
@@ -417,6 +394,29 @@
         "W",
         "L",
         "W",
+        "D",
+        "L"
+      ]
+    },
+    {
+      "position": 18,
+      "team": {
+        "name": "Grêmio",
+        "shortName": "GRE",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
+      },
+      "points": 31,
+      "matches": 31,
+      "wins": 7,
+      "draws": 10,
+      "losses": 14,
+      "goalsFor": 34,
+      "goalsAgainst": 44,
+      "goalDifference": -10,
+      "recentForm": [
+        "L",
+        "D",
+        "D",
         "D",
         "L"
       ]
@@ -568,7 +568,7 @@
       "id": 346525,
       "round": 31,
       "dateTime": "2026-10-18T16:00",
-      "status": "live",
+      "status": "finished",
       "venue": "Maracanã",
       "home": {
         "name": "Fluminense",
@@ -581,13 +581,13 @@
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
       },
       "scoreHome": 1,
-      "scoreAway": 0
+      "scoreAway": 2
     },
     {
       "id": 346531,
       "round": 31,
       "dateTime": "2026-10-18T16:00",
-      "status": "live",
+      "status": "finished",
       "venue": "Arena do Grêmio",
       "home": {
         "name": "Grêmio",
@@ -600,13 +600,13 @@
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
       },
       "scoreHome": 2,
-      "scoreAway": 1
+      "scoreAway": 4
     },
     {
       "id": 346533,
       "round": 31,
       "dateTime": "2026-10-18T18:30",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Arena Fonte Nova",
       "home": {
         "name": "Bahia",
@@ -618,8 +618,8 @@
         "shortName": "FLA",
         "badge": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 0,
+      "scoreAway": 0
     },
     {
       "id": 346534,
