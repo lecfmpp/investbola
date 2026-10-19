@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T00:27:52.132Z",
+  "updatedAt": "2026-10-19T05:17:22.292Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 31,
@@ -625,7 +625,7 @@
       "id": 346534,
       "round": 31,
       "dateTime": "2026-10-18T19:30",
-      "status": "live",
+      "status": "finished",
       "venue": "Mangueirão",
       "home": {
         "name": "Remo",
