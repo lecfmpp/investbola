@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T22:28:14.168Z",
+  "updatedAt": "2026-10-19T00:27:52.132Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 31,
@@ -9,6 +9,29 @@
   "standings": [
     {
       "position": 1,
+      "team": {
+        "name": "Flamengo",
+        "shortName": "FLA",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
+      },
+      "points": 67,
+      "matches": 31,
+      "wins": 20,
+      "draws": 7,
+      "losses": 4,
+      "goalsFor": 61,
+      "goalsAgainst": 25,
+      "goalDifference": 36,
+      "recentForm": [
+        "W",
+        "W",
+        "D",
+        "W",
+        "W"
+      ]
+    },
+    {
+      "position": 2,
       "team": {
         "name": "Palmeiras",
         "shortName": "PAL",
@@ -28,29 +51,6 @@
         "W",
         "W",
         "W"
-      ]
-    },
-    {
-      "position": 2,
-      "team": {
-        "name": "Flamengo",
-        "shortName": "FLA",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
-      },
-      "points": 65,
-      "matches": 31,
-      "wins": 19,
-      "draws": 8,
-      "losses": 4,
-      "goalsFor": 58,
-      "goalsAgainst": 25,
-      "goalDifference": 33,
-      "recentForm": [
-        "W",
-        "W",
-        "D",
-        "W",
-        "D"
       ]
     },
     {
@@ -152,20 +152,20 @@
         "shortName": "BAH",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
       },
-      "points": 50,
+      "points": 49,
       "matches": 31,
       "wins": 13,
-      "draws": 11,
-      "losses": 7,
+      "draws": 10,
+      "losses": 8,
       "goalsFor": 44,
-      "goalsAgainst": 36,
-      "goalDifference": 8,
+      "goalsAgainst": 39,
+      "goalDifference": 5,
       "recentForm": [
         "W",
         "L",
         "L",
         "W",
-        "D"
+        "L"
       ]
     },
     {
@@ -221,20 +221,20 @@
         "shortName": "RBB",
         "badge": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
       },
-      "points": 40,
-      "matches": 30,
+      "points": 41,
+      "matches": 31,
       "wins": 11,
-      "draws": 7,
+      "draws": 8,
       "losses": 12,
-      "goalsFor": 38,
-      "goalsAgainst": 35,
+      "goalsFor": 39,
+      "goalsAgainst": 36,
       "goalDifference": 3,
       "recentForm": [
-        "L",
         "D",
         "L",
         "D",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -428,18 +428,18 @@
         "shortName": "REM",
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
       },
-      "points": 25,
-      "matches": 30,
+      "points": 26,
+      "matches": 31,
       "wins": 5,
-      "draws": 10,
+      "draws": 11,
       "losses": 15,
-      "goalsFor": 33,
-      "goalsAgainst": 48,
+      "goalsFor": 34,
+      "goalsAgainst": 49,
       "goalDifference": -15,
       "recentForm": [
         "L",
         "L",
-        "L",
+        "D",
         "D",
         "D"
       ]
@@ -606,7 +606,7 @@
       "id": 346533,
       "round": 31,
       "dateTime": "2026-10-18T18:30",
-      "status": "live",
+      "status": "finished",
       "venue": "Arena Fonte Nova",
       "home": {
         "name": "Bahia",
@@ -619,13 +619,13 @@
         "badge": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
       },
       "scoreHome": 0,
-      "scoreAway": 0
+      "scoreAway": 3
     },
     {
       "id": 346534,
       "round": 31,
       "dateTime": "2026-10-18T19:30",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Mangueirão",
       "home": {
         "name": "Remo",
@@ -637,8 +637,8 @@
         "shortName": "RBB",
         "badge": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 1,
+      "scoreAway": 1
     },
     {
       "id": 346528,
