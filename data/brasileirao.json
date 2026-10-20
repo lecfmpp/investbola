@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T21:44:11.494Z",
+  "updatedAt": "2026-10-20T00:55:35.739Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 31,
@@ -290,20 +290,20 @@
         "shortName": "VIT",
         "badge": "https://s.sde.globo.com/media/organizations/2025/12/18/Vitoria_2025.svg"
       },
-      "points": 36,
-      "matches": 30,
+      "points": 37,
+      "matches": 31,
       "wins": 10,
-      "draws": 6,
+      "draws": 7,
       "losses": 14,
-      "goalsFor": 33,
-      "goalsAgainst": 44,
+      "goalsFor": 34,
+      "goalsAgainst": 45,
       "goalDifference": -11,
       "recentForm": [
-        "W",
         "D",
         "L",
         "W",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -359,20 +359,20 @@
         "shortName": "COR",
         "badge": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
       },
-      "points": 32,
-      "matches": 30,
+      "points": 33,
+      "matches": 31,
       "wins": 8,
-      "draws": 8,
+      "draws": 9,
       "losses": 14,
-      "goalsFor": 31,
-      "goalsAgainst": 38,
+      "goalsFor": 32,
+      "goalsAgainst": 39,
       "goalDifference": -7,
       "recentForm": [
         "L",
         "L",
         "L",
         "L",
-        "L"
+        "D"
       ]
     },
     {
@@ -644,7 +644,7 @@
       "id": 346528,
       "round": 31,
       "dateTime": "2026-10-19T20:00",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Neo Química Arena",
       "home": {
         "name": "Corinthians",
@@ -656,8 +656,8 @@
         "shortName": "VIT",
         "badge": "https://s.sde.globo.com/media/organizations/2025/12/18/Vitoria_2025.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 1,
+      "scoreAway": 1
     }
   ]
 }
