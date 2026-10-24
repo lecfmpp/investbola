@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T22:56:04.809Z",
+  "updatedAt": "2026-10-24T01:25:03.691Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 32,
@@ -56,6 +56,29 @@
     {
       "position": 3,
       "team": {
+        "name": "Cruzeiro",
+        "shortName": "CRU",
+        "badge": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
+      },
+      "points": 54,
+      "matches": 32,
+      "wins": 16,
+      "draws": 6,
+      "losses": 10,
+      "goalsFor": 51,
+      "goalsAgainst": 46,
+      "goalDifference": 5,
+      "recentForm": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "W"
+      ]
+    },
+    {
+      "position": 4,
+      "team": {
         "name": "Athletico-PR",
         "shortName": "CAP",
         "badge": "https://s.sde.globo.com/media/organizations/2026/01/07/Athletico-PR.svg"
@@ -74,29 +97,6 @@
         "D",
         "W",
         "L"
-      ]
-    },
-    {
-      "position": 4,
-      "team": {
-        "name": "Cruzeiro",
-        "shortName": "CRU",
-        "badge": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
-      },
-      "points": 51,
-      "matches": 31,
-      "wins": 15,
-      "draws": 6,
-      "losses": 10,
-      "goalsFor": 50,
-      "goalsAgainst": 46,
-      "goalDifference": 4,
-      "recentForm": [
-        "L",
-        "W",
-        "W",
-        "L",
-        "W"
       ]
     },
     {
@@ -429,19 +429,19 @@
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
       },
       "points": 26,
-      "matches": 31,
+      "matches": 32,
       "wins": 5,
       "draws": 11,
-      "losses": 15,
+      "losses": 16,
       "goalsFor": 34,
-      "goalsAgainst": 49,
-      "goalDifference": -15,
+      "goalsAgainst": 50,
+      "goalDifference": -16,
       "recentForm": [
         "L",
-        "L",
         "D",
         "D",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -473,7 +473,7 @@
       "id": 346470,
       "round": 32,
       "dateTime": "2026-10-23T20:00",
-      "status": "scheduled",
+      "status": "finished",
       "venue": "Mineirão",
       "home": {
         "name": "Cruzeiro",
@@ -485,8 +485,8 @@
         "shortName": "REM",
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 1,
+      "scoreAway": 0
     },
     {
       "id": 346469,
