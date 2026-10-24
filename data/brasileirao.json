@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T17:54:37.714Z",
+  "updatedAt": "2026-10-24T20:22:37.702Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 32,
@@ -83,20 +83,20 @@
         "shortName": "CAP",
         "badge": "https://s.sde.globo.com/media/organizations/2026/01/07/Athletico-PR.svg"
       },
-      "points": 53,
-      "matches": 31,
+      "points": 54,
+      "matches": 32,
       "wins": 15,
-      "draws": 8,
+      "draws": 9,
       "losses": 8,
-      "goalsFor": 49,
-      "goalsAgainst": 37,
+      "goalsFor": 50,
+      "goalsAgainst": 38,
       "goalDifference": 12,
       "recentForm": [
-        "D",
         "W",
         "D",
         "W",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -198,20 +198,20 @@
         "shortName": "SAO",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
       },
-      "points": 42,
-      "matches": 31,
+      "points": 43,
+      "matches": 32,
       "wins": 12,
-      "draws": 6,
+      "draws": 7,
       "losses": 13,
-      "goalsFor": 36,
-      "goalsAgainst": 35,
+      "goalsFor": 37,
+      "goalsAgainst": 36,
       "goalDifference": 1,
       "recentForm": [
-        "L",
         "W",
         "L",
         "W",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -245,19 +245,19 @@
         "badge": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
       },
       "points": 39,
-      "matches": 31,
+      "matches": 32,
       "wins": 10,
       "draws": 9,
-      "losses": 12,
+      "losses": 13,
       "goalsFor": 44,
-      "goalsAgainst": 48,
-      "goalDifference": -4,
+      "goalsAgainst": 50,
+      "goalDifference": -6,
       "recentForm": [
-        "D",
         "L",
         "L",
         "D",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -290,19 +290,19 @@
         "shortName": "VIT",
         "badge": "https://s.sde.globo.com/media/organizations/2025/12/18/Vitoria_2025.svg"
       },
-      "points": 37,
-      "matches": 31,
+      "points": 38,
+      "matches": 32,
       "wins": 10,
-      "draws": 7,
+      "draws": 8,
       "losses": 14,
-      "goalsFor": 34,
-      "goalsAgainst": 45,
+      "goalsFor": 35,
+      "goalsAgainst": 46,
       "goalDifference": -11,
       "recentForm": [
-        "D",
         "L",
         "W",
         "L",
+        "D",
         "D"
       ]
     },
@@ -313,20 +313,20 @@
         "shortName": "MIR",
         "badge": "https://s.sde.globo.com/media/organizations/2026/07/17/MIrassol.svg"
       },
-      "points": 36,
-      "matches": 31,
+      "points": 37,
+      "matches": 32,
       "wins": 9,
-      "draws": 9,
+      "draws": 10,
       "losses": 13,
-      "goalsFor": 36,
-      "goalsAgainst": 44,
+      "goalsFor": 37,
+      "goalsAgainst": 45,
       "goalDifference": -8,
       "recentForm": [
-        "D",
         "W",
         "D",
         "L",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -355,6 +355,29 @@
     {
       "position": 16,
       "team": {
+        "name": "Internacional",
+        "shortName": "INT",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
+      },
+      "points": 35,
+      "matches": 32,
+      "wins": 8,
+      "draws": 11,
+      "losses": 13,
+      "goalsFor": 35,
+      "goalsAgainst": 40,
+      "goalDifference": -5,
+      "recentForm": [
+        "L",
+        "W",
+        "D",
+        "L",
+        "W"
+      ]
+    },
+    {
+      "position": 17,
+      "team": {
         "name": "Corinthians",
         "shortName": "COR",
         "badge": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
@@ -373,29 +396,6 @@
         "L",
         "L",
         "D"
-      ]
-    },
-    {
-      "position": 17,
-      "team": {
-        "name": "Internacional",
-        "shortName": "INT",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
-      },
-      "points": 32,
-      "matches": 31,
-      "wins": 7,
-      "draws": 11,
-      "losses": 13,
-      "goalsFor": 33,
-      "goalsAgainst": 40,
-      "goalDifference": -7,
-      "recentForm": [
-        "W",
-        "L",
-        "W",
-        "D",
-        "L"
       ]
     },
     {
@@ -492,7 +492,7 @@
       "id": 346469,
       "round": 32,
       "dateTime": "2026-10-24T16:30",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Maião",
       "home": {
         "name": "Mirassol",
@@ -504,14 +504,14 @@
         "shortName": "SAO",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 1,
+      "scoreAway": 1
     },
     {
       "id": 346471,
       "round": 32,
       "dateTime": "2026-10-24T16:30",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Beira-Rio",
       "home": {
         "name": "Internacional",
@@ -523,14 +523,14 @@
         "shortName": "BOT",
         "badge": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 2,
+      "scoreAway": 0
     },
     {
       "id": 346473,
       "round": 32,
       "dateTime": "2026-10-24T16:30",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Barradão",
       "home": {
         "name": "Vitória",
@@ -542,8 +542,8 @@
         "shortName": "CAP",
         "badge": "https://s.sde.globo.com/media/organizations/2026/01/07/Athletico-PR.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 1,
+      "scoreAway": 1
     },
     {
       "id": 346466,
