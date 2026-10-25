@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T00:53:14.369Z",
+  "updatedAt": "2026-10-25T05:46:31.632Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 32,
@@ -102,29 +102,6 @@
     {
       "position": 5,
       "team": {
-        "name": "Bahia",
-        "shortName": "BAH",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
-      },
-      "points": 52,
-      "matches": 32,
-      "wins": 14,
-      "draws": 10,
-      "losses": 8,
-      "goalsFor": 45,
-      "goalsAgainst": 39,
-      "goalDifference": 6,
-      "recentForm": [
-        "L",
-        "L",
-        "W",
-        "L",
-        "W"
-      ]
-    },
-    {
-      "position": 6,
-      "team": {
         "name": "Fluminense",
         "shortName": "FLU",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
@@ -146,7 +123,7 @@
       ]
     },
     {
-      "position": 7,
+      "position": 6,
       "team": {
         "name": "Atlético-MG",
         "shortName": "CAM",
@@ -169,26 +146,49 @@
       ]
     },
     {
+      "position": 7,
+      "team": {
+        "name": "Bahia",
+        "shortName": "BAH",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      },
+      "points": 50,
+      "matches": 32,
+      "wins": 13,
+      "draws": 11,
+      "losses": 8,
+      "goalsFor": 45,
+      "goalsAgainst": 40,
+      "goalDifference": 5,
+      "recentForm": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "D"
+      ]
+    },
+    {
       "position": 8,
       "team": {
         "name": "Santos",
         "shortName": "SAN",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
       },
-      "points": 45,
+      "points": 46,
       "matches": 32,
       "wins": 12,
-      "draws": 9,
-      "losses": 11,
-      "goalsFor": 48,
+      "draws": 10,
+      "losses": 10,
+      "goalsFor": 49,
       "goalsAgainst": 47,
-      "goalDifference": 1,
+      "goalDifference": 2,
       "recentForm": [
         "W",
         "D",
         "L",
         "W",
-        "L"
+        "D"
       ]
     },
     {
@@ -606,7 +606,7 @@
       "id": 346467,
       "round": 32,
       "dateTime": "2026-10-24T21:00",
-      "status": "live",
+      "status": "finished",
       "venue": "Vila Belmiro",
       "home": {
         "name": "Santos",
@@ -618,7 +618,7 @@
         "shortName": "BAH",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
       },
-      "scoreHome": 0,
+      "scoreHome": 1,
       "scoreAway": 1
     },
     {
