@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T22:42:33.324Z",
+  "updatedAt": "2026-10-25T00:53:14.369Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 32,
@@ -19,9 +19,9 @@
       "wins": 20,
       "draws": 9,
       "losses": 3,
-      "goalsFor": 55,
+      "goalsFor": 56,
       "goalsAgainst": 22,
-      "goalDifference": 33,
+      "goalDifference": 34,
       "recentForm": [
         "D",
         "W",
@@ -102,28 +102,51 @@
     {
       "position": 5,
       "team": {
-        "name": "Fluminense",
-        "shortName": "FLU",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+        "name": "Bahia",
+        "shortName": "BAH",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
       },
       "points": 52,
       "matches": 32,
       "wins": 14,
       "draws": 10,
       "losses": 8,
-      "goalsFor": 49,
+      "goalsFor": 45,
       "goalsAgainst": 39,
-      "goalDifference": 10,
+      "goalDifference": 6,
+      "recentForm": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "W"
+      ]
+    },
+    {
+      "position": 6,
+      "team": {
+        "name": "Fluminense",
+        "shortName": "FLU",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+      },
+      "points": 51,
+      "matches": 32,
+      "wins": 14,
+      "draws": 9,
+      "losses": 9,
+      "goalsFor": 50,
+      "goalsAgainst": 41,
+      "goalDifference": 9,
       "recentForm": [
         "W",
         "W",
         "L",
         "L",
-        "D"
+        "L"
       ]
     },
     {
-      "position": 6,
+      "position": 7,
       "team": {
         "name": "Atlético-MG",
         "shortName": "CAM",
@@ -146,29 +169,6 @@
       ]
     },
     {
-      "position": 7,
-      "team": {
-        "name": "Bahia",
-        "shortName": "BAH",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
-      },
-      "points": 49,
-      "matches": 31,
-      "wins": 13,
-      "draws": 10,
-      "losses": 8,
-      "goalsFor": 44,
-      "goalsAgainst": 39,
-      "goalDifference": 5,
-      "recentForm": [
-        "W",
-        "L",
-        "L",
-        "W",
-        "L"
-      ]
-    },
-    {
       "position": 8,
       "team": {
         "name": "Santos",
@@ -176,19 +176,19 @@
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
       },
       "points": 45,
-      "matches": 31,
+      "matches": 32,
       "wins": 12,
       "draws": 9,
-      "losses": 10,
+      "losses": 11,
       "goalsFor": 48,
-      "goalsAgainst": 46,
-      "goalDifference": 2,
+      "goalsAgainst": 47,
+      "goalDifference": 1,
       "recentForm": [
-        "W",
         "W",
         "D",
         "L",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -227,8 +227,8 @@
       "draws": 8,
       "losses": 13,
       "goalsFor": 39,
-      "goalsAgainst": 37,
-      "goalDifference": 2,
+      "goalsAgainst": 38,
+      "goalDifference": 1,
       "recentForm": [
         "L",
         "D",
@@ -295,8 +295,8 @@
       "wins": 10,
       "draws": 8,
       "losses": 13,
-      "goalsFor": 37,
-      "goalsAgainst": 43,
+      "goalsFor": 39,
+      "goalsAgainst": 45,
       "goalDifference": -6,
       "recentForm": [
         "W",
@@ -387,8 +387,8 @@
       "wins": 8,
       "draws": 9,
       "losses": 15,
-      "goalsFor": 32,
-      "goalsAgainst": 40,
+      "goalsFor": 34,
+      "goalsAgainst": 42,
       "goalDifference": -8,
       "recentForm": [
         "L",
@@ -451,20 +451,20 @@
         "shortName": "CHA",
         "badge": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
       },
-      "points": 19,
+      "points": 21,
       "matches": 31,
-      "wins": 3,
-      "draws": 10,
+      "wins": 4,
+      "draws": 9,
       "losses": 18,
-      "goalsFor": 30,
-      "goalsAgainst": 62,
-      "goalDifference": -32,
+      "goalsFor": 32,
+      "goalsAgainst": 63,
+      "goalDifference": -31,
       "recentForm": [
         "D",
         "L",
         "L",
         "L",
-        "D"
+        "W"
       ]
     }
   ],
@@ -549,7 +549,7 @@
       "id": 346466,
       "round": 32,
       "dateTime": "2026-10-24T18:30",
-      "status": "live",
+      "status": "finished",
       "venue": "São Januário",
       "home": {
         "name": "Vasco",
@@ -561,14 +561,14 @@
         "shortName": "COR",
         "badge": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
       },
-      "scoreHome": 1,
-      "scoreAway": 0
+      "scoreHome": 3,
+      "scoreAway": 2
     },
     {
       "id": 346468,
       "round": 32,
       "dateTime": "2026-10-24T18:30",
-      "status": "live",
+      "status": "finished",
       "venue": "Arena Barueri",
       "home": {
         "name": "Palmeiras",
@@ -580,14 +580,14 @@
         "shortName": "RBB",
         "badge": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
       },
-      "scoreHome": 1,
+      "scoreHome": 2,
       "scoreAway": 0
     },
     {
       "id": 346474,
       "round": 32,
       "dateTime": "2026-10-24T19:30",
-      "status": "scheduled",
+      "status": "finished",
       "venue": "Arena Condá",
       "home": {
         "name": "Chapecoense",
@@ -599,14 +599,14 @@
         "shortName": "FLU",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
       },
-      "scoreHome": 0,
-      "scoreAway": 0
+      "scoreHome": 2,
+      "scoreAway": 1
     },
     {
       "id": 346467,
       "round": 32,
       "dateTime": "2026-10-24T21:00",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Vila Belmiro",
       "home": {
         "name": "Santos",
@@ -618,8 +618,8 @@
         "shortName": "BAH",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 0,
+      "scoreAway": 1
     },
     {
       "id": 346472,
