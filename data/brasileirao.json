@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T19:32:08.929Z",
+  "updatedAt": "2026-10-26T23:18:43.003Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 32,
@@ -240,6 +240,29 @@
     {
       "position": 11,
       "team": {
+        "name": "Coritiba",
+        "shortName": "CFC",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "points": 40,
+      "matches": 32,
+      "wins": 10,
+      "draws": 10,
+      "losses": 12,
+      "goalsFor": 38,
+      "goalsAgainst": 49,
+      "goalDifference": -11,
+      "recentForm": [
+        "L",
+        "L",
+        "D",
+        "L",
+        "D"
+      ]
+    },
+    {
+      "position": 12,
+      "team": {
         "name": "Botafogo",
         "shortName": "BOT",
         "badge": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
@@ -257,29 +280,6 @@
         "L",
         "D",
         "W",
-        "L"
-      ]
-    },
-    {
-      "position": 12,
-      "team": {
-        "name": "Coritiba",
-        "shortName": "CFC",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
-      },
-      "points": 39,
-      "matches": 31,
-      "wins": 10,
-      "draws": 9,
-      "losses": 12,
-      "goalsFor": 38,
-      "goalsAgainst": 49,
-      "goalDifference": -11,
-      "recentForm": [
-        "D",
-        "L",
-        "L",
-        "D",
         "L"
       ]
     },
@@ -405,20 +405,20 @@
         "shortName": "GRE",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
       },
-      "points": 31,
-      "matches": 31,
+      "points": 32,
+      "matches": 32,
       "wins": 7,
-      "draws": 10,
+      "draws": 11,
       "losses": 14,
       "goalsFor": 34,
       "goalsAgainst": 44,
       "goalDifference": -10,
       "recentForm": [
+        "D",
+        "D",
+        "D",
         "L",
-        "D",
-        "D",
-        "D",
-        "L"
+        "D"
       ]
     },
     {
@@ -625,7 +625,7 @@
       "id": 346472,
       "round": 32,
       "dateTime": "2026-10-26T19:30",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Couto Pereira",
       "home": {
         "name": "Coritiba",
@@ -637,8 +637,8 @@
         "shortName": "GRE",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 0,
+      "scoreAway": 0
     },
     {
       "id": 346465,
