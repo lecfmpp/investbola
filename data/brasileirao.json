@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T00:38:09.165Z",
+  "updatedAt": "2026-10-29T06:28:07.540Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 33,
@@ -125,6 +125,29 @@
     {
       "position": 6,
       "team": {
+        "name": "Bahia",
+        "shortName": "BAH",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      },
+      "points": 53,
+      "matches": 33,
+      "wins": 14,
+      "draws": 11,
+      "losses": 8,
+      "goalsFor": 48,
+      "goalsAgainst": 42,
+      "goalDifference": 6,
+      "recentForm": [
+        "L",
+        "W",
+        "L",
+        "D",
+        "W"
+      ]
+    },
+    {
+      "position": 7,
+      "team": {
         "name": "Atlético-MG",
         "shortName": "CAM",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
@@ -143,29 +166,6 @@
         "W",
         "W",
         "L"
-      ]
-    },
-    {
-      "position": 7,
-      "team": {
-        "name": "Bahia",
-        "shortName": "BAH",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
-      },
-      "points": 50,
-      "matches": 32,
-      "wins": 13,
-      "draws": 11,
-      "losses": 8,
-      "goalsFor": 45,
-      "goalsAgainst": 40,
-      "goalDifference": 5,
-      "recentForm": [
-        "L",
-        "L",
-        "W",
-        "L",
-        "D"
       ]
     },
     {
@@ -222,19 +222,19 @@
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
       },
       "points": 43,
-      "matches": 32,
+      "matches": 33,
       "wins": 12,
       "draws": 7,
-      "losses": 13,
-      "goalsFor": 37,
-      "goalsAgainst": 36,
-      "goalDifference": 1,
+      "losses": 14,
+      "goalsFor": 39,
+      "goalsAgainst": 39,
+      "goalDifference": 0,
       "recentForm": [
-        "W",
         "L",
         "W",
         "W",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -244,20 +244,20 @@
         "shortName": "BOT",
         "badge": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
       },
-      "points": 40,
+      "points": 39,
       "matches": 33,
       "wins": 10,
-      "draws": 10,
-      "losses": 13,
-      "goalsFor": 44,
-      "goalsAgainst": 51,
-      "goalDifference": -7,
+      "draws": 9,
+      "losses": 14,
+      "goalsFor": 45,
+      "goalsAgainst": 53,
+      "goalDifference": -8,
       "recentForm": [
         "L",
         "D",
         "W",
         "L",
-        "D"
+        "L"
       ]
     },
     {
@@ -428,20 +428,20 @@
         "shortName": "REM",
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
       },
-      "points": 27,
+      "points": 29,
       "matches": 33,
-      "wins": 5,
-      "draws": 12,
+      "wins": 6,
+      "draws": 11,
       "losses": 16,
-      "goalsFor": 34,
-      "goalsAgainst": 50,
-      "goalDifference": -16,
+      "goalsFor": 36,
+      "goalsAgainst": 51,
+      "goalDifference": -15,
       "recentForm": [
         "D",
         "D",
         "D",
         "L",
-        "D"
+        "W"
       ]
     },
     {
@@ -473,7 +473,7 @@
       "id": 346435,
       "round": 33,
       "dateTime": "2026-10-28T19:30",
-      "status": "live",
+      "status": "finished",
       "venue": "Maracanã",
       "home": {
         "name": "Fluminense",
@@ -492,7 +492,7 @@
       "id": 346437,
       "round": 33,
       "dateTime": "2026-10-28T19:30",
-      "status": "live",
+      "status": "finished",
       "venue": "Vila Belmiro",
       "home": {
         "name": "Santos",
@@ -511,7 +511,7 @@
       "id": 346439,
       "round": 33,
       "dateTime": "2026-10-28T19:30",
-      "status": "live",
+      "status": "finished",
       "venue": "Cícero de Souza Marques",
       "home": {
         "name": "Bragantino",
@@ -530,7 +530,7 @@
       "id": 346443,
       "round": 33,
       "dateTime": "2026-10-28T21:30",
-      "status": "live",
+      "status": "finished",
       "venue": "Arena Fonte Nova",
       "home": {
         "name": "Bahia",
@@ -542,14 +542,14 @@
         "shortName": "SAO",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 3,
+      "scoreAway": 2
     },
     {
       "id": 346444,
       "round": 33,
       "dateTime": "2026-10-28T21:30",
-      "status": "live",
+      "status": "finished",
       "venue": "Mangueirão",
       "home": {
         "name": "Remo",
@@ -561,8 +561,8 @@
         "shortName": "BOT",
         "badge": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
       },
-      "scoreHome": 0,
-      "scoreAway": 0
+      "scoreHome": 2,
+      "scoreAway": 1
     },
     {
       "id": 346440,
