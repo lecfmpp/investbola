@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T19:25:59.857Z",
+  "updatedAt": "2026-10-29T23:33:45.873Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 33,
@@ -14,20 +14,20 @@
         "shortName": "FLA",
         "badge": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
       },
-      "points": 70,
-      "matches": 32,
-      "wins": 21,
+      "points": 73,
+      "matches": 33,
+      "wins": 22,
       "draws": 7,
       "losses": 4,
-      "goalsFor": 64,
+      "goalsFor": 65,
       "goalsAgainst": 27,
-      "goalDifference": 37,
+      "goalDifference": 38,
       "recentForm": [
-        "W",
         "D",
         "W",
         "W",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -60,18 +60,18 @@
         "shortName": "CRU",
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
       },
-      "points": 54,
-      "matches": 32,
-      "wins": 16,
+      "points": 57,
+      "matches": 33,
+      "wins": 17,
       "draws": 6,
       "losses": 10,
-      "goalsFor": 51,
+      "goalsFor": 52,
       "goalsAgainst": 46,
-      "goalDifference": 5,
+      "goalDifference": 6,
       "recentForm": [
         "W",
-        "W",
         "L",
+        "W",
         "W",
         "W"
       ]
@@ -153,18 +153,18 @@
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
       },
       "points": 50,
-      "matches": 32,
+      "matches": 33,
       "wins": 14,
       "draws": 8,
-      "losses": 10,
+      "losses": 11,
       "goalsFor": 44,
-      "goalsAgainst": 38,
-      "goalDifference": 6,
+      "goalsAgainst": 39,
+      "goalDifference": 5,
       "recentForm": [
         "D",
-        "D",
         "W",
         "W",
+        "L",
         "L"
       ]
     },
@@ -291,19 +291,19 @@
         "badge": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
       },
       "points": 38,
-      "matches": 31,
+      "matches": 32,
       "wins": 10,
       "draws": 8,
-      "losses": 13,
+      "losses": 14,
       "goalsFor": 39,
-      "goalsAgainst": 45,
-      "goalDifference": -6,
+      "goalsAgainst": 46,
+      "goalDifference": -7,
       "recentForm": [
-        "W",
         "W",
         "D",
         "L",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -568,7 +568,7 @@
       "id": 346440,
       "round": 33,
       "dateTime": "2026-10-29T19:30",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Arena MRV",
       "home": {
         "name": "Atlético-MG",
@@ -580,14 +580,14 @@
         "shortName": "CRU",
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 0,
+      "scoreAway": 1
     },
     {
       "id": 346436,
       "round": 33,
       "dateTime": "2026-10-29T20:00",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Nilton Santos (Engenhão)",
       "home": {
         "name": "Vasco",
@@ -599,8 +599,8 @@
         "shortName": "FLA",
         "badge": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 1,
+      "scoreAway": 1
     },
     {
       "id": 346441,
