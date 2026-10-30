@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T23:33:45.873Z",
+  "updatedAt": "2026-10-30T02:55:17.112Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 33,
@@ -19,15 +19,15 @@
       "wins": 22,
       "draws": 7,
       "losses": 4,
-      "goalsFor": 65,
-      "goalsAgainst": 27,
-      "goalDifference": 38,
+      "goalsFor": 68,
+      "goalsAgainst": 28,
+      "goalDifference": 40,
       "recentForm": [
         "D",
         "W",
         "W",
         "W",
-        "D"
+        "W"
       ]
     },
     {
@@ -79,29 +79,6 @@
     {
       "position": 4,
       "team": {
-        "name": "Athletico-PR",
-        "shortName": "CAP",
-        "badge": "https://s.sde.globo.com/media/organizations/2026/01/07/Athletico-PR.svg"
-      },
-      "points": 54,
-      "matches": 32,
-      "wins": 15,
-      "draws": 9,
-      "losses": 8,
-      "goalsFor": 50,
-      "goalsAgainst": 38,
-      "goalDifference": 12,
-      "recentForm": [
-        "W",
-        "D",
-        "W",
-        "L",
-        "D"
-      ]
-    },
-    {
-      "position": 5,
-      "team": {
         "name": "Fluminense",
         "shortName": "FLU",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
@@ -120,6 +97,29 @@
         "L",
         "L",
         "W"
+      ]
+    },
+    {
+      "position": 5,
+      "team": {
+        "name": "Athletico-PR",
+        "shortName": "CAP",
+        "badge": "https://s.sde.globo.com/media/organizations/2026/01/07/Athletico-PR.svg"
+      },
+      "points": 54,
+      "matches": 33,
+      "wins": 15,
+      "draws": 9,
+      "losses": 9,
+      "goalsFor": 50,
+      "goalsAgainst": 40,
+      "goalDifference": 10,
+      "recentForm": [
+        "D",
+        "W",
+        "L",
+        "D",
+        "L"
       ]
     },
     {
@@ -295,15 +295,15 @@
       "wins": 10,
       "draws": 8,
       "losses": 14,
-      "goalsFor": 39,
-      "goalsAgainst": 46,
-      "goalDifference": -7,
+      "goalsFor": 40,
+      "goalsAgainst": 49,
+      "goalDifference": -9,
       "recentForm": [
         "W",
         "D",
         "L",
         "W",
-        "D"
+        "L"
       ]
     },
     {
@@ -332,6 +332,29 @@
     {
       "position": 15,
       "team": {
+        "name": "Grêmio",
+        "shortName": "GRE",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
+      },
+      "points": 37,
+      "matches": 33,
+      "wins": 9,
+      "draws": 10,
+      "losses": 14,
+      "goalsFor": 37,
+      "goalsAgainst": 44,
+      "goalDifference": -7,
+      "recentForm": [
+        "D",
+        "D",
+        "L",
+        "W",
+        "W"
+      ]
+    },
+    {
+      "position": 16,
+      "team": {
         "name": "Mirassol",
         "shortName": "MIR",
         "badge": "https://s.sde.globo.com/media/organizations/2026/07/17/MIrassol.svg"
@@ -353,7 +376,7 @@
       ]
     },
     {
-      "position": 16,
+      "position": 17,
       "team": {
         "name": "Internacional",
         "shortName": "INT",
@@ -373,29 +396,6 @@
         "L",
         "W",
         "L"
-      ]
-    },
-    {
-      "position": 17,
-      "team": {
-        "name": "Grêmio",
-        "shortName": "GRE",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
-      },
-      "points": 34,
-      "matches": 32,
-      "wins": 8,
-      "draws": 10,
-      "losses": 14,
-      "goalsFor": 35,
-      "goalsAgainst": 44,
-      "goalDifference": -9,
-      "recentForm": [
-        "D",
-        "D",
-        "D",
-        "L",
-        "W"
       ]
     },
     {
@@ -568,7 +568,7 @@
       "id": 346440,
       "round": 33,
       "dateTime": "2026-10-29T19:30",
-      "status": "live",
+      "status": "finished",
       "venue": "Arena MRV",
       "home": {
         "name": "Atlético-MG",
@@ -587,7 +587,7 @@
       "id": 346436,
       "round": 33,
       "dateTime": "2026-10-29T20:00",
-      "status": "live",
+      "status": "finished",
       "venue": "Nilton Santos (Engenhão)",
       "home": {
         "name": "Vasco",
@@ -600,13 +600,13 @@
         "badge": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
       },
       "scoreHome": 1,
-      "scoreAway": 1
+      "scoreAway": 4
     },
     {
       "id": 346441,
       "round": 33,
       "dateTime": "2026-10-29T21:30",
-      "status": "scheduled",
+      "status": "finished",
       "venue": "Arena do Grêmio",
       "home": {
         "name": "Grêmio",
@@ -618,8 +618,8 @@
         "shortName": "CAP",
         "badge": "https://s.sde.globo.com/media/organizations/2026/01/07/Athletico-PR.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 2,
+      "scoreAway": 0
     },
     {
       "id": 346438,
