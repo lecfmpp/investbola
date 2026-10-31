@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T21:01:13.685Z",
+  "updatedAt": "2026-10-31T00:52:07.241Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 33,
@@ -360,23 +360,46 @@
         "badge": "https://s.sde.globo.com/media/organizations/2026/07/17/MIrassol.svg"
       },
       "points": 37,
-      "matches": 32,
+      "matches": 33,
       "wins": 9,
       "draws": 10,
-      "losses": 13,
+      "losses": 14,
       "goalsFor": 37,
-      "goalsAgainst": 45,
-      "goalDifference": -8,
+      "goalsAgainst": 47,
+      "goalDifference": -10,
       "recentForm": [
-        "W",
         "D",
         "L",
         "W",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
       "position": 17,
+      "team": {
+        "name": "Corinthians",
+        "shortName": "COR",
+        "badge": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      },
+      "points": 36,
+      "matches": 33,
+      "wins": 9,
+      "draws": 9,
+      "losses": 15,
+      "goalsFor": 36,
+      "goalsAgainst": 42,
+      "goalDifference": -6,
+      "recentForm": [
+        "L",
+        "L",
+        "D",
+        "L",
+        "W"
+      ]
+    },
+    {
+      "position": 18,
       "team": {
         "name": "Internacional",
         "shortName": "INT",
@@ -395,29 +418,6 @@
         "D",
         "L",
         "W",
-        "L"
-      ]
-    },
-    {
-      "position": 18,
-      "team": {
-        "name": "Corinthians",
-        "shortName": "COR",
-        "badge": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
-      },
-      "points": 33,
-      "matches": 32,
-      "wins": 8,
-      "draws": 9,
-      "losses": 15,
-      "goalsFor": 34,
-      "goalsAgainst": 42,
-      "goalDifference": -8,
-      "recentForm": [
-        "L",
-        "L",
-        "L",
-        "D",
         "L"
       ]
     },
@@ -625,7 +625,7 @@
       "id": 346438,
       "round": 33,
       "dateTime": "2026-10-30T20:00",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Neo Química Arena",
       "home": {
         "name": "Corinthians",
@@ -637,8 +637,8 @@
         "shortName": "MIR",
         "badge": "https://s.sde.globo.com/media/organizations/2026/07/17/MIrassol.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 2,
+      "scoreAway": 0
     },
     {
       "id": 346442,
