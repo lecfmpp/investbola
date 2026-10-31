@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T00:52:07.241Z",
+  "updatedAt": "2026-10-31T06:42:33.917Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 33,
@@ -625,7 +625,7 @@
       "id": 346438,
       "round": 33,
       "dateTime": "2026-10-30T20:00",
-      "status": "live",
+      "status": "finished",
       "venue": "Neo Química Arena",
       "home": {
         "name": "Corinthians",
