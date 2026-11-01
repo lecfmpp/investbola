@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T21:07:00.385Z",
+  "updatedAt": "2026-11-01T00:11:23.979Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 33,
@@ -644,7 +644,7 @@
       "id": 346442,
       "round": 33,
       "dateTime": "2026-10-31T16:00",
-      "status": "live",
+      "status": "finished",
       "venue": "Couto Pereira",
       "home": {
         "name": "Coritiba",
