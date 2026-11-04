@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T02:40:51.540Z",
+  "updatedAt": "2026-11-04T18:13:01.013Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 34,
@@ -511,7 +511,7 @@
       "id": 346397,
       "round": 34,
       "dateTime": "2026-11-03T21:30",
-      "status": "live",
+      "status": "finished",
       "venue": "Beira-Rio",
       "home": {
         "name": "Internacional",
