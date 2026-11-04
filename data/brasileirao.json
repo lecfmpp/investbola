@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T18:13:01.013Z",
+  "updatedAt": "2026-11-04T23:45:26.523Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 34,
@@ -14,16 +14,16 @@
         "shortName": "FLA",
         "badge": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
       },
-      "points": 73,
-      "matches": 33,
-      "wins": 22,
+      "points": 76,
+      "matches": 34,
+      "wins": 23,
       "draws": 7,
       "losses": 4,
-      "goalsFor": 68,
+      "goalsFor": 71,
       "goalsAgainst": 28,
-      "goalDifference": 40,
+      "goalDifference": 43,
       "recentForm": [
-        "D",
+        "W",
         "W",
         "W",
         "W",
@@ -79,6 +79,29 @@
     {
       "position": 4,
       "team": {
+        "name": "Athletico-PR",
+        "shortName": "CAP",
+        "badge": "https://s.sde.globo.com/media/organizations/2026/01/07/Athletico-PR.svg"
+      },
+      "points": 57,
+      "matches": 34,
+      "wins": 16,
+      "draws": 9,
+      "losses": 9,
+      "goalsFor": 51,
+      "goalsAgainst": 40,
+      "goalDifference": 11,
+      "recentForm": [
+        "W",
+        "L",
+        "D",
+        "L",
+        "W"
+      ]
+    },
+    {
+      "position": 5,
+      "team": {
         "name": "Fluminense",
         "shortName": "FLU",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
@@ -97,29 +120,6 @@
         "L",
         "L",
         "W"
-      ]
-    },
-    {
-      "position": 5,
-      "team": {
-        "name": "Athletico-PR",
-        "shortName": "CAP",
-        "badge": "https://s.sde.globo.com/media/organizations/2026/01/07/Athletico-PR.svg"
-      },
-      "points": 54,
-      "matches": 33,
-      "wins": 15,
-      "draws": 9,
-      "losses": 9,
-      "goalsFor": 50,
-      "goalsAgainst": 40,
-      "goalDifference": 10,
-      "recentForm": [
-        "D",
-        "W",
-        "L",
-        "D",
-        "L"
       ]
     },
     {
@@ -314,18 +314,18 @@
         "badge": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
       },
       "points": 38,
-      "matches": 32,
+      "matches": 33,
       "wins": 10,
       "draws": 8,
-      "losses": 14,
+      "losses": 15,
       "goalsFor": 40,
-      "goalsAgainst": 49,
-      "goalDifference": -9,
+      "goalsAgainst": 50,
+      "goalDifference": -10,
       "recentForm": [
-        "W",
         "D",
         "L",
         "W",
+        "L",
         "L"
       ]
     },
@@ -383,19 +383,19 @@
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
       },
       "points": 37,
-      "matches": 33,
+      "matches": 34,
       "wins": 9,
       "draws": 10,
-      "losses": 14,
+      "losses": 15,
       "goalsFor": 37,
-      "goalsAgainst": 44,
-      "goalDifference": -7,
+      "goalsAgainst": 47,
+      "goalDifference": -10,
       "recentForm": [
-        "D",
         "D",
         "L",
         "W",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -530,7 +530,7 @@
       "id": 346391,
       "round": 34,
       "dateTime": "2026-11-04T19:30",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Maracanã",
       "home": {
         "name": "Flamengo",
@@ -542,14 +542,14 @@
         "shortName": "GRE",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 3,
+      "scoreAway": 0
     },
     {
       "id": 346398,
       "round": 34,
       "dateTime": "2026-11-04T19:30",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Arena da Baixada",
       "home": {
         "name": "Athletico-PR",
@@ -561,8 +561,8 @@
         "shortName": "VAS",
         "badge": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 1,
+      "scoreAway": 0
     },
     {
       "id": 346392,
