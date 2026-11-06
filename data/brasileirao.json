@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T01:23:52.579Z",
+  "updatedAt": "2026-11-06T08:29:06.389Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 34,
@@ -60,20 +60,20 @@
         "shortName": "CRU",
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
       },
-      "points": 58,
+      "points": 60,
       "matches": 34,
-      "wins": 17,
-      "draws": 7,
+      "wins": 18,
+      "draws": 6,
       "losses": 10,
-      "goalsFor": 53,
+      "goalsFor": 54,
       "goalsAgainst": 47,
-      "goalDifference": 6,
+      "goalDifference": 7,
       "recentForm": [
         "L",
         "W",
         "W",
         "W",
-        "D"
+        "W"
       ]
     },
     {
@@ -129,20 +129,20 @@
         "shortName": "BAH",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
       },
-      "points": 54,
+      "points": 53,
       "matches": 34,
       "wins": 14,
-      "draws": 12,
-      "losses": 8,
+      "draws": 11,
+      "losses": 9,
       "goalsFor": 49,
-      "goalsAgainst": 43,
-      "goalDifference": 6,
+      "goalsAgainst": 44,
+      "goalDifference": 5,
       "recentForm": [
         "W",
         "L",
         "D",
         "W",
-        "D"
+        "L"
       ]
     },
     {
@@ -625,7 +625,7 @@
       "id": 346396,
       "round": 34,
       "dateTime": "2026-11-05T21:30",
-      "status": "live",
+      "status": "finished",
       "venue": "Mineirão",
       "home": {
         "name": "Cruzeiro",
@@ -637,8 +637,8 @@
         "shortName": "BAH",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
       },
-      "scoreHome": 1,
-      "scoreAway": 1
+      "scoreHome": 3,
+      "scoreAway": 2
     },
     {
       "id": 346399,
