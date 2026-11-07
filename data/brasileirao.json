@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T21:35:55.851Z",
+  "updatedAt": "2026-11-07T01:11:11.463Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 34,
@@ -65,8 +65,8 @@
       "wins": 18,
       "draws": 6,
       "losses": 10,
-      "goalsFor": 54,
-      "goalsAgainst": 47,
+      "goalsFor": 55,
+      "goalsAgainst": 48,
       "goalDifference": 7,
       "recentForm": [
         "L",
@@ -83,19 +83,19 @@
         "shortName": "FLU",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
       },
-      "points": 54,
-      "matches": 33,
-      "wins": 15,
+      "points": 57,
+      "matches": 34,
+      "wins": 16,
       "draws": 9,
       "losses": 9,
-      "goalsFor": 52,
+      "goalsFor": 55,
       "goalsAgainst": 42,
-      "goalDifference": 10,
+      "goalDifference": 13,
       "recentForm": [
+        "L",
+        "L",
+        "L",
         "W",
-        "L",
-        "L",
-        "L",
         "W"
       ]
     },
@@ -134,8 +134,8 @@
       "wins": 14,
       "draws": 11,
       "losses": 9,
-      "goalsFor": 49,
-      "goalsAgainst": 44,
+      "goalsFor": 50,
+      "goalsAgainst": 45,
       "goalDifference": 5,
       "recentForm": [
         "W",
@@ -337,18 +337,18 @@
         "badge": "https://s.sde.globo.com/media/organizations/2025/12/18/Vitoria_2025.svg"
       },
       "points": 38,
-      "matches": 33,
+      "matches": 34,
       "wins": 10,
       "draws": 8,
-      "losses": 15,
+      "losses": 16,
       "goalsFor": 35,
-      "goalsAgainst": 48,
-      "goalDifference": -13,
+      "goalsAgainst": 51,
+      "goalDifference": -16,
       "recentForm": [
-        "W",
         "L",
         "D",
         "D",
+        "L",
         "L"
       ]
     },
@@ -644,7 +644,7 @@
       "id": 346399,
       "round": 34,
       "dateTime": "2026-11-06T20:00",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Barradão",
       "home": {
         "name": "Vitória",
@@ -656,8 +656,8 @@
         "shortName": "FLU",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 0,
+      "scoreAway": 3
     }
   ]
 }
