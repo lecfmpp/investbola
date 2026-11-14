@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T20:04:31.987Z",
+  "updatedAt": "2026-11-14T23:58:23.372Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 35,
@@ -152,20 +152,20 @@
         "shortName": "CAM",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
       },
-      "points": 50,
-      "matches": 34,
+      "points": 51,
+      "matches": 35,
       "wins": 14,
-      "draws": 8,
+      "draws": 9,
       "losses": 12,
       "goalsFor": 44,
       "goalsAgainst": 40,
       "goalDifference": 4,
       "recentForm": [
         "W",
-        "W",
         "L",
         "L",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -263,6 +263,29 @@
     {
       "position": 12,
       "team": {
+        "name": "Vasco",
+        "shortName": "VAS",
+        "badge": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      },
+      "points": 42,
+      "matches": 34,
+      "wins": 11,
+      "draws": 9,
+      "losses": 14,
+      "goalsFor": 43,
+      "goalsAgainst": 50,
+      "goalDifference": -7,
+      "recentForm": [
+        "D",
+        "L",
+        "W",
+        "L",
+        "W"
+      ]
+    },
+    {
+      "position": 13,
+      "team": {
         "name": "Coritiba",
         "shortName": "CFC",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
@@ -284,49 +307,26 @@
       ]
     },
     {
-      "position": 13,
-      "team": {
-        "name": "Vasco",
-        "shortName": "VAS",
-        "badge": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
-      },
-      "points": 41,
-      "matches": 33,
-      "wins": 11,
-      "draws": 8,
-      "losses": 14,
-      "goalsFor": 43,
-      "goalsAgainst": 50,
-      "goalDifference": -7,
-      "recentForm": [
-        "D",
-        "L",
-        "W",
-        "L",
-        "W"
-      ]
-    },
-    {
       "position": 14,
       "team": {
         "name": "Mirassol",
         "shortName": "MIR",
         "badge": "https://s.sde.globo.com/media/organizations/2026/07/17/MIrassol.svg"
       },
-      "points": 40,
-      "matches": 34,
+      "points": 41,
+      "matches": 35,
       "wins": 10,
-      "draws": 10,
+      "draws": 11,
       "losses": 14,
       "goalsFor": 39,
       "goalsAgainst": 48,
       "goalDifference": -9,
       "recentForm": [
-        "L",
         "W",
         "D",
         "L",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -451,10 +451,10 @@
         "shortName": "CHA",
         "badge": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
       },
-      "points": 21,
-      "matches": 33,
+      "points": 22,
+      "matches": 34,
       "wins": 4,
-      "draws": 9,
+      "draws": 10,
       "losses": 20,
       "goalsFor": 33,
       "goalsAgainst": 68,
@@ -473,7 +473,7 @@
       "id": 346365,
       "round": 35,
       "dateTime": "2026-11-14T18:30",
-      "status": "scheduled",
+      "status": "finished",
       "venue": "Maião",
       "home": {
         "name": "Mirassol",
@@ -485,8 +485,8 @@
         "shortName": "CAM",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 0,
+      "scoreAway": 0
     },
     {
       "id": 346368,
