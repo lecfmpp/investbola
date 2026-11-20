@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T19:22:23.463Z",
+  "updatedAt": "2026-11-20T01:25:49.685Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 35,
@@ -83,18 +83,18 @@
         "shortName": "FLU",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
       },
-      "points": 57,
-      "matches": 34,
-      "wins": 16,
+      "points": 60,
+      "matches": 35,
+      "wins": 17,
       "draws": 9,
       "losses": 9,
-      "goalsFor": 55,
+      "goalsFor": 56,
       "goalsAgainst": 42,
-      "goalDifference": 13,
+      "goalDifference": 14,
       "recentForm": [
         "L",
         "L",
-        "L",
+        "W",
         "W",
         "W"
       ]
@@ -199,65 +199,65 @@
         "badge": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
       },
       "points": 47,
-      "matches": 34,
+      "matches": 35,
       "wins": 13,
       "draws": 8,
-      "losses": 13,
-      "goalsFor": 44,
-      "goalsAgainst": 39,
-      "goalDifference": 5,
+      "losses": 14,
+      "goalsFor": 45,
+      "goalsAgainst": 41,
+      "goalDifference": 4,
       "recentForm": [
-        "W",
         "D",
+        "L",
+        "W",
+        "W",
+        "L"
+      ]
+    },
+    {
+      "position": 10,
+      "team": {
+        "name": "Vasco",
+        "shortName": "VAS",
+        "badge": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      },
+      "points": 47,
+      "matches": 35,
+      "wins": 13,
+      "draws": 8,
+      "losses": 14,
+      "goalsFor": 47,
+      "goalsAgainst": 51,
+      "goalDifference": -4,
+      "recentForm": [
+        "L",
+        "W",
         "L",
         "W",
         "W"
       ]
     },
     {
-      "position": 10,
+      "position": 11,
       "team": {
         "name": "São Paulo",
         "shortName": "SAO",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
       },
       "points": 44,
-      "matches": 34,
+      "matches": 35,
       "wins": 12,
       "draws": 8,
-      "losses": 14,
+      "losses": 15,
       "goalsFor": 39,
-      "goalsAgainst": 39,
-      "goalDifference": 0,
+      "goalsAgainst": 40,
+      "goalDifference": -1,
       "recentForm": [
-        "W",
         "W",
         "D",
         "L",
-        "D"
-      ]
-    },
-    {
-      "position": 11,
-      "team": {
-        "name": "Vasco",
-        "shortName": "VAS",
-        "badge": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
-      },
-      "points": 44,
-      "matches": 34,
-      "wins": 12,
-      "draws": 8,
-      "losses": 14,
-      "goalsFor": 45,
-      "goalsAgainst": 50,
-      "goalDifference": -5,
-      "recentForm": [
         "D",
-        "L",
-        "W",
-        "L",
-        "W"
+        "L"
       ]
     },
     {
@@ -309,6 +309,29 @@
     {
       "position": 14,
       "team": {
+        "name": "Vitória",
+        "shortName": "VIT",
+        "badge": "https://s.sde.globo.com/media/organizations/2025/12/18/Vitoria_2025.svg"
+      },
+      "points": 41,
+      "matches": 35,
+      "wins": 11,
+      "draws": 8,
+      "losses": 16,
+      "goalsFor": 37,
+      "goalsAgainst": 52,
+      "goalDifference": -15,
+      "recentForm": [
+        "D",
+        "D",
+        "L",
+        "L",
+        "W"
+      ]
+    },
+    {
+      "position": 15,
+      "team": {
         "name": "Mirassol",
         "shortName": "MIR",
         "badge": "https://s.sde.globo.com/media/organizations/2026/07/17/MIrassol.svg"
@@ -330,7 +353,7 @@
       ]
     },
     {
-      "position": 15,
+      "position": 16,
       "team": {
         "name": "Corinthians",
         "shortName": "COR",
@@ -353,29 +376,6 @@
       ]
     },
     {
-      "position": 16,
-      "team": {
-        "name": "Vitória",
-        "shortName": "VIT",
-        "badge": "https://s.sde.globo.com/media/organizations/2025/12/18/Vitoria_2025.svg"
-      },
-      "points": 38,
-      "matches": 34,
-      "wins": 10,
-      "draws": 8,
-      "losses": 16,
-      "goalsFor": 35,
-      "goalsAgainst": 51,
-      "goalDifference": -16,
-      "recentForm": [
-        "L",
-        "D",
-        "D",
-        "L",
-        "L"
-      ]
-    },
-    {
       "position": 17,
       "team": {
         "name": "Internacional",
@@ -383,19 +383,19 @@
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
       },
       "points": 38,
-      "matches": 34,
+      "matches": 35,
       "wins": 9,
       "draws": 11,
-      "losses": 14,
-      "goalsFor": 38,
-      "goalsAgainst": 42,
-      "goalDifference": -4,
+      "losses": 15,
+      "goalsFor": 39,
+      "goalsAgainst": 44,
+      "goalDifference": -5,
       "recentForm": [
-        "D",
         "L",
         "W",
         "L",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -606,7 +606,7 @@
       "id": 346362,
       "round": 35,
       "dateTime": "2026-11-19T19:30",
-      "status": "scheduled",
+      "status": "finished",
       "venue": "São Januário",
       "home": {
         "name": "Vasco",
@@ -618,14 +618,14 @@
         "shortName": "INT",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 2,
+      "scoreAway": 1
     },
     {
       "id": 346369,
       "round": 35,
       "dateTime": "2026-11-19T19:30",
-      "status": "scheduled",
+      "status": "finished",
       "venue": "Barradão",
       "home": {
         "name": "Vitória",
@@ -637,14 +637,14 @@
         "shortName": "RBB",
         "badge": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 2,
+      "scoreAway": 1
     },
     {
       "id": 346363,
       "round": 35,
       "dateTime": "2026-11-19T21:30",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Morumbis",
       "home": {
         "name": "São Paulo",
@@ -656,8 +656,8 @@
         "shortName": "FLU",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 0,
+      "scoreAway": 1
     }
   ]
 }
