@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T00:40:50.572Z",
+  "updatedAt": "2026-11-22T07:49:53.290Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 36,
@@ -60,20 +60,20 @@
         "shortName": "CRU",
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
       },
-      "points": 64,
+      "points": 66,
       "matches": 36,
-      "wins": 19,
-      "draws": 7,
+      "wins": 20,
+      "draws": 6,
       "losses": 10,
-      "goalsFor": 57,
-      "goalsAgainst": 49,
-      "goalDifference": 8,
+      "goalsFor": 59,
+      "goalsAgainst": 50,
+      "goalDifference": 9,
       "recentForm": [
         "W",
         "W",
         "W",
         "W",
-        "D"
+        "W"
       ]
     },
     {
@@ -451,20 +451,20 @@
         "shortName": "CHA",
         "badge": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
       },
-      "points": 22,
+      "points": 21,
       "matches": 36,
       "wins": 4,
-      "draws": 10,
-      "losses": 22,
-      "goalsFor": 33,
-      "goalsAgainst": 72,
-      "goalDifference": -39,
+      "draws": 9,
+      "losses": 23,
+      "goalsFor": 34,
+      "goalsAgainst": 74,
+      "goalDifference": -40,
       "recentForm": [
         "W",
         "L",
         "L",
         "L",
-        "D"
+        "L"
       ]
     }
   ],
@@ -511,7 +511,7 @@
       "id": 346310,
       "round": 36,
       "dateTime": "2026-11-21T21:00",
-      "status": "live",
+      "status": "finished",
       "venue": "Arena Condá",
       "home": {
         "name": "Chapecoense",
@@ -523,8 +523,8 @@
         "shortName": "CRU",
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
       },
-      "scoreHome": 0,
-      "scoreAway": 0
+      "scoreHome": 1,
+      "scoreAway": 2
     },
     {
       "id": 346308,
