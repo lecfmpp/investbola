@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T15:59:14.199Z",
+  "updatedAt": "2026-11-22T21:40:50.321Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 36,
@@ -83,20 +83,20 @@
         "shortName": "FLU",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
       },
-      "points": 60,
-      "matches": 35,
+      "points": 61,
+      "matches": 36,
       "wins": 17,
-      "draws": 9,
+      "draws": 10,
       "losses": 9,
       "goalsFor": 56,
       "goalsAgainst": 42,
       "goalDifference": 14,
       "recentForm": [
         "L",
-        "L",
         "W",
         "W",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -106,20 +106,20 @@
         "shortName": "CAP",
         "badge": "https://s.sde.globo.com/media/organizations/2026/01/07/Athletico-PR.svg"
       },
-      "points": 54,
-      "matches": 35,
-      "wins": 15,
+      "points": 57,
+      "matches": 36,
+      "wins": 16,
       "draws": 9,
       "losses": 11,
-      "goalsFor": 52,
-      "goalsAgainst": 45,
-      "goalDifference": 7,
+      "goalsFor": 56,
+      "goalsAgainst": 47,
+      "goalDifference": 9,
       "recentForm": [
-        "L",
         "D",
         "L",
         "L",
-        "L"
+        "L",
+        "W"
       ]
     },
     {
@@ -309,6 +309,29 @@
     {
       "position": 14,
       "team": {
+        "name": "Mirassol",
+        "shortName": "MIR",
+        "badge": "https://s.sde.globo.com/media/organizations/2026/07/17/MIrassol.svg"
+      },
+      "points": 42,
+      "matches": 36,
+      "wins": 10,
+      "draws": 12,
+      "losses": 14,
+      "goalsFor": 39,
+      "goalsAgainst": 48,
+      "goalDifference": -9,
+      "recentForm": [
+        "D",
+        "L",
+        "W",
+        "D",
+        "D"
+      ]
+    },
+    {
+      "position": 15,
+      "team": {
         "name": "Vitória",
         "shortName": "VIT",
         "badge": "https://s.sde.globo.com/media/organizations/2025/12/18/Vitoria_2025.svg"
@@ -327,29 +350,6 @@
         "L",
         "L",
         "W"
-      ]
-    },
-    {
-      "position": 15,
-      "team": {
-        "name": "Mirassol",
-        "shortName": "MIR",
-        "badge": "https://s.sde.globo.com/media/organizations/2026/07/17/MIrassol.svg"
-      },
-      "points": 41,
-      "matches": 35,
-      "wins": 10,
-      "draws": 11,
-      "losses": 14,
-      "goalsFor": 39,
-      "goalsAgainst": 48,
-      "goalDifference": -9,
-      "recentForm": [
-        "W",
-        "D",
-        "L",
-        "W",
-        "D"
       ]
     },
     {
@@ -429,19 +429,19 @@
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
       },
       "points": 32,
-      "matches": 35,
+      "matches": 36,
       "wins": 7,
       "draws": 11,
-      "losses": 17,
-      "goalsFor": 39,
-      "goalsAgainst": 57,
-      "goalDifference": -18,
+      "losses": 18,
+      "goalsFor": 41,
+      "goalsAgainst": 61,
+      "goalDifference": -20,
       "recentForm": [
-        "D",
         "L",
         "W",
         "L",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -530,7 +530,7 @@
       "id": 346308,
       "round": 36,
       "dateTime": "2026-11-22T16:00",
-      "status": "scheduled",
+      "status": "finished",
       "venue": "Arena da Baixada",
       "home": {
         "name": "Athletico-PR",
@@ -542,14 +542,14 @@
         "shortName": "REM",
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 4,
+      "scoreAway": 2
     },
     {
       "id": 346301,
       "round": 36,
       "dateTime": "2026-11-22T18:30",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Maracanã",
       "home": {
         "name": "Fluminense",
@@ -561,8 +561,8 @@
         "shortName": "MIR",
         "badge": "https://s.sde.globo.com/media/organizations/2026/07/17/MIrassol.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 0,
+      "scoreAway": 0
     },
     {
       "id": 346305,
