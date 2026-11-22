@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T20:39:33.765Z",
+  "updatedAt": "2026-11-22T00:40:50.572Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 36,
@@ -14,20 +14,20 @@
         "shortName": "FLA",
         "badge": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
       },
-      "points": 79,
+      "points": 80,
       "matches": 36,
       "wins": 24,
-      "draws": 7,
-      "losses": 5,
-      "goalsFor": 73,
+      "draws": 8,
+      "losses": 4,
+      "goalsFor": 74,
       "goalsAgainst": 31,
-      "goalDifference": 42,
+      "goalDifference": 43,
       "recentForm": [
         "W",
         "W",
         "W",
         "W",
-        "L"
+        "D"
       ]
     },
     {
@@ -37,20 +37,20 @@
         "shortName": "PAL",
         "badge": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
       },
-      "points": 76,
+      "points": 74,
       "matches": 36,
-      "wins": 22,
-      "draws": 10,
+      "wins": 21,
+      "draws": 11,
       "losses": 4,
       "goalsFor": 64,
-      "goalsAgainst": 25,
-      "goalDifference": 39,
+      "goalsAgainst": 26,
+      "goalDifference": 38,
       "recentForm": [
         "W",
         "D",
         "W",
         "L",
-        "W"
+        "D"
       ]
     },
     {
@@ -60,10 +60,10 @@
         "shortName": "CRU",
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
       },
-      "points": 63,
-      "matches": 35,
+      "points": 64,
+      "matches": 36,
       "wins": 19,
-      "draws": 6,
+      "draws": 7,
       "losses": 10,
       "goalsFor": 57,
       "goalsAgainst": 49,
@@ -73,7 +73,7 @@
         "W",
         "W",
         "W",
-        "W"
+        "D"
       ]
     },
     {
@@ -102,29 +102,6 @@
     {
       "position": 5,
       "team": {
-        "name": "Bahia",
-        "shortName": "BAH",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
-      },
-      "points": 55,
-      "matches": 36,
-      "wins": 14,
-      "draws": 13,
-      "losses": 9,
-      "goalsFor": 50,
-      "goalsAgainst": 45,
-      "goalDifference": 5,
-      "recentForm": [
-        "D",
-        "W",
-        "L",
-        "D",
-        "D"
-      ]
-    },
-    {
-      "position": 6,
-      "team": {
         "name": "Athletico-PR",
         "shortName": "CAP",
         "badge": "https://s.sde.globo.com/media/organizations/2026/01/07/Athletico-PR.svg"
@@ -142,6 +119,29 @@
         "D",
         "L",
         "L",
+        "L"
+      ]
+    },
+    {
+      "position": 6,
+      "team": {
+        "name": "Bahia",
+        "shortName": "BAH",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      },
+      "points": 54,
+      "matches": 36,
+      "wins": 14,
+      "draws": 12,
+      "losses": 10,
+      "goalsFor": 50,
+      "goalsAgainst": 46,
+      "goalDifference": 4,
+      "recentForm": [
+        "D",
+        "W",
+        "L",
+        "D",
         "L"
       ]
     },
@@ -240,6 +240,29 @@
     {
       "position": 11,
       "team": {
+        "name": "Coritiba",
+        "shortName": "CFC",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "points": 45,
+      "matches": 36,
+      "wins": 12,
+      "draws": 9,
+      "losses": 15,
+      "goalsFor": 41,
+      "goalsAgainst": 52,
+      "goalDifference": -11,
+      "recentForm": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "W"
+      ]
+    },
+    {
+      "position": 12,
+      "team": {
         "name": "São Paulo",
         "shortName": "SAO",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
@@ -258,29 +281,6 @@
         "L",
         "D",
         "L"
-      ]
-    },
-    {
-      "position": 12,
-      "team": {
-        "name": "Coritiba",
-        "shortName": "CFC",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
-      },
-      "points": 43,
-      "matches": 36,
-      "wins": 11,
-      "draws": 10,
-      "losses": 15,
-      "goalsFor": 40,
-      "goalsAgainst": 52,
-      "goalDifference": -12,
-      "recentForm": [
-        "L",
-        "W",
-        "L",
-        "L",
-        "D"
       ]
     },
     {
@@ -451,20 +451,20 @@
         "shortName": "CHA",
         "badge": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
       },
-      "points": 21,
-      "matches": 35,
+      "points": 22,
+      "matches": 36,
       "wins": 4,
-      "draws": 9,
+      "draws": 10,
       "losses": 22,
       "goalsFor": 33,
       "goalsAgainst": 72,
       "goalDifference": -39,
       "recentForm": [
-        "L",
         "W",
         "L",
         "L",
-        "L"
+        "L",
+        "D"
       ]
     }
   ],
@@ -473,7 +473,7 @@
       "id": 346304,
       "round": 36,
       "dateTime": "2026-11-21T16:30",
-      "status": "live",
+      "status": "finished",
       "venue": "Nubank Parque",
       "home": {
         "name": "Palmeiras",
@@ -486,13 +486,13 @@
         "badge": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
       },
       "scoreHome": 1,
-      "scoreAway": 0
+      "scoreAway": 1
     },
     {
       "id": 346309,
       "round": 36,
       "dateTime": "2026-11-21T17:30",
-      "status": "live",
+      "status": "finished",
       "venue": "Arena Fonte Nova",
       "home": {
         "name": "Bahia",
@@ -505,13 +505,13 @@
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
       },
       "scoreHome": 0,
-      "scoreAway": 0
+      "scoreAway": 1
     },
     {
       "id": 346310,
       "round": 36,
       "dateTime": "2026-11-21T21:00",
-      "status": "scheduled",
+      "status": "live",
       "venue": "Arena Condá",
       "home": {
         "name": "Chapecoense",
@@ -523,8 +523,8 @@
         "shortName": "CRU",
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 0,
+      "scoreAway": 0
     },
     {
       "id": 346308,
