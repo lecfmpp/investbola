@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T21:40:50.321Z",
+  "updatedAt": "2026-11-23T02:19:59.553Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 36,
@@ -83,20 +83,20 @@
         "shortName": "FLU",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
       },
-      "points": 61,
+      "points": 63,
       "matches": 36,
-      "wins": 17,
-      "draws": 10,
+      "wins": 18,
+      "draws": 9,
       "losses": 9,
-      "goalsFor": 56,
+      "goalsFor": 57,
       "goalsAgainst": 42,
-      "goalDifference": 14,
+      "goalDifference": 15,
       "recentForm": [
         "L",
         "W",
         "W",
         "W",
-        "D"
+        "W"
       ]
     },
     {
@@ -171,6 +171,29 @@
     {
       "position": 8,
       "team": {
+        "name": "Bragantino",
+        "shortName": "RBB",
+        "badge": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+      },
+      "points": 50,
+      "matches": 36,
+      "wins": 14,
+      "draws": 8,
+      "losses": 14,
+      "goalsFor": 46,
+      "goalsAgainst": 41,
+      "goalDifference": 5,
+      "recentForm": [
+        "L",
+        "W",
+        "W",
+        "L",
+        "W"
+      ]
+    },
+    {
+      "position": 9,
+      "team": {
         "name": "Santos",
         "shortName": "SAN",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
@@ -192,29 +215,6 @@
       ]
     },
     {
-      "position": 9,
-      "team": {
-        "name": "Bragantino",
-        "shortName": "RBB",
-        "badge": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
-      },
-      "points": 47,
-      "matches": 35,
-      "wins": 13,
-      "draws": 8,
-      "losses": 14,
-      "goalsFor": 45,
-      "goalsAgainst": 41,
-      "goalDifference": 4,
-      "recentForm": [
-        "D",
-        "L",
-        "W",
-        "W",
-        "L"
-      ]
-    },
-    {
       "position": 10,
       "team": {
         "name": "Vasco",
@@ -222,19 +222,19 @@
         "badge": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
       },
       "points": 47,
-      "matches": 35,
+      "matches": 36,
       "wins": 13,
       "draws": 8,
-      "losses": 14,
+      "losses": 15,
       "goalsFor": 47,
-      "goalsAgainst": 51,
-      "goalDifference": -4,
+      "goalsAgainst": 52,
+      "goalDifference": -5,
       "recentForm": [
-        "L",
         "W",
         "L",
         "W",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -309,29 +309,6 @@
     {
       "position": 14,
       "team": {
-        "name": "Mirassol",
-        "shortName": "MIR",
-        "badge": "https://s.sde.globo.com/media/organizations/2026/07/17/MIrassol.svg"
-      },
-      "points": 42,
-      "matches": 36,
-      "wins": 10,
-      "draws": 12,
-      "losses": 14,
-      "goalsFor": 39,
-      "goalsAgainst": 48,
-      "goalDifference": -9,
-      "recentForm": [
-        "D",
-        "L",
-        "W",
-        "D",
-        "D"
-      ]
-    },
-    {
-      "position": 15,
-      "team": {
         "name": "Vitória",
         "shortName": "VIT",
         "badge": "https://s.sde.globo.com/media/organizations/2025/12/18/Vitoria_2025.svg"
@@ -350,6 +327,29 @@
         "L",
         "L",
         "W"
+      ]
+    },
+    {
+      "position": 15,
+      "team": {
+        "name": "Mirassol",
+        "shortName": "MIR",
+        "badge": "https://s.sde.globo.com/media/organizations/2026/07/17/MIrassol.svg"
+      },
+      "points": 41,
+      "matches": 36,
+      "wins": 10,
+      "draws": 11,
+      "losses": 15,
+      "goalsFor": 39,
+      "goalsAgainst": 49,
+      "goalDifference": -10,
+      "recentForm": [
+        "D",
+        "L",
+        "W",
+        "D",
+        "L"
       ]
     },
     {
@@ -549,7 +549,7 @@
       "id": 346301,
       "round": 36,
       "dateTime": "2026-11-22T18:30",
-      "status": "live",
+      "status": "finished",
       "venue": "Maracanã",
       "home": {
         "name": "Fluminense",
@@ -561,14 +561,14 @@
         "shortName": "MIR",
         "badge": "https://s.sde.globo.com/media/organizations/2026/07/17/MIrassol.svg"
       },
-      "scoreHome": 0,
+      "scoreHome": 1,
       "scoreAway": 0
     },
     {
       "id": 346305,
       "round": 36,
       "dateTime": "2026-11-22T19:30",
-      "status": "scheduled",
+      "status": "finished",
       "venue": "Cícero de Souza Marques",
       "home": {
         "name": "Bragantino",
@@ -580,8 +580,8 @@
         "shortName": "VAS",
         "badge": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 1,
+      "scoreAway": 0
     },
     {
       "id": 346307,
