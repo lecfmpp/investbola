@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T22:29:17.784Z",
+  "updatedAt": "2026-11-24T06:22:00.490Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 36,
@@ -199,19 +199,19 @@
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
       },
       "points": 50,
-      "matches": 35,
+      "matches": 36,
       "wins": 13,
       "draws": 11,
-      "losses": 11,
+      "losses": 12,
       "goalsFor": 51,
-      "goalsAgainst": 49,
-      "goalDifference": 2,
+      "goalsAgainst": 51,
+      "goalDifference": 0,
       "recentForm": [
-        "W",
         "D",
         "D",
         "L",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -240,6 +240,29 @@
     {
       "position": 11,
       "team": {
+        "name": "São Paulo",
+        "shortName": "SAO",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
+      },
+      "points": 45,
+      "matches": 36,
+      "wins": 12,
+      "draws": 9,
+      "losses": 15,
+      "goalsFor": 40,
+      "goalsAgainst": 41,
+      "goalDifference": -1,
+      "recentForm": [
+        "D",
+        "L",
+        "D",
+        "L",
+        "D"
+      ]
+    },
+    {
+      "position": 12,
+      "team": {
         "name": "Coritiba",
         "shortName": "CFC",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
@@ -261,76 +284,76 @@
       ]
     },
     {
-      "position": 12,
-      "team": {
-        "name": "São Paulo",
-        "shortName": "SAO",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
-      },
-      "points": 44,
-      "matches": 35,
-      "wins": 12,
-      "draws": 8,
-      "losses": 15,
-      "goalsFor": 39,
-      "goalsAgainst": 40,
-      "goalDifference": -1,
-      "recentForm": [
-        "W",
-        "D",
-        "L",
-        "D",
-        "L"
-      ]
-    },
-    {
       "position": 13,
-      "team": {
-        "name": "Botafogo",
-        "shortName": "BOT",
-        "badge": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
-      },
-      "points": 42,
-      "matches": 35,
-      "wins": 11,
-      "draws": 9,
-      "losses": 15,
-      "goalsFor": 46,
-      "goalsAgainst": 57,
-      "goalDifference": -11,
-      "recentForm": [
-        "W",
-        "L",
-        "L",
-        "W",
-        "L"
-      ]
-    },
-    {
-      "position": 14,
       "team": {
         "name": "Vitória",
         "shortName": "VIT",
         "badge": "https://s.sde.globo.com/media/organizations/2025/12/18/Vitoria_2025.svg"
       },
-      "points": 41,
-      "matches": 35,
-      "wins": 11,
+      "points": 44,
+      "matches": 36,
+      "wins": 12,
       "draws": 8,
       "losses": 16,
-      "goalsFor": 37,
-      "goalsAgainst": 52,
-      "goalDifference": -15,
+      "goalsFor": 42,
+      "goalsAgainst": 54,
+      "goalDifference": -12,
       "recentForm": [
         "D",
-        "D",
         "L",
         "L",
+        "W",
         "W"
       ]
     },
     {
+      "position": 14,
+      "team": {
+        "name": "Botafogo",
+        "shortName": "BOT",
+        "badge": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      },
+      "points": 43,
+      "matches": 36,
+      "wins": 11,
+      "draws": 10,
+      "losses": 15,
+      "goalsFor": 47,
+      "goalsAgainst": 58,
+      "goalDifference": -11,
+      "recentForm": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "D"
+      ]
+    },
+    {
       "position": 15,
+      "team": {
+        "name": "Grêmio",
+        "shortName": "GRE",
+        "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
+      },
+      "points": 41,
+      "matches": 36,
+      "wins": 10,
+      "draws": 11,
+      "losses": 15,
+      "goalsFor": 40,
+      "goalsAgainst": 47,
+      "goalDifference": -7,
+      "recentForm": [
+        "W",
+        "W",
+        "L",
+        "D",
+        "W"
+      ]
+    },
+    {
+      "position": 16,
       "team": {
         "name": "Mirassol",
         "shortName": "MIR",
@@ -353,7 +376,7 @@
       ]
     },
     {
-      "position": 16,
+      "position": 17,
       "team": {
         "name": "Corinthians",
         "shortName": "COR",
@@ -376,49 +399,26 @@
       ]
     },
     {
-      "position": 17,
+      "position": 18,
       "team": {
         "name": "Internacional",
         "shortName": "INT",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
       },
       "points": 38,
-      "matches": 35,
+      "matches": 36,
       "wins": 9,
       "draws": 11,
-      "losses": 15,
-      "goalsFor": 39,
-      "goalsAgainst": 44,
-      "goalDifference": -5,
+      "losses": 16,
+      "goalsFor": 41,
+      "goalsAgainst": 49,
+      "goalDifference": -8,
       "recentForm": [
-        "L",
         "W",
         "L",
         "W",
+        "L",
         "L"
-      ]
-    },
-    {
-      "position": 18,
-      "team": {
-        "name": "Grêmio",
-        "shortName": "GRE",
-        "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
-      },
-      "points": 38,
-      "matches": 35,
-      "wins": 9,
-      "draws": 11,
-      "losses": 15,
-      "goalsFor": 38,
-      "goalsAgainst": 47,
-      "goalDifference": -9,
-      "recentForm": [
-        "L",
-        "W",
-        "W",
-        "L",
-        "D"
       ]
     },
     {
@@ -587,7 +587,7 @@
       "id": 346307,
       "round": 36,
       "dateTime": "2026-11-23T19:30",
-      "status": "scheduled",
+      "status": "finished",
       "venue": "Beira-Rio",
       "home": {
         "name": "Internacional",
@@ -599,14 +599,14 @@
         "shortName": "VIT",
         "badge": "https://s.sde.globo.com/media/organizations/2025/12/18/Vitoria_2025.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 2,
+      "scoreAway": 5
     },
     {
       "id": 346302,
       "round": 36,
       "dateTime": "2026-11-23T20:00",
-      "status": "scheduled",
+      "status": "finished",
       "venue": "Nilton Santos (Engenhão)",
       "home": {
         "name": "Botafogo",
@@ -618,14 +618,14 @@
         "shortName": "SAO",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 1,
+      "scoreAway": 1
     },
     {
       "id": 346303,
       "round": 36,
       "dateTime": "2026-11-23T21:00",
-      "status": "scheduled",
+      "status": "finished",
       "venue": "Morumbis",
       "home": {
         "name": "Santos",
@@ -637,8 +637,8 @@
         "shortName": "GRE",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 0,
+      "scoreAway": 2
     },
     {
       "id": 346306,
