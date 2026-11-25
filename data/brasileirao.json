@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T18:16:13.377Z",
+  "updatedAt": "2026-11-25T02:35:44.416Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 36,
@@ -38,19 +38,19 @@
         "badge": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
       },
       "points": 74,
-      "matches": 36,
+      "matches": 37,
       "wins": 21,
       "draws": 11,
-      "losses": 4,
+      "losses": 5,
       "goalsFor": 64,
-      "goalsAgainst": 26,
-      "goalDifference": 38,
+      "goalsAgainst": 29,
+      "goalDifference": 35,
       "recentForm": [
-        "W",
         "D",
         "W",
         "L",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -451,20 +451,20 @@
         "shortName": "CHA",
         "badge": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
       },
-      "points": 21,
-      "matches": 36,
-      "wins": 4,
+      "points": 24,
+      "matches": 37,
+      "wins": 5,
       "draws": 9,
       "losses": 23,
-      "goalsFor": 34,
+      "goalsFor": 37,
       "goalsAgainst": 74,
-      "goalDifference": -40,
+      "goalDifference": -37,
       "recentForm": [
-        "W",
         "L",
         "L",
         "L",
-        "L"
+        "L",
+        "W"
       ]
     }
   ],
