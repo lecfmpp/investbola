@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T21:12:17.974Z",
+  "updatedAt": "2026-11-26T03:38:13.553Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 36,
@@ -152,19 +152,19 @@
         "shortName": "CAM",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
       },
-      "points": 51,
-      "matches": 35,
+      "points": 52,
+      "matches": 36,
       "wins": 14,
-      "draws": 9,
+      "draws": 10,
       "losses": 12,
-      "goalsFor": 44,
-      "goalsAgainst": 40,
+      "goalsFor": 45,
+      "goalsAgainst": 41,
       "goalDifference": 4,
       "recentForm": [
-        "W",
         "L",
         "L",
         "L",
+        "D",
         "D"
       ]
     },
@@ -332,6 +332,29 @@
     {
       "position": 15,
       "team": {
+        "name": "Corinthians",
+        "shortName": "COR",
+        "badge": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      },
+      "points": 41,
+      "matches": 36,
+      "wins": 10,
+      "draws": 11,
+      "losses": 15,
+      "goalsFor": 41,
+      "goalsAgainst": 43,
+      "goalDifference": -2,
+      "recentForm": [
+        "L",
+        "W",
+        "D",
+        "W",
+        "D"
+      ]
+    },
+    {
+      "position": 16,
+      "team": {
         "name": "Grêmio",
         "shortName": "GRE",
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
@@ -353,7 +376,7 @@
       ]
     },
     {
-      "position": 16,
+      "position": 17,
       "team": {
         "name": "Mirassol",
         "shortName": "MIR",
@@ -373,29 +396,6 @@
         "W",
         "D",
         "L"
-      ]
-    },
-    {
-      "position": 17,
-      "team": {
-        "name": "Corinthians",
-        "shortName": "COR",
-        "badge": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
-      },
-      "points": 40,
-      "matches": 35,
-      "wins": 10,
-      "draws": 10,
-      "losses": 15,
-      "goalsFor": 40,
-      "goalsAgainst": 42,
-      "goalDifference": -2,
-      "recentForm": [
-        "D",
-        "L",
-        "W",
-        "D",
-        "W"
       ]
     },
     {
@@ -644,7 +644,7 @@
       "id": 346306,
       "round": 36,
       "dateTime": "2026-11-25T20:00",
-      "status": "scheduled",
+      "status": "finished",
       "venue": "Arena MRV",
       "home": {
         "name": "Atlético-MG",
@@ -656,8 +656,8 @@
         "shortName": "COR",
         "badge": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 1,
+      "scoreAway": 1
     }
   ]
 }
