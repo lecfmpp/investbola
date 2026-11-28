@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T22:47:08.648Z",
+  "updatedAt": "2026-11-28T04:34:05.117Z",
   "competitionName": "Campeonato Brasileiro 2026",
   "round": {
     "number": 37,
@@ -60,14 +60,14 @@
         "shortName": "CRU",
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
       },
-      "points": 66,
-      "matches": 36,
-      "wins": 20,
+      "points": 69,
+      "matches": 37,
+      "wins": 21,
       "draws": 6,
       "losses": 10,
-      "goalsFor": 59,
+      "goalsFor": 60,
       "goalsAgainst": 50,
-      "goalDifference": 9,
+      "goalDifference": 10,
       "recentForm": [
         "W",
         "W",
@@ -84,19 +84,19 @@
         "badge": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
       },
       "points": 63,
-      "matches": 36,
+      "matches": 37,
       "wins": 18,
       "draws": 9,
-      "losses": 9,
+      "losses": 10,
       "goalsFor": 57,
-      "goalsAgainst": 42,
-      "goalDifference": 15,
+      "goalsAgainst": 43,
+      "goalDifference": 14,
       "recentForm": [
-        "L",
         "W",
         "W",
         "W",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -511,7 +511,7 @@
       "id": 346271,
       "round": 37,
       "dateTime": "2026-11-27T20:00",
-      "status": "scheduled",
+      "status": "finished",
       "venue": "Maracanã",
       "home": {
         "name": "Fluminense",
@@ -523,8 +523,8 @@
         "shortName": "CRU",
         "badge": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
       },
-      "scoreHome": null,
-      "scoreAway": null
+      "scoreHome": 0,
+      "scoreAway": 1
     },
     {
       "id": 346272,
